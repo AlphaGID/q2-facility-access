@@ -1,0 +1,621 @@
+ward_code,ward_name,lga_code,lga_name,total_population,population_under5,population_source
+W0021,Ekeluno,LGA071,Maltsimi,6698.0,1014.0,Projected 2026 from 2006 census
+W0029,Katzano,LGA071,Maltsimi,12718.0,2321.0,Gridded population estimate 2024
+W0030,Olumadu,LGA071,Maltsimi,16521.0,2961.0,Projected 2026 from 2006 census
+W0041,Dutkoko,LGA071,Maltsimi,41424.0,6836.0,Projected 2026 from 2006 census
+W0005,Oludeli,LGA061,Katmaba,6328.0,1113.0,Projected 2026 from 2006 census
+W0006,Maltsisa,LGA061,Katmaba,57154.0,9109.0,Gridded population estimate 2024
+W0007,Enunasa,LGA061,Katmaba,27475.0,4581.0,Projected 2026 from 2006 census
+W0008,Shaluri,LGA104,Uzoluni,7290.0,1106.0,Projected 2026 from 2006 census
+W0025,Dutrimi,LGA104,Uzoluni,21898.0,3311.0,Projected 2026 from 2006 census
+W0031,Loklude,LGA104,Uzoluni,11375.0,1996.0,Projected 2026 from 2006 census
+W0039,Funngoli,LGA104,Uzoluni,24916.0,4111.0,Projected 2026 from 2006 census
+W0040,Yelluna,LGA104,Uzoluni,30616.0,5479.0,Projected 2026 from 2006 census
+W0046,Banshali,LGA104,Uzoluni,18654.0,3357.0,Gridded population estimate 2024
+W0033,Baukeshi,LGA086,Riylude-North,8576.0,1335.0,Projected 2026 from 2006 census
+W0036,Baulako,LGA086,Riylude-North,70555.0,12960.0,Projected 2026 from 2006 census
+W0050,Dutmidu,LGA086,Riylude-North,17715.0,2644.0,Gridded population estimate 2024
+W0053,Uzobele,LGA086,Riylude-North,10511.0,1676.0,Gridded population estimate 2024
+W0062,Ibarija,LGA086,Riylude-North,32661.0,5130.0,Projected 2026 from 2006 census
+W0012,Hanmade,LGA051,Irolufa,26381.0,4620.0,Gridded population estimate 2024
+W0015,Tamyowa,LGA051,Irolufa,23194.0,4157.0,Projected 2026 from 2006 census
+W0016,Oluwasa,LGA051,Irolufa,41061.0,6504.0,Gridded population estimate 2024
+W0018,Wurjimi,LGA051,Irolufa,19041.0,3508.0,Projected 2026 from 2006 census
+W0022,Gwobedu,LGA051,Irolufa,27132.0,4123.0,Gridded population estimate 2024
+W0028,Kuknuno,LGA051,Irolufa,19120.0,3286.0,Gridded population estimate 2024
+W0032,Nasnuri,LGA051,Irolufa,39662.0,6367.0,Gridded population estimate 2024
+W0002,Wurshaba,LGA087,Shajima,78192.0,14179.0,Projected 2026 from 2006 census
+W0019,Aderita,LGA087,Shajima,73368.0,12037.0,Projected 2026 from 2006 census
+W0020,Joswaja,LGA087,Shajima,10614.0,1831.0,Gridded population estimate 2024
+W0023,Sokdema,LGA087,Shajima,17448.0,3131.0,Projected 2026 from 2006 census
+W0024,Kadrani,LGA087,Shajima,17342.0,3202.0,Gridded population estimate 2024
+W0042,Supnami,LGA047,Ibabani,23375.0,4252.0,Projected 2026 from 2006 census
+W0054,Lokngoli,LGA047,Ibabani,9219.0,1440.0,Projected 2026 from 2006 census
+W0064,Hantside,LGA047,Ibabani,10724.0,1649.0,Projected 2026 from 2006 census
+W0067,Zambeba,LGA047,Ibabani,20011.0,2987.0,Gridded population estimate 2024
+W0071,Fundeyi,LGA047,Ibabani,21672.0,3914.0,Projected 2026 from 2006 census
+W0001,Ibasashi,LGA034,Ekejisa-North,15636.0,2291.0,Projected 2026 from 2006 census
+W0003,Josyole,LGA034,Ekejisa-North,21092.0,3247.0,Gridded population estimate 2024
+W0004,Lokdushi,LGA034,Ekejisa-North,4841.0,863.0,Projected 2026 from 2006 census
+W0010,Sokjitu,LGA034,Ekejisa-North,15308.0,2374.0,Projected 2026 from 2006 census
+W0011,Lokngodu,LGA034,Ekejisa-North,36966.0,6524.0,Gridded population estimate 2024
+W0014,Maljiba,LGA034,Ekejisa-North,29801.0,4884.0,Projected 2026 from 2006 census
+W0151,Ekerini,LGA109,Yelkefa,30526.0,4939.0,Projected 2026 from 2006 census
+W0169,Adelawa,LGA109,Yelkefa,13033.0,1973.0,Projected 2026 from 2006 census
+W0177,Hanlana,LGA109,Yelkefa,45484.0,7265.0,Gridded population estimate 2024
+W0180,Irorawa,LGA109,Yelkefa,39550.0,6156.0,Projected 2026 from 2006 census
+W0181,Baumashi,LGA109,Yelkefa,27793.0,5029.0,Projected 2026 from 2006 census
+W0193,Gwosani,LGA109,Yelkefa,21803.0,3614.0,Projected 2026 from 2006 census
+W0196,Naslama,LGA109,Yelkefa,12607.0,2091.0,Projected 2026 from 2006 census
+W0198,Banluma,LGA109,Yelkefa,24412.0,3832.0,Projected 2026 from 2006 census
+W0069,Katzale,LGA063,Lokbaru,18519.0,3389.0,Projected 2026 from 2006 census
+W0112,Ekebako,LGA063,Lokbaru,29711.0,4602.0,Projected 2026 from 2006 census
+W0113,Supzaja,LGA063,Lokbaru,64114.0,10094.0,Projected 2026 from 2006 census
+W0126,Banmashi,LGA063,Lokbaru,14494.0,2109.0,Projected 2026 from 2006 census
+W0117,Eketsino,LGA010,Agbnumi,13476.0,2477.0,Projected 2026 from 2006 census
+W0143,Okenami,LGA010,Agbnumi,33167.0,4947.0,Gridded population estimate 2024
+W0150,Wurshama,LGA010,Agbnumi,32530.0,4857.0,Projected 2026 from 2006 census
+W0066,Zamyoru,LGA005,Agbjide,38033.0,6227.0,Gridded population estimate 2024
+W0078,Kadjisa,LGA005,Agbjide,4483.0,819.0,Projected 2026 from 2006 census
+W0084,Wurdesa,LGA005,Agbjide,47436.0,8228.0,Projected 2026 from 2006 census
+W0088,Kadjina,LGA005,Agbjide,37994.0,5844.0,Gridded population estimate 2024
+W0094,Jostsili,LGA092,Tambemi,18434.0,2686.0,Gridded population estimate 2024
+W0122,Yobtiyi,LGA092,Tambemi,14794.0,2319.0,Projected 2026 from 2006 census
+W0127,Gwotidu,LGA092,Tambemi,6917.0,1250.0,Gridded population estimate 2024
+W0131,Agbtifa,LGA092,Tambemi,12792.0,2262.0,Gridded population estimate 2024
+W0137,Funtsiwa,LGA092,Tambemi,12133.0,2240.0,Projected 2026 from 2006 census
+W0083,Adetidu,LGA041,Gwolama,46928.0,8295.0,Projected 2026 from 2006 census
+W0096,Malsana,LGA041,Gwolama,,,Gridded population estimate 2024
+W0110,Ekeluwa,LGA041,Gwolama,48374.0,8707.0,Projected 2026 from 2006 census
+W0111,Lokngowa,LGA041,Gwolama,41058.0,6408.0,Projected 2026 from 2006 census
+W0138,Banrija,LGA107,Wurmashi,26062.0,4715.0,Gridded population estimate 2024
+W0139,Katshale,LGA107,Wurmashi,,,Projected 2026 from 2006 census
+W0154,Hanluta,LGA107,Wurmashi,26302.0,3842.0,Projected 2026 from 2006 census
+W0161,Birwari,LGA107,Wurmashi,11243.0,1678.0,Projected 2026 from 2006 census
+W0171,Olubewo,LGA107,Wurmashi,14745.0,2499.0,Gridded population estimate 2024
+W0176,Katwama,LGA107,Wurmashi,10539.0,1828.0,Gridded population estimate 2024
+W0052,Aderimi,LGA121,Zamtsiru,38344.0,6850.0,Projected 2026 from 2006 census
+W0061,Agbsatu,LGA121,Zamtsiru,10883.0,1861.0,Gridded population estimate 2024
+W0072,Riysano,LGA121,Zamtsiru,46190.0,8511.0,Projected 2026 from 2006 census
+W0098,Lokderi,LGA120,Zamnuni-North,32820.0,5693.0,Projected 2026 from 2006 census
+W0115,Yobzasa,LGA120,Zamnuni-North,27991.0,4785.0,Projected 2026 from 2006 census
+W0124,Riynushi,LGA120,Zamnuni-North,30619.0,4688.0,Gridded population estimate 2024
+W0013,Baujina,LGA027,Daizade,43228.0,6799.0,Projected 2026 from 2006 census
+W0035,Baujimi,LGA027,Daizade,50218.0,8617.0,Gridded population estimate 2024
+W0044,Supmano,LGA027,Daizade,36589.0,6205.0,Projected 2026 from 2006 census
+W0045,Dainali,LGA027,Daizade,24443.0,4143.0,Projected 2026 from 2006 census
+W0048,Kadbemi,LGA027,Daizade,32555.0,4893.0,Projected 2026 from 2006 census
+W0056,Okedeni,LGA102,Umumitu,59574.0,8982.0,Gridded population estimate 2024
+W0057,Bantsiri,LGA102,Umumitu,24269.0,3710.0,Projected 2026 from 2006 census
+W0058,Tivsawo,LGA102,Umumitu,22734.0,3595.0,Projected 2026 from 2006 census
+W0070,Zamkono,LGA102,Umumitu,18303.0,2901.0,Projected 2026 from 2006 census
+W0085,Banrana,LGA102,Umumitu,9338.0,1516.0,Projected 2026 from 2006 census
+W0097,Kukjimi,LGA102,Umumitu,19599.0,3474.0,Projected 2026 from 2006 census
+W0080,Ibanana,LGA004,Adenaja,13629.0,2377.0,Projected 2026 from 2006 census
+W0087,Ibabewo,LGA004,Adenaja,18269.0,3321.0,Projected 2026 from 2006 census
+W0095,Tamdumi,LGA004,Adenaja,21185.0,3572.0,Projected 2026 from 2006 census
+W0107,Ibabeno,LGA004,Adenaja,61801.0,10010.0,Projected 2026 from 2006 census
+W0116,Tamdule,LGA004,Adenaja,16627.0,2874.0,Projected 2026 from 2006 census
+W0123,Kuktsino,LGA004,Adenaja,13386.0,2276.0,Projected 2026 from 2006 census
+W0130,Okenawa,LGA004,Adenaja,13430.0,2201.0,Projected 2026 from 2006 census
+W0017,Kadyodu,LGA015,Banluta,29162.0,4895.0,Projected 2026 from 2006 census
+W0026,Adenutu,LGA015,Banluta,28518.0,4669.0,Projected 2026 from 2006 census
+W0027,Irobade,LGA015,Banluta,15603.0,2363.0,Projected 2026 from 2006 census
+W0034,Dutkoshi,LGA015,Banluta,21796.0,3203.0,Projected 2026 from 2006 census
+W0049,Nastili,LGA035,Enumade-West,23744.0,3918.0,Projected 2026 from 2006 census
+W0051,Okederi,LGA035,Enumade-West,67931.0,10620.0,Projected 2026 from 2006 census
+W0065,Wurlawo,LGA035,Enumade-West,32751.0,5053.0,Projected 2026 from 2006 census
+W0068,Hanzami,LGA035,Enumade-West,39282.0,6477.0,Projected 2026 from 2006 census
+W0077,Hanbena,LGA035,Enumade-West,31884.0,5339.0,Projected 2026 from 2006 census
+W0081,Umutiri,LGA035,Enumade-West,18226.0,3180.0,Gridded population estimate 2024
+W0128,Irodefa,LGA112,Yobkosa-South,196742.0,32527.0,Projected 2026 from 2006 census
+W0134,Zammiwa,LGA112,Yobkosa-South,133322.0,22069.0,Projected 2026 from 2006 census
+W0152,Iroketu,LGA112,Yobkosa-South,47082.0,7470.0,Projected 2026 from 2006 census
+W0157,Zamngono,LGA112,Yobkosa-South,53970.0,9176.0,Projected 2026 from 2006 census
+W0185,Ekezali,LGA112,Yobkosa-South,60262.0,9549.0,Gridded population estimate 2024
+W0239,Daizaru,LGA008,Agbmita,45948.0,7423.0,Gridded population estimate 2024
+W0257,Kadbetu,LGA008,Agbmita,43337.0,6303.0,Projected 2026 from 2006 census
+W0258,Agbratu,LGA008,Agbmita,54474.0,8358.0,Projected 2026 from 2006 census
+W0261,Uzowana,LGA008,Agbmita,133916.0,23796.0,Gridded population estimate 2024
+W0275,Tivlawa,LGA008,Agbmita,15316.0,2809.0,Projected 2026 from 2006 census
+W0280,Gwoyota,LGA008,Agbmita,48785.0,8597.0,Projected 2026 from 2006 census
+W0282,Enunayi,LGA008,Agbmita,98702.0,17568.0,Gridded population estimate 2024
+W0295,Dainani,LGA008,Agbmita,44974.0,6717.0,Projected 2026 from 2006 census
+W0189,Katlano,LGA070,Malmaba,209177.0,30640.0,Gridded population estimate 2024
+W0208,Kukyoba,LGA070,Malmaba,71525.0,12802.0,Projected 2026 from 2006 census
+W0212,Wurngowo,LGA070,Malmaba,115247.0,16782.0,Projected 2026 from 2006 census
+W0216,Jossafa,LGA070,Malmaba,95712.0,17461.0,Gridded population estimate 2024
+W0240,Daiyole,LGA070,Malmaba,88866.0,15662.0,Gridded population estimate 2024
+W0184,Riysafa,LGA091,Supyoshi-East,145691.0,26731.0,Gridded population estimate 2024
+W0247,Daisale,LGA091,Supyoshi-East,54735.0,9229.0,Projected 2026 from 2006 census
+W0249,Suplali,LGA091,Supyoshi-East,63555.0,11655.0,Gridded population estimate 2024
+W0259,Adejisa,LGA091,Supyoshi-East,122654.0,20400.0,Gridded population estimate 2024
+W0164,Loknuri,LGA044,Hanraja,109076.0,19063.0,Gridded population estimate 2024
+W0170,Dutkota,LGA044,Hanraja,45234.0,6919.0,Gridded population estimate 2024
+W0187,Kuktsini,LGA044,Hanraja,159257.0,27738.0,Gridded population estimate 2024
+W0197,Tivjija,LGA044,Hanraja,70065.0,10763.0,Projected 2026 from 2006 census
+W0191,Riyriru,LGA056,Josduri-South,43656.0,6349.0,Projected 2026 from 2006 census
+W0214,Gwonade,LGA056,Josduri-South,322123.0,55173.0,Projected 2026 from 2006 census
+W0225,Sokshayi,LGA056,Josduri-South,280263.0,41460.0,Gridded population estimate 2024
+W0246,Tivbedu,LGA056,Josduri-South,14461.0,2586.0,Projected 2026 from 2006 census
+W0243,Joskoko,LGA039,Gwodele-South,29574.0,4486.0,Gridded population estimate 2024
+W0265,Josbesa,LGA039,Gwodele-South,79003.0,13541.0,Projected 2026 from 2006 census
+W0266,Okeshali,LGA039,Gwodele-South,39626.0,6456.0,Gridded population estimate 2024
+W0281,Tamngoba,LGA039,Gwodele-South,37386.0,6750.0,Gridded population estimate 2024
+W0283,Ekelusa,LGA039,Gwodele-South,31819.0,5804.0,Projected 2026 from 2006 census
+W0293,Olukoyi,LGA039,Gwodele-South,55159.0,10162.0,Projected 2026 from 2006 census
+W0303,Daidushi,LGA039,Gwodele-South,50472.0,8119.0,Projected 2026 from 2006 census
+W0310,Umubeli,LGA039,Gwodele-South,145272.0,24374.0,Projected 2026 from 2006 census
+W0090,Bannayi,LGA118,Zamkeri,19538.0,3614.0,Gridded population estimate 2024
+W0099,Dutmili,LGA118,Zamkeri,27064.0,4746.0,Gridded population estimate 2024
+W0100,Umuwata,LGA118,Zamkeri,9017.0,1520.0,Gridded population estimate 2024
+W0105,Uzoriyi,LGA118,Zamkeri,23926.0,4111.0,Projected 2026 from 2006 census
+W0108,Shabeli,LGA118,Zamkeri,24409.0,3931.0,Projected 2026 from 2006 census
+W0037,Ngeride,LGA055,Irosaja,20863.0,3348.0,Projected 2026 from 2006 census
+W0073,Funzako,LGA055,Irosaja,7985.0,1360.0,Projected 2026 from 2006 census
+W0074,Mallufa,LGA055,Irosaja,20101.0,3609.0,Projected 2026 from 2006 census
+W0082,Yobkosa,LGA055,Irosaja,8548.0,1534.0,Gridded population estimate 2024
+W0086,Maltsini,LGA055,Irosaja,6440.0,1032.0,Projected 2026 from 2006 census
+W0101,Dairimi,LGA055,Irosaja,23866.0,3936.0,Projected 2026 from 2006 census
+W0043,Tivlana,LGA064,Lokmata,49189.0,8230.0,Projected 2026 from 2006 census
+W0063,Josmasa,LGA064,Lokmata,12840.0,2206.0,Gridded population estimate 2024
+W0075,Okewako,LGA064,Lokmata,14993.0,2299.0,Projected 2026 from 2006 census
+W0076,Sharama,LGA064,Lokmata,16099.0,2706.0,Projected 2026 from 2006 census
+W0079,Uzotishi,LGA064,Lokmata,82183.0,14985.0,Gridded population estimate 2024
+W0092,Gwomali,LGA031,Dutzama,50260.0,7901.0,Gridded population estimate 2024
+W0093,Sharashi,LGA031,Dutzama,28647.0,4314.0,Projected 2026 from 2006 census
+W0102,Soktiri,LGA031,Dutzama,35762.0,5287.0,Gridded population estimate 2024
+W0114,Baulutu,LGA031,Dutzama,78092.0,11587.0,Gridded population estimate 2024
+W0103,Kadjino,LGA037,Enutifa,18151.0,3167.0,Gridded population estimate 2024
+W0135,Birnushi,LGA037,Enutifa,25287.0,3918.0,Projected 2026 from 2006 census
+W0136,Oluketa,LGA037,Enutifa,23296.0,4163.0,Projected 2026 from 2006 census
+W0155,Fundudu,LGA037,Enutifa,,,Projected 2026 from 2006 census
+W0156,Kuktidu,LGA037,Enutifa,14559.0,2144.0,Gridded population estimate 2024
+W0089,Naslayi,LGA062,Katrini,12625.0,1858.0,Gridded population estimate 2024
+W0104,Irotsifa,LGA062,Katrini,12906.0,2081.0,Projected 2026 from 2006 census
+W0109,Ekemari,LGA062,Katrini,15014.0,2544.0,Projected 2026 from 2006 census
+W0121,Maldefa,LGA062,Katrini,39423.0,7093.0,Projected 2026 from 2006 census
+W0009,Gwobele,LGA090,Supsama-South,22295.0,4039.0,Gridded population estimate 2024
+W0038,Zammasa,LGA090,Supsama-South,11000.0,1920.0,Projected 2026 from 2006 census
+W0047,Kuktsija,LGA090,Supsama-South,25296.0,4603.0,Projected 2026 from 2006 census
+W0055,Tivjidu,LGA090,Supsama-South,19187.0,2852.0,Gridded population estimate 2024
+W0059,Malrama,LGA090,Supsama-South,30305.0,5341.0,Gridded population estimate 2024
+W0060,Tammari,LGA090,Supsama-South,14036.0,2490.0,Projected 2026 from 2006 census
+W0141,Zamlani,LGA052,Iromashi,57075.0,8559.0,Gridded population estimate 2024
+W0142,Ngengoyi,LGA052,Iromashi,33913.0,5390.0,Gridded population estimate 2024
+W0147,Adenuru,LGA052,Iromashi,12873.0,2145.0,Projected 2026 from 2006 census
+W0158,Tivzaba,LGA052,Iromashi,27855.0,4068.0,Projected 2026 from 2006 census
+W0223,Lokngoko,LGA081,Oketsifa,17616.0,2961.0,Gridded population estimate 2024
+W0224,Uzoluwo,LGA081,Oketsifa,19272.0,2941.0,Projected 2026 from 2006 census
+W0236,Nasyowa,LGA081,Oketsifa,15838.0,2924.0,Projected 2026 from 2006 census
+W0256,Kadmaja,LGA081,Oketsifa,27456.0,4236.0,Projected 2026 from 2006 census
+W0264,Wurnude,LGA081,Oketsifa,52061.0,8286.0,Gridded population estimate 2024
+W0267,Okekede,LGA081,Oketsifa,18762.0,3202.0,Projected 2026 from 2006 census
+W0271,Oludude,LGA081,Oketsifa,9005.0,1362.0,Projected 2026 from 2006 census
+W0119,Joszayi,LGA019,Baungoshi,72302.0,11359.0,Projected 2026 from 2006 census
+W0125,Daishani,LGA019,Baungoshi,9610.0,1633.0,Gridded population estimate 2024
+W0129,Ibashadu,LGA019,Baungoshi,7693.0,1266.0,Projected 2026 from 2006 census
+W0167,Ekewafa,LGA009,Agbngoru,44270.0,6729.0,Projected 2026 from 2006 census
+W0178,Daijiwa,LGA009,Agbngoru,10786.0,1957.0,Projected 2026 from 2006 census
+W0194,Enurita,LGA009,Agbngoru,14421.0,2192.0,Gridded population estimate 2024
+W0201,Ekekowo,LGA009,Agbngoru,15984.0,2377.0,Gridded population estimate 2024
+W0207,Malkori,LGA009,Agbngoru,33013.0,5535.0,Gridded population estimate 2024
+W0149,Katbeba,LGA025,Daishako,22749.0,4201.0,Gridded population estimate 2024
+W0165,Funbaja,LGA025,Daishako,21338.0,3535.0,Projected 2026 from 2006 census
+W0175,Zamnawo,LGA025,Daishako,21571.0,3190.0,Gridded population estimate 2024
+W0188,Wurnuri,LGA025,Daishako,14815.0,2666.0,Gridded population estimate 2024
+W0205,Okelaja,LGA025,Daishako,7963.0,1195.0,Gridded population estimate 2024
+W0140,Uzosafa,LGA017,Banngono,25519.0,4665.0,Projected 2026 from 2006 census
+W0163,Bankoyi,LGA017,Banngono,9901.0,1780.0,Gridded population estimate 2024
+W0166,Agbkota,LGA017,Banngono,16828.0,2640.0,Projected 2026 from 2006 census
+W0221,Kuktiwa,LGA101,Umumayi,10875.0,1908.0,Gridded population estimate 2024
+W0245,Banlumi,LGA101,Umumayi,17915.0,3063.0,Gridded population estimate 2024
+W0248,Nasnayi,LGA101,Umumayi,40002.0,6338.0,Gridded population estimate 2024
+W0253,Olulusa,LGA101,Umumayi,8113.0,1231.0,Projected 2026 from 2006 census
+W0273,Hanlushi,LGA101,Umumayi,7093.0,1168.0,Projected 2026 from 2006 census
+W0279,Kuklasa,LGA101,Umumayi,57352.0,9814.0,Gridded population estimate 2024
+W0179,Yelrari,LGA079,Ngetija,8241.0,1480.0,Gridded population estimate 2024
+W0202,Sokmimi,LGA079,Ngetija,27319.0,4807.0,Gridded population estimate 2024
+W0209,Ibatsiba,LGA079,Ngetija,17038.0,2981.0,Gridded population estimate 2024
+W0213,Enuyona,LGA079,Ngetija,48741.0,7086.0,Projected 2026 from 2006 census
+W0222,Yobbeko,LGA079,Ngetija,22786.0,3829.0,Gridded population estimate 2024
+W0296,Umukeshi,LGA100,Tivsano-North,35733.0,5585.0,Projected 2026 from 2006 census
+W0315,Ibazawa,LGA100,Tivsano-North,25866.0,4297.0,Projected 2026 from 2006 census
+W0318,Olumaru,LGA100,Tivsano-North,27417.0,5009.0,Gridded population estimate 2024
+W0323,Uzojili,LGA100,Tivsano-North,24087.0,4102.0,Gridded population estimate 2024
+W0324,Shabafa,LGA100,Tivsano-North,12347.0,2159.0,Gridded population estimate 2024
+W0325,Funbayi,LGA100,Tivsano-North,25799.0,3863.0,Projected 2026 from 2006 census
+W0334,Riyzama,LGA100,Tivsano-North,28179.0,5032.0,Gridded population estimate 2024
+W0341,Umunuta,LGA100,Tivsano-North,9135.0,1485.0,Gridded population estimate 2024
+W0359,Bansawa,LGA100,Tivsano-North,27874.0,4691.0,Projected 2026 from 2006 census
+W0242,Birngoko,LGA012,Agbtsiko,31901.0,5179.0,Gridded population estimate 2024
+W0254,Eketiyi,LGA012,Agbtsiko,8363.0,1463.0,Gridded population estimate 2024
+W0255,Kukbeja,LGA012,Agbtsiko,20506.0,3403.0,Projected 2026 from 2006 census
+W0263,Zamlama,LGA012,Agbtsiko,30745.0,5289.0,Projected 2026 from 2006 census
+W0294,Yeltiko,LGA012,Agbtsiko,44690.0,6712.0,Gridded population estimate 2024
+W0241,Banluba,LGA021,Bauzani,12363.0,1821.0,Projected 2026 from 2006 census
+W0244,Yobnadu,LGA021,Bauzani,39891.0,6419.0,Gridded population estimate 2024
+W0272,Bannasa,LGA021,Bauzani,,,Projected 2026 from 2006 census
+W0287,Banngotu,LGA021,Bauzani,18583.0,2855.0,Projected 2026 from 2006 census
+W0298,Adetsile,LGA021,Bauzani,26085.0,4743.0,Projected 2026 from 2006 census
+W0304,Nasbayi,LGA013,Agbzawa-South,12467.0,2031.0,Projected 2026 from 2006 census
+W0317,Lokkoko,LGA013,Agbzawa-South,12865.0,2197.0,Projected 2026 from 2006 census
+W0326,Supbena,LGA013,Agbzawa-South,64897.0,9417.0,Projected 2026 from 2006 census
+W0332,Ibarima,LGA013,Agbzawa-South,5481.0,873.0,Gridded population estimate 2024
+W0340,Ekengomi,LGA013,Agbzawa-South,17469.0,2663.0,Projected 2026 from 2006 census
+W0348,Kukmatu,LGA045,Hansaba,24631.0,4308.0,Projected 2026 from 2006 census
+W0366,Ngebana,LGA045,Hansaba,9780.0,1757.0,Projected 2026 from 2006 census
+W0379,Birnuta,LGA045,Hansaba,22064.0,3415.0,Projected 2026 from 2006 census
+W0385,Duttiri,LGA045,Hansaba,41492.0,7184.0,Projected 2026 from 2006 census
+W0386,Birngowa,LGA045,Hansaba,14935.0,2697.0,Projected 2026 from 2006 census
+W0362,Ekebewa,LGA103,Uzoberi,15624.0,2710.0,Projected 2026 from 2006 census
+W0374,Duttsita,LGA103,Uzoberi,15589.0,2528.0,Projected 2026 from 2006 census
+W0376,Yelwana,LGA103,Uzoberi,,,Projected 2026 from 2006 census
+W0401,Supmita,LGA103,Uzoberi,15361.0,2531.0,Projected 2026 from 2006 census
+W0407,Yelnuba,LGA103,Uzoberi,22891.0,3582.0,Projected 2026 from 2006 census
+W0408,Okedesa,LGA103,Uzoberi,9769.0,1615.0,Projected 2026 from 2006 census
+W0260,Banmiru,LGA014,Bandede-North,23563.0,4238.0,Projected 2026 from 2006 census
+W0274,Joskodu,LGA014,Bandede-North,18151.0,2747.0,Gridded population estimate 2024
+W0289,Tivbata,LGA014,Bandede-North,11737.0,1943.0,Projected 2026 from 2006 census
+W0200,Jostiko,LGA068,Malbawo-Central,5416.0,870.0,Projected 2026 from 2006 census
+W0218,Ekebemi,LGA068,Malbawo-Central,17471.0,2847.0,Gridded population estimate 2024
+W0233,Agbderu,LGA068,Malbawo-Central,7974.0,1468.0,Projected 2026 from 2006 census
+W0234,Hanbafa,LGA068,Malbawo-Central,30099.0,4494.0,Gridded population estimate 2024
+W0195,Sokdushi,LGA089,Soktimi,30349.0,5243.0,Gridded population estimate 2024
+W0206,Birtima,LGA089,Soktimi,32564.0,5971.0,Projected 2026 from 2006 census
+W0227,Kukngowa,LGA089,Soktimi,14415.0,2543.0,Gridded population estimate 2024
+W0235,Olukoko,LGA089,Soktimi,4374.0,786.0,Gridded population estimate 2024
+W0120,Ngemima,LGA048,Ibajija-South,41942.0,6135.0,Projected 2026 from 2006 census
+W0133,Oluyoko,LGA048,Ibajija-South,15374.0,2340.0,Projected 2026 from 2006 census
+W0148,Loksafa,LGA048,Ibajija-South,8309.0,1490.0,Projected 2026 from 2006 census
+W0159,Dutsaba,LGA048,Ibajija-South,12352.0,1824.0,Projected 2026 from 2006 census
+W0162,Gwolude,LGA048,Ibajija-South,56819.0,9726.0,Projected 2026 from 2006 census
+W0172,Yelwari,LGA030,Dutwano,32472.0,5890.0,Projected 2026 from 2006 census
+W0174,Ademano,LGA030,Dutwano,6556.0,1094.0,Gridded population estimate 2024
+W0186,Adewadu,LGA030,Dutwano,8052.0,1257.0,Gridded population estimate 2024
+W0203,Fundeko,LGA030,Dutwano,40619.0,6982.0,Projected 2026 from 2006 census
+W0215,Josmita,LGA030,Dutwano,20812.0,3542.0,Projected 2026 from 2006 census
+W0226,Ngeyomi,LGA030,Dutwano,,,Projected 2026 from 2006 census
+W0229,Soknari,LGA030,Dutwano,33580.0,6063.0,Projected 2026 from 2006 census
+W0238,Ngemafa,LGA030,Dutwano,,,Projected 2026 from 2006 census
+W0230,Wurjino,LGA054,Irongori,21536.0,3377.0,Gridded population estimate 2024
+W0231,Funmidu,LGA054,Irongori,53205.0,8132.0,Gridded population estimate 2024
+W0232,Tivzana,LGA054,Irongori,15635.0,2575.0,Gridded population estimate 2024
+W0237,Soksani,LGA054,Irongori,37864.0,5643.0,Projected 2026 from 2006 census
+W0251,Yelzafa,LGA054,Irongori,64890.0,9790.0,Gridded population estimate 2024
+W0262,Banshako,LGA054,Irongori,21735.0,3996.0,Projected 2026 from 2006 census
+W0146,Riyjiwo,LGA080,Okerano-Central,43412.0,7310.0,Projected 2026 from 2006 census
+W0153,Eketsishi,LGA080,Okerano-Central,37573.0,6676.0,Projected 2026 from 2006 census
+W0173,Enuzale,LGA080,Okerano-Central,24688.0,3756.0,Projected 2026 from 2006 census
+W0182,Ekesana,LGA080,Okerano-Central,3372.0,592.0,Gridded population estimate 2024
+W0144,Hanlashi,LGA007,Agblasa,38731.0,6298.0,Projected 2026 from 2006 census
+W0160,Katlatu,LGA007,Agblasa,37198.0,6854.0,Gridded population estimate 2024
+W0183,Daikema,LGA007,Agblasa,22175.0,3692.0,Projected 2026 from 2006 census
+W0192,Duttsija,LGA007,Agblasa,26154.0,4454.0,Gridded population estimate 2024
+W0168,Shatsiru,LGA053,Ironama,30322.0,5296.0,Projected 2026 from 2006 census
+W0190,Katduna,LGA053,Ironama,19158.0,3251.0,Projected 2026 from 2006 census
+W0199,Ekekena,LGA053,Ironama,58641.0,9530.0,Projected 2026 from 2006 census
+W0204,Josnata,LGA053,Ironama,17791.0,2921.0,Projected 2026 from 2006 census
+W0210,Riyshawa,LGA053,Ironama,19364.0,2855.0,Projected 2026 from 2006 census
+W0220,Shabani,LGA053,Ironama,17795.0,2597.0,Projected 2026 from 2006 census
+W0211,Daideno,LGA096,Tivbani,15540.0,2504.0,Projected 2026 from 2006 census
+W0217,Enurawo,LGA096,Tivbani,28796.0,4281.0,Projected 2026 from 2006 census
+W0219,Iroshaba,LGA096,Tivbani,10791.0,1931.0,Projected 2026 from 2006 census
+W0091,Yobzade,LGA024,Daidefa,37811.0,6364.0,Gridded population estimate 2024
+W0106,Supsani,LGA024,Daidefa,33198.0,5916.0,Projected 2026 from 2006 census
+W0118,Hanradu,LGA024,Daidefa,31076.0,5386.0,Projected 2026 from 2006 census
+W0132,Ibangoja,LGA024,Daidefa,5079.0,776.0,Gridded population estimate 2024
+W0145,Gwokemi,LGA024,Daidefa,,,Gridded population estimate 2024
+W0321,Katriwa,LGA057,Joskeru,25144.0,4134.0,Projected 2026 from 2006 census
+W0322,Hanluri,LGA057,Joskeru,46058.0,7796.0,Projected 2026 from 2006 census
+W0336,Birmishi,LGA057,Joskeru,27622.0,4470.0,Gridded population estimate 2024
+W0344,Wurzafa,LGA057,Joskeru,28466.0,4595.0,Projected 2026 from 2006 census
+W0337,Okeluwo,LGA093,Tamlufa-East,60422.0,9242.0,Gridded population estimate 2024
+W0346,Yobnuma,LGA093,Tamlufa-East,5421.0,799.0,Gridded population estimate 2024
+W0365,Ibayoja,LGA093,Tamlufa-East,22597.0,3754.0,Projected 2026 from 2006 census
+W0388,Hanraru,LGA093,Tamlufa-East,36907.0,5874.0,Gridded population estimate 2024
+W0399,Katduba,LGA093,Tamlufa-East,17739.0,2807.0,Projected 2026 from 2006 census
+W0268,Ekemiwa,LGA049,Ibamide,19759.0,3300.0,Gridded population estimate 2024
+W0291,Katnule,LGA049,Ibamide,18324.0,2845.0,Projected 2026 from 2006 census
+W0292,Funrashi,LGA049,Ibamide,34336.0,5582.0,Projected 2026 from 2006 census
+W0300,Tivtimi,LGA049,Ibamide,28943.0,4887.0,Projected 2026 from 2006 census
+W0312,Banrani,LGA049,Ibamide,9841.0,1715.0,Gridded population estimate 2024
+W0349,Tivshana,LGA042,Hanjiko,9478.0,1571.0,Projected 2026 from 2006 census
+W0357,Tivdeli,LGA042,Hanjiko,5469.0,800.0,Gridded population estimate 2024
+W0361,Sokyowa,LGA042,Hanjiko,23511.0,3518.0,Projected 2026 from 2006 census
+W0364,Katbeno,LGA042,Hanjiko,9987.0,1613.0,Projected 2026 from 2006 census
+W0375,Zamwari,LGA042,Hanjiko,24345.0,4005.0,Projected 2026 from 2006 census
+W0384,Daimako,LGA042,Hanjiko,8679.0,1375.0,Projected 2026 from 2006 census
+W0387,Baunata,LGA042,Hanjiko,25729.0,4186.0,Projected 2026 from 2006 census
+W0269,Shayona,LGA084,Olujiwa,,,Projected 2026 from 2006 census
+W0270,Ngeduru,LGA084,Olujiwa,40580.0,6791.0,Projected 2026 from 2006 census
+W0284,Okemishi,LGA084,Olujiwa,27389.0,4357.0,Projected 2026 from 2006 census
+W0285,Kukrali,LGA084,Olujiwa,28554.0,4691.0,Projected 2026 from 2006 census
+W0301,Agbsama,LGA084,Olujiwa,24268.0,3606.0,Gridded population estimate 2024
+W0305,Yobbana,LGA084,Olujiwa,7990.0,1262.0,Projected 2026 from 2006 census
+W0228,Yeldule,LGA072,Nasdudu-North,30843.0,4790.0,Projected 2026 from 2006 census
+W0250,Soknudu,LGA072,Nasdudu-North,10680.0,1795.0,Projected 2026 from 2006 census
+W0252,Shawaba,LGA072,Nasdudu-North,16640.0,3059.0,Gridded population estimate 2024
+W0276,Ngewama,LGA072,Nasdudu-North,8984.0,1304.0,Projected 2026 from 2006 census
+W0277,Okenatu,LGA072,Nasdudu-North,6289.0,924.0,Gridded population estimate 2024
+W0290,Dutrama,LGA002,Adekowo,16813.0,3036.0,Projected 2026 from 2006 census
+W0350,Ekenushi,LGA002,Adekowo,24459.0,3750.0,Gridded population estimate 2024
+W0372,Sokshano,LGA002,Adekowo,18801.0,2800.0,Projected 2026 from 2006 census
+W0373,Ngeluli,LGA002,Adekowo,16604.0,2928.0,Gridded population estimate 2024
+W0397,Ibangoba,LGA099,Tivrafa-West,17016.0,3113.0,Projected 2026 from 2006 census
+W0416,Agbkoli,LGA099,Tivrafa-West,63483.0,11133.0,Gridded population estimate 2024
+W0427,Katdeno,LGA099,Tivrafa-West,64470.0,9430.0,Projected 2026 from 2006 census
+W0438,Maldule,LGA099,Tivrafa-West,89130.0,13587.0,Gridded population estimate 2024
+W0457,Zambema,LGA099,Tivrafa-West,144693.0,26236.0,Projected 2026 from 2006 census
+W0363,Ibalana,LGA028,Dutjiri,67969.0,11837.0,Projected 2026 from 2006 census
+W0369,Tivyoyi,LGA028,Dutjiri,12654.0,2072.0,Gridded population estimate 2024
+W0378,Katbaru,LGA028,Dutjiri,66556.0,9690.0,Gridded population estimate 2024
+W0396,Katmana,LGA028,Dutjiri,108552.0,18540.0,Projected 2026 from 2006 census
+W0308,Uzodumi,LGA006,Agbkotu-South,56649.0,8954.0,Gridded population estimate 2024
+W0311,Uzotsiru,LGA006,Agbkotu-South,17315.0,3078.0,Gridded population estimate 2024
+W0320,Enumitu,LGA006,Agbkotu-South,62751.0,9137.0,Projected 2026 from 2006 census
+W0331,Daitsitu,LGA006,Agbkotu-South,66951.0,9983.0,Projected 2026 from 2006 census
+W0381,Bausako,LGA076,Nasyotu,165631.0,28205.0,Projected 2026 from 2006 census
+W0404,Kuknadu,LGA076,Nasyotu,28978.0,5337.0,Projected 2026 from 2006 census
+W0415,Birbele,LGA076,Nasyotu,54096.0,9626.0,Projected 2026 from 2006 census
+W0418,Banwama,LGA076,Nasyotu,63469.0,11492.0,Gridded population estimate 2024
+W0330,Daiyona,LGA094,Tamluni,100817.0,17826.0,Gridded population estimate 2024
+W0333,Riylale,LGA094,Tamluni,45323.0,7809.0,Gridded population estimate 2024
+W0351,Duttsisa,LGA094,Tamluni,20255.0,3577.0,Projected 2026 from 2006 census
+W0352,Kukjino,LGA094,Tamluni,238099.0,41681.0,Gridded population estimate 2024
+W0355,Uzosawo,LGA094,Tamluni,81645.0,13881.0,Gridded population estimate 2024
+W0370,Agbnana,LGA094,Tamluni,68830.0,11728.0,Projected 2026 from 2006 census
+W0382,Bantsiko,LGA094,Tamluni,171413.0,27404.0,Gridded population estimate 2024
+W0307,Banlama,LGA075,Nassako-Central,66320.0,12156.0,Projected 2026 from 2006 census
+W0313,Riymano,LGA075,Nassako-Central,134531.0,24673.0,Projected 2026 from 2006 census
+W0339,Uzorimi,LGA075,Nassako-Central,47819.0,7749.0,Projected 2026 from 2006 census
+W0342,Ngemiyi,LGA075,Nassako-Central,173629.0,27558.0,Gridded population estimate 2024
+W0356,Daitisa,LGA075,Nassako-Central,57444.0,8377.0,Projected 2026 from 2006 census
+W0358,Ekesasa,LGA075,Nassako-Central,50681.0,9065.0,Projected 2026 from 2006 census
+W0398,Gwobako,LGA075,Nassako-Central,114383.0,20259.0,Projected 2026 from 2006 census
+W0520,Yelbeba,LGA095,Tamwata-South,21297.0,3456.0,Projected 2026 from 2006 census
+W0523,Riynaja,LGA095,Tamwata-South,2417.0,430.0,Projected 2026 from 2006 census
+W0537,Ngesana,LGA095,Tamwata-South,9976.0,1799.0,Projected 2026 from 2006 census
+W0571,Uzoyodu,LGA095,Tamwata-South,41393.0,6855.0,Projected 2026 from 2006 census
+W0464,Tamnuta,LGA033,Ekedewo,36744.0,5704.0,Gridded population estimate 2024
+W0465,Gwokoma,LGA033,Ekedewo,9433.0,1447.0,Projected 2026 from 2006 census
+W0468,Supmija,LGA033,Ekedewo,26377.0,3832.0,Projected 2026 from 2006 census
+W0482,Banmide,LGA033,Ekedewo,23841.0,3968.0,Gridded population estimate 2024
+W0492,Adetsiko,LGA033,Ekedewo,7474.0,1352.0,Gridded population estimate 2024
+W0417,Daizana,LGA026,Daishali-Central,18366.0,2762.0,Gridded population estimate 2024
+W0431,Adekede,LGA026,Daishali-Central,7815.0,1274.0,Projected 2026 from 2006 census
+W0439,Daideli,LGA026,Daishali-Central,18937.0,2996.0,Projected 2026 from 2006 census
+W0443,Supngotu,LGA026,Daishali-Central,34129.0,5714.0,Projected 2026 from 2006 census
+W0452,Adewano,LGA026,Daishali-Central,7444.0,1244.0,Projected 2026 from 2006 census
+W0453,Adetsidu,LGA026,Daishali-Central,12736.0,1950.0,Projected 2026 from 2006 census
+W0470,Funyofa,LGA111,Yeltsina,9560.0,1494.0,Projected 2026 from 2006 census
+W0476,Yobngole,LGA111,Yeltsina,35002.0,5613.0,Projected 2026 from 2006 census
+W0484,Tivlano,LGA111,Yeltsina,45422.0,7802.0,Gridded population estimate 2024
+W0489,Ngemili,LGA111,Yeltsina,6567.0,1121.0,Projected 2026 from 2006 census
+W0490,Zamdena,LGA111,Yeltsina,23066.0,4084.0,Gridded population estimate 2024
+W0502,Hantima,LGA111,Yeltsina,41236.0,6427.0,Projected 2026 from 2006 census
+W0503,Yobbafa,LGA111,Yeltsina,29444.0,4594.0,Gridded population estimate 2024
+W0506,Dairili,LGA029,Dutkeni,55806.0,9194.0,Projected 2026 from 2006 census
+W0511,Supriyi,LGA029,Dutkeni,15593.0,2678.0,Projected 2026 from 2006 census
+W0521,Funwashi,LGA029,Dutkeni,15168.0,2577.0,Gridded population estimate 2024
+W0522,Dutluko,LGA029,Dutkeni,8488.0,1399.0,Gridded population estimate 2024
+W0554,Agbzali,LGA029,Dutkeni,61670.0,10296.0,Projected 2026 from 2006 census
+W0454,Gwoyowo,LGA003,Adelaja-North,56223.0,8971.0,Gridded population estimate 2024
+W0474,Tambawa,LGA003,Adelaja-North,17532.0,2839.0,Gridded population estimate 2024
+W0481,Uzolaba,LGA003,Adelaja-North,4200.0,653.0,Projected 2026 from 2006 census
+W0499,Loktsifa,LGA003,Adelaja-North,25735.0,4035.0,Projected 2026 from 2006 census
+W0410,Wurtimi,LGA106,Wurkota,12659.0,1986.0,Gridded population estimate 2024
+W0424,Olunumi,LGA106,Wurkota,12678.0,2217.0,Projected 2026 from 2006 census
+W0432,Adebale,LGA106,Wurkota,10125.0,1694.0,Projected 2026 from 2006 census
+W0436,Shaduni,LGA106,Wurkota,19802.0,3020.0,Gridded population estimate 2024
+W0449,Sharimi,LGA106,Wurkota,23410.0,4323.0,Gridded population estimate 2024
+W0451,Ekebawa,LGA106,Wurkota,8701.0,1569.0,Projected 2026 from 2006 census
+W0391,Kadbana,LGA098,Tivngoba,25752.0,4288.0,Projected 2026 from 2006 census
+W0409,Zamzani,LGA098,Tivngoba,11084.0,1939.0,Gridded population estimate 2024
+W0411,Umuduno,LGA098,Tivngoba,30087.0,4458.0,Gridded population estimate 2024
+W0414,Lokkode,LGA098,Tivngoba,67858.0,10432.0,Gridded population estimate 2024
+W0420,Bantsitu,LGA098,Tivngoba,39333.0,7085.0,Gridded population estimate 2024
+W0430,Daikowa,LGA098,Tivngoba,33801.0,5804.0,Gridded population estimate 2024
+W0297,Agbtiba,LGA083,Olubani-South,25472.0,4095.0,Projected 2026 from 2006 census
+W0306,Kukmiyi,LGA083,Olubani-South,17600.0,3229.0,Gridded population estimate 2024
+W0316,Tamduri,LGA083,Olubani-South,38124.0,5881.0,Gridded population estimate 2024
+W0319,Wurlutu,LGA083,Olubani-South,38852.0,6166.0,Gridded population estimate 2024
+W0329,Jostsita,LGA083,Olubani-South,13014.0,2007.0,Projected 2026 from 2006 census
+W0327,Suplashi,LGA105,Uzorisa,23202.0,4107.0,Gridded population estimate 2024
+W0345,Olulale,LGA105,Uzorisa,52073.0,9564.0,Projected 2026 from 2006 census
+W0347,Umurifa,LGA105,Uzorisa,18956.0,3222.0,Gridded population estimate 2024
+W0371,Wurzano,LGA105,Uzorisa,36608.0,5745.0,Projected 2026 from 2006 census
+W0377,Kukwana,LGA105,Uzorisa,18654.0,3375.0,Gridded population estimate 2024
+W0278,Nasrari,LGA066,Loksayi,5709.0,856.0,Projected 2026 from 2006 census
+W0286,Riyridu,LGA066,Loksayi,20150.0,3129.0,Projected 2026 from 2006 census
+W0302,Yeldena,LGA066,Loksayi,31383.0,5194.0,Gridded population estimate 2024
+W0309,Lokyofa,LGA066,Loksayi,22795.0,3929.0,Projected 2026 from 2006 census
+W0335,Lokkona,LGA066,Loksayi,27978.0,4874.0,Projected 2026 from 2006 census
+W0383,Funkotu,LGA046,Hansatu,8410.0,1531.0,Projected 2026 from 2006 census
+W0395,Supyomi,LGA046,Hansatu,18207.0,3135.0,Projected 2026 from 2006 census
+W0400,Banzashi,LGA046,Hansatu,6350.0,1159.0,Gridded population estimate 2024
+W0419,Uzowadu,LGA046,Hansatu,41644.0,7348.0,Projected 2026 from 2006 census
+W0421,Okeriyi,LGA046,Hansatu,10389.0,1619.0,Projected 2026 from 2006 census
+W0435,Katlale,LGA046,Hansatu,23654.0,3543.0,Projected 2026 from 2006 census
+W0288,Daiwaru,LGA011,Agbridu-West,31115.0,4774.0,Gridded population estimate 2024
+W0299,Hanwano,LGA011,Agbridu-West,32330.0,5418.0,Gridded population estimate 2024
+W0314,Yobnushi,LGA011,Agbridu-West,36757.0,6093.0,Gridded population estimate 2024
+W0328,Gwojishi,LGA011,Agbridu-West,27906.0,4942.0,Projected 2026 from 2006 census
+W0354,Tivsako,LGA016,Banluwo,23840.0,4066.0,Gridded population estimate 2024
+W0380,Josmako,LGA016,Banluwo,12033.0,2078.0,Projected 2026 from 2006 census
+W0393,Yobkono,LGA016,Banluwo,29872.0,5172.0,Projected 2026 from 2006 census
+W0394,Ekengoja,LGA016,Banluwo,13519.0,2068.0,Gridded population estimate 2024
+W0338,Nastino,LGA116,Zamberi-North,15608.0,2729.0,Gridded population estimate 2024
+W0353,Malshana,LGA116,Zamberi-North,,,Projected 2026 from 2006 census
+W0360,Tivtsisa,LGA116,Zamberi-North,60520.0,10296.0,Gridded population estimate 2024
+W0367,Nasjidu,LGA116,Zamberi-North,29290.0,4270.0,Gridded population estimate 2024
+W0368,Josmatu,LGA116,Zamberi-North,16569.0,2532.0,Gridded population estimate 2024
+W0462,Funngoru,LGA001,Adekeni,53829.0,9389.0,Gridded population estimate 2024
+W0478,Wurshani,LGA001,Adekeni,36194.0,5689.0,Projected 2026 from 2006 census
+W0486,Agbjisa,LGA001,Adekeni,20259.0,3433.0,Projected 2026 from 2006 census
+W0487,Tamnuma,LGA001,Adekeni,,,Gridded population estimate 2024
+W0508,Uzotsija,LGA001,Adekeni,52312.0,7858.0,Projected 2026 from 2006 census
+W0512,Okezari,LGA001,Adekeni,4392.0,666.0,Projected 2026 from 2006 census
+W0405,Irongoko,LGA074,Nasrifa,31968.0,5288.0,Projected 2026 from 2006 census
+W0413,Birtsiba,LGA074,Nasrifa,13492.0,2156.0,Projected 2026 from 2006 census
+W0422,Adedede,LGA074,Nasrifa,20157.0,3104.0,Projected 2026 from 2006 census
+W0425,Riynuna,LGA074,Nasrifa,4633.0,794.0,Projected 2026 from 2006 census
+W0428,Wurzani,LGA074,Nasrifa,5140.0,935.0,Projected 2026 from 2006 census
+W0448,Sokngono,LGA074,Nasrifa,29321.0,4854.0,Projected 2026 from 2006 census
+W0455,Daizaba,LGA074,Nasrifa,31974.0,5605.0,Projected 2026 from 2006 census
+W0423,Agbriko,LGA113,Yobmija,37321.0,5670.0,Projected 2026 from 2006 census
+W0426,Agbshako,LGA113,Yobmija,21816.0,3648.0,Projected 2026 from 2006 census
+W0442,Yobludu,LGA113,Yobmija,28989.0,4322.0,Gridded population estimate 2024
+W0445,Josrani,LGA113,Yobmija,5035.0,872.0,Gridded population estimate 2024
+W0459,Dutzali,LGA113,Yobmija,12519.0,2043.0,Projected 2026 from 2006 census
+W0463,Baulasa,LGA113,Yobmija,7935.0,1180.0,Projected 2026 from 2006 census
+W0485,Kattino,LGA050,Ibangosa,14862.0,2524.0,Projected 2026 from 2006 census
+W0493,Hanwani,LGA050,Ibangosa,16309.0,2376.0,Gridded population estimate 2024
+W0494,Funnari,LGA050,Ibangosa,16774.0,2882.0,Projected 2026 from 2006 census
+W0509,Shazama,LGA108,Wuryona,12703.0,2280.0,Projected 2026 from 2006 census
+W0514,Katraja,LGA108,Wuryona,15368.0,2468.0,Gridded population estimate 2024
+W0527,Wurkele,LGA108,Wuryona,,,Projected 2026 from 2006 census
+W0541,Okenuko,LGA108,Wuryona,25417.0,4015.0,Projected 2026 from 2006 census
+W0539,Sokdeba,LGA115,Zambani,106552.0,19545.0,Projected 2026 from 2006 census
+W0546,Adesale,LGA115,Zambani,81668.0,14732.0,Gridded population estimate 2024
+W0559,Lokrana,LGA115,Zambani,77390.0,13252.0,Projected 2026 from 2006 census
+W0560,Shatsiba,LGA115,Zambani,111681.0,18185.0,Gridded population estimate 2024
+W0565,Dailaba,LGA115,Zambani,114547.0,20174.0,Projected 2026 from 2006 census
+W0578,Irokoni,LGA115,Zambani,54612.0,9034.0,Gridded population estimate 2024
+W0582,Kukbeta,LGA020,Bautiru-West,14994.0,2264.0,Gridded population estimate 2024
+W0594,Uzomisa,LGA020,Bautiru-West,136327.0,22276.0,Projected 2026 from 2006 census
+W0596,Zamkoja,LGA020,Bautiru-West,20075.0,3367.0,Projected 2026 from 2006 census
+W0612,Tivsana,LGA020,Bautiru-West,46849.0,8493.0,Gridded population estimate 2024
+W0617,Ekekode,LGA020,Bautiru-West,76328.0,13712.0,Gridded population estimate 2024
+W0579,Irozari,LGA038,Funkedu,60964.0,10835.0,Projected 2026 from 2006 census
+W0580,Soktiba,LGA038,Funkedu,41671.0,6786.0,Gridded population estimate 2024
+W0586,Kukngole,LGA038,Funkedu,134710.0,24818.0,Gridded population estimate 2024
+W0593,Gwonale,LGA038,Funkedu,25017.0,4616.0,Projected 2026 from 2006 census
+W0597,Ngetiba,LGA038,Funkedu,110138.0,16966.0,Projected 2026 from 2006 census
+W0605,Wurbasa,LGA038,Funkedu,65037.0,11672.0,Projected 2026 from 2006 census
+W0590,Gwonashi,LGA058,Josmiba,78373.0,14204.0,Projected 2026 from 2006 census
+W0598,Shalule,LGA058,Josmiba,70444.0,11428.0,Projected 2026 from 2006 census
+W0606,Josmadu,LGA058,Josmiba,68604.0,11731.0,Gridded population estimate 2024
+W0609,Daiwana,LGA058,Josmiba,72270.0,13328.0,Gridded population estimate 2024
+W0614,Wurngomi,LGA058,Josmiba,45660.0,8304.0,Projected 2026 from 2006 census
+W0618,Funnuta,LGA058,Josmiba,63541.0,10296.0,Projected 2026 from 2006 census
+W0547,Hanbeko,LGA060,Katdudu,123248.0,20697.0,Gridded population estimate 2024
+W0562,Bandema,LGA060,Katdudu,80909.0,13036.0,Projected 2026 from 2006 census
+W0566,Wurtsiwa,LGA060,Katdudu,219138.0,36978.0,Gridded population estimate 2024
+W0576,Kadtini,LGA060,Katdudu,115814.0,17571.0,Projected 2026 from 2006 census
+W0581,Daibefa,LGA060,Katdudu,80085.0,13145.0,Projected 2026 from 2006 census
+W0533,Banluwa,LGA082,Okeyoru-South,73623.0,12097.0,Projected 2026 from 2006 census
+W0540,Umuyoba,LGA082,Okeyoru-South,220047.0,33576.0,Projected 2026 from 2006 census
+W0544,Hantsishi,LGA082,Okeyoru-South,56022.0,8481.0,Projected 2026 from 2006 census
+W0555,Baurima,LGA082,Okeyoru-South,136403.0,22122.0,Gridded population estimate 2024
+W0343,Uzojiri,LGA032,Ekedeta-East,15430.0,2514.0,Projected 2026 from 2006 census
+W0473,Tivnuta,LGA032,Ekedeta-East,42259.0,7641.0,Projected 2026 from 2006 census
+W0477,Funjiyi,LGA032,Ekedeta-East,23272.0,3790.0,Projected 2026 from 2006 census
+W0495,Shaketa,LGA032,Ekedeta-East,27884.0,4569.0,Gridded population estimate 2024
+W0496,Baubama,LGA032,Ekedeta-East,19064.0,2843.0,Projected 2026 from 2006 census
+W0510,Tammawo,LGA032,Ekedeta-East,16593.0,2846.0,Gridded population estimate 2024
+W0389,Agbwali,LGA018,Baumiru,63754.0,9846.0,Gridded population estimate 2024
+W0406,Hansasa,LGA018,Baumiru,28696.0,4775.0,Projected 2026 from 2006 census
+W0412,Yelngomi,LGA018,Baumiru,7116.0,1197.0,Projected 2026 from 2006 census
+W0437,Katluko,LGA018,Baumiru,10915.0,1803.0,Gridded population estimate 2024
+W0392,Joslaru,LGA065,Loknaba,36359.0,6175.0,Projected 2026 from 2006 census
+W0402,Agbdeni,LGA065,Loknaba,23171.0,4165.0,Projected 2026 from 2006 census
+W0433,Shangoru,LGA065,Loknaba,34915.0,6230.0,Gridded population estimate 2024
+W0434,Lokngode,LGA085,Oluyofa,12011.0,1811.0,Projected 2026 from 2006 census
+W0447,Agbngode,LGA085,Oluyofa,21622.0,3510.0,Projected 2026 from 2006 census
+W0458,Agbmile,LGA085,Oluyofa,26016.0,4701.0,Projected 2026 from 2006 census
+W0460,Ekenuno,LGA085,Oluyofa,36284.0,6257.0,Gridded population estimate 2024
+W0461,Lokwari,LGA085,Oluyofa,25999.0,4774.0,Gridded population estimate 2024
+W0471,Soknutu,LGA085,Oluyofa,9182.0,1625.0,Gridded population estimate 2024
+W0488,Zambaja,LGA097,Tivmama,21075.0,3478.0,Projected 2026 from 2006 census
+W0498,Naslawa,LGA097,Tivmama,38895.0,6378.0,Gridded population estimate 2024
+W0513,Okekewa,LGA097,Tivmama,16391.0,2627.0,Projected 2026 from 2006 census
+W0517,Banshafa,LGA097,Tivmama,17151.0,2506.0,Projected 2026 from 2006 census
+W0526,Yobdede,LGA097,Tivmama,21999.0,3533.0,Gridded population estimate 2024
+W0528,Loktifa,LGA097,Tivmama,6608.0,1108.0,Projected 2026 from 2006 census
+W0529,Supdushi,LGA097,Tivmama,13330.0,2373.0,Projected 2026 from 2006 census
+W0530,Kadzaru,LGA097,Tivmama,27863.0,4187.0,Projected 2026 from 2006 census
+W0507,Zamnuno,LGA088,Sokmiri,52332.0,9100.0,Projected 2026 from 2006 census
+W0519,Ekeriri,LGA088,Sokmiri,23060.0,3814.0,Projected 2026 from 2006 census
+W0531,Umuwako,LGA088,Sokmiri,38914.0,5813.0,Projected 2026 from 2006 census
+W0534,Bauyoyi,LGA088,Sokmiri,48359.0,8057.0,Projected 2026 from 2006 census
+W0587,Okemashi,LGA067,Lokshasa,29466.0,4729.0,Gridded population estimate 2024
+W0592,Tivrana,LGA067,Lokshasa,13446.0,2101.0,Projected 2026 from 2006 census
+W0595,Zamriru,LGA067,Lokshasa,33457.0,5800.0,Projected 2026 from 2006 census
+W0601,Riynawa,LGA067,Lokshasa,29087.0,5261.0,Projected 2026 from 2006 census
+W0535,Dairami,LGA059,Jostile,14424.0,2502.0,Projected 2026 from 2006 census
+W0549,Tivdewo,LGA059,Jostile,50209.0,8502.0,Gridded population estimate 2024
+W0552,Riydewa,LGA059,Jostile,9433.0,1535.0,Gridded population estimate 2024
+W0556,Josngoni,LGA059,Jostile,6005.0,977.0,Projected 2026 from 2006 census
+W0558,Tamsashi,LGA059,Jostile,26701.0,4303.0,Projected 2026 from 2006 census
+W0563,Shatsino,LGA059,Jostile,25700.0,4369.0,Projected 2026 from 2006 census
+W0568,Yobkema,LGA059,Jostile,52632.0,8470.0,Projected 2026 from 2006 census
+W0570,Hantsiyi,LGA059,Jostile,7557.0,1285.0,Projected 2026 from 2006 census
+W0573,Riyjiyi,LGA059,Jostile,29232.0,4838.0,Gridded population estimate 2024
+W0569,Lokmiba,LGA078,Ngenuta-Central,30658.0,5152.0,Gridded population estimate 2024
+W0575,Agbmama,LGA078,Ngenuta-Central,34375.0,5281.0,Projected 2026 from 2006 census
+W0584,Shangodu,LGA078,Ngenuta-Central,15050.0,2231.0,Gridded population estimate 2024
+W0589,Tivtsiwo,LGA078,Ngenuta-Central,10147.0,1585.0,Gridded population estimate 2024
+W0480,Malnumi,LGA069,Maljiwo,8389.0,1358.0,Projected 2026 from 2006 census
+W0501,Hanlasa,LGA069,Maljiwo,39720.0,6117.0,Projected 2026 from 2006 census
+W0504,Maljini,LGA069,Maljiwo,16052.0,2895.0,Gridded population estimate 2024
+W0515,Oluwaba,LGA069,Maljiwo,41540.0,6419.0,Projected 2026 from 2006 census
+W0536,Iroyori,LGA110,Yeltili,42824.0,7385.0,Gridded population estimate 2024
+W0551,Gwobali,LGA110,Yeltili,15246.0,2654.0,Projected 2026 from 2006 census
+W0553,Nasmitu,LGA110,Yeltili,7788.0,1389.0,Projected 2026 from 2006 census
+W0561,Okedefa,LGA110,Yeltili,12421.0,1910.0,Projected 2026 from 2006 census
+W0572,Kuknayi,LGA110,Yeltili,61989.0,10091.0,Gridded population estimate 2024
+W0444,Adeketu,LGA023,Daibewo,53997.0,9842.0,Projected 2026 from 2006 census
+W0467,Suptini,LGA023,Daibewo,29231.0,4332.0,Projected 2026 from 2006 census
+W0469,Sokbedu,LGA023,Daibewo,140881.0,25427.0,Projected 2026 from 2006 census
+W0472,Shayoshi,LGA023,Daibewo,56089.0,9385.0,Projected 2026 from 2006 census
+W0491,Sokmiwa,LGA023,Daibewo,94379.0,13768.0,Projected 2026 from 2006 census
+W0390,Ibayoma,LGA114,Yobrifa-West,69599.0,11796.0,Gridded population estimate 2024
+W0403,Daizayi,LGA114,Yobrifa-West,46380.0,7872.0,Gridded population estimate 2024
+W0429,Birriwa,LGA114,Yobrifa-West,128118.0,19638.0,Projected 2026 from 2006 census
+W0440,Shaluja,LGA114,Yobrifa-West,42633.0,7718.0,Gridded population estimate 2024
+W0450,Birnuwa,LGA114,Yobrifa-West,188455.0,28202.0,Projected 2026 from 2006 census
+W0466,Sharishi,LGA114,Yobrifa-West,88072.0,15548.0,Projected 2026 from 2006 census
+W0479,Katyodu,LGA043,Hanjile,,,Projected 2026 from 2006 census
+W0497,Olujisa,LGA043,Hanjile,94135.0,14585.0,Projected 2026 from 2006 census
+W0518,Umuwari,LGA043,Hanjile,91696.0,14631.0,Projected 2026 from 2006 census
+W0532,Gwobeno,LGA043,Hanjile,54469.0,9658.0,Projected 2026 from 2006 census
+W0538,Baurino,LGA043,Hanjile,51509.0,8208.0,Projected 2026 from 2006 census
+W0545,Irowani,LGA043,Hanjile,127396.0,19076.0,Gridded population estimate 2024
+W0441,Yobwani,LGA022,Daibama,26544.0,4449.0,Gridded population estimate 2024
+W0446,Shashafa,LGA022,Daibama,90801.0,14081.0,Projected 2026 from 2006 census
+W0456,Okebawo,LGA022,Daibama,65346.0,10973.0,Gridded population estimate 2024
+W0475,Uzozafa,LGA022,Daibama,28734.0,5183.0,Gridded population estimate 2024
+W0483,Birjili,LGA022,Daibama,84992.0,12908.0,Gridded population estimate 2024
+W0500,Riytsina,LGA117,Zamjidu,156842.0,28330.0,Gridded population estimate 2024
+W0505,Riywashi,LGA117,Zamjidu,39119.0,5976.0,Gridded population estimate 2024
+W0516,Dailutu,LGA117,Zamjidu,21865.0,3909.0,Projected 2026 from 2006 census
+W0524,Wurbali,LGA117,Zamjidu,68250.0,11686.0,Gridded population estimate 2024
+W0525,Funzata,LGA117,Zamjidu,56220.0,8588.0,Gridded population estimate 2024
+W0542,Bantsile,LGA073,Nasnadu,17779.0,3209.0,Projected 2026 from 2006 census
+W0543,Ngeriba,LGA073,Nasnadu,14309.0,2466.0,Projected 2026 from 2006 census
+W0548,Uzodushi,LGA073,Nasnadu,33925.0,5842.0,Projected 2026 from 2006 census
+W0557,Adetsita,LGA073,Nasnadu,19311.0,2946.0,Projected 2026 from 2006 census
+W0564,Katnawa,LGA073,Nasnadu,11116.0,1909.0,Projected 2026 from 2006 census
+W0577,Daibano,LGA073,Nasnadu,37618.0,5539.0,Projected 2026 from 2006 census
+W0611,Dairiwo,LGA036,Enumija,9132.0,1503.0,Projected 2026 from 2006 census
+W0613,Supdesa,LGA036,Enumija,23259.0,4191.0,Gridded population estimate 2024
+W0616,Ekejini,LGA036,Enumija,21152.0,3090.0,Projected 2026 from 2006 census
+W0619,Malludu,LGA036,Enumija,27464.0,5014.0,Projected 2026 from 2006 census
+W0620,Gwotsimi,LGA036,Enumija,28730.0,5267.0,Projected 2026 from 2006 census
+W0550,Ngebasa,LGA077,Ngemidu,3763.0,584.0,Gridded population estimate 2024
+W0567,Adenashi,LGA077,Ngemidu,,,Gridded population estimate 2024
+W0574,Gwodeja,LGA077,Ngemidu,19357.0,2979.0,Gridded population estimate 2024
+W0588,Kadsade,LGA077,Ngemidu,29096.0,5141.0,Projected 2026 from 2006 census
+W0599,Malsharu,LGA077,Ngemidu,47299.0,8059.0,Projected 2026 from 2006 census
+W0583,Yelwami,LGA119,Zammiyi,13065.0,1929.0,Gridded population estimate 2024
+W0585,Dutdeyi,LGA119,Zammiyi,28158.0,4310.0,Projected 2026 from 2006 census
+W0591,Oluzana,LGA119,Zammiyi,15334.0,2253.0,Projected 2026 from 2006 census
+W0603,Gwonuri,LGA119,Zammiyi,16351.0,2626.0,Gridded population estimate 2024
+W0604,Okewari,LGA119,Zammiyi,19350.0,2906.0,Projected 2026 from 2006 census
+W0607,Ngetsiko,LGA119,Zammiyi,23816.0,4166.0,Gridded population estimate 2024
+W0600,Agbmami,LGA040,Gwodewo,27160.0,3980.0,Projected 2026 from 2006 census
+W0602,Yelshama,LGA040,Gwodewo,59006.0,10631.0,Projected 2026 from 2006 census
+W0608,Supdedu,LGA040,Gwodewo,10065.0,1766.0,Projected 2026 from 2006 census
+W0610,Ngejile,LGA040,Gwodewo,24367.0,4215.0,Gridded population estimate 2024
+W0615,Aderari,LGA040,Gwodewo,19719.0,3028.0,Projected 2026 from 2006 census

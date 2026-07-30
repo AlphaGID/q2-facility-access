@@ -1,0 +1,1347 @@
+facility_id,facility_name,facility_type,ward_name,lga_name,sen_district,state_name,ownership,longitude,latitude
+HF00260,Uzoyosa Primary Health Centre,Primary Health Centre,Agbratu,Agbmita,Agbzatu North,Agbzatu State,Public,7.908017,7.950908
+HF00805,Baungowa Primary Health Centre,Primary Health Centre,Uzoyodu,Tamwata-South,Uzojina Central,Uzojina State,Public,10.148729,8.435272
+HF00465,Enungoshi Primary Health Centre,Primary Health Centre,Olulusa,Umumayi,Agbzatu South,Agbzatu State,Public,7.805461,9.003807
+HF01015,Riykema Primary Health Centre,Primary Health Centre,Soktiba,Funkedu,Supwasa Central,Supwasa State,Public,10.373417,11.38859
+HF01201,Kadnami Comprehensive Health Centre,Comprehensive Health Centre,Adeketu,Daibewo,Agbkeko Central,Agbkeko State,Private,9.177497,9.482001
+HF00273,Supnuwa Primary Health Centre,Primary Health Centre,Katlano,Malmaba,Agbzatu North,Agbzatu State,Public,7.565845,7.982768
+HF00627,Iroduna Primary Health Centre,Primary Health Centre,Hanradu,Daidefa,Tivbetu Central,Tivbetu State,Public,7.045256,11.00942
+HF00670,Duttiko Health Post,Health Post,Zamwari,Hanjiko,Tivbetu South,Tivbetu State,Public,8.619,11.144178
+HF01243,Sokzayi Comprehensive Health Centre,Comprehensive Health Centre,Irowani,Hanjile,Agbkeko Central,Agbkeko State,Public,9.890179,9.661979
+HF01067,Wurbesa Primary Health Centre,Primary Health Centre,Hantsishi,Okeyoru-South,Supwasa Central,Supwasa State,Public,9.875497,10.846114
+HF00948,Kukrini Primary Health Centre,Primary Health Centre,Uzotsija,Adekeni,Supwasa North,Supwasa State,Public,"9°38'33.6""E","10°56'19.9""N"
+HF00985,Hanluko Primary Health Centre,Primary Health Centre,Adesale,ZAMBANI,Supwasa Central,Supwasa State,Public,10.04905,11.212248
+HF00573,Funrayi Primary Health Centre,Primary Health Centre,Adewadu,Dutwano,Tivbetu Central,Tivbetu State,Public,7.630692,11.172943
+HF00512,Oluyota Primary Health Centre,Primary Health Centre,Adetsile,Bauzani,Tivbetu North,Tivbetu State,Public,8.1,10.52
+HF00003,Sokriba Cottage Hospital,Cottage Hospital,Katzano,Maltsimi,Kukrima North,Kukrima State,Public,6.207094,9.310755
+HF00770,Gwozaba Health Post,Health Post,Uzosawo,Tamluni,Uzojina North,Uzojina State,Public,8.442248,7.967341
+HF00622,Okedushi Health Post,Health Post,Supsani,Daidefa ,Tivbetu Central,Tivbetu State,Public,6.945808,10.924193
+HF00892,Yobludu Health Post,Health Post,Yeldena,Loksayi,Uzojina South,Uzojina State,Public,8.376408,9.003115
+HF00611,Funnufa Health Post,Health Post,Josnata,Ironama,Tivbetu Central,Tivbetu State,Public,7.713948,10.9272
+HF00268,Umuwama Health Post,Health Post,Enunayi,Agbmita,Agbzatu North,Agbzatu State,Private,8.235656,8.049994
+HF00667,Soksharu Primary Health Centre,Primary Health Centre,Sokyowa,Hanjiko,Tivbetu South,Tivbetu State,Public,8.611593,10.999355
+HF00557,Kuklawa Primary Health Centre,Primary Health Centre,Birtima,Soktimi,Tivbetu North,Tivbetu State,Private,7.585153,10.02703
+HF00890,Irowaru Cottage Hospital,Cottage Hospital,Nasrari,Loksayi,Uzojina South,Uzojina State,Public,8.143249,8.751841
+HF00762,Ibamano Health Post,Health Post,Riylale,Tamluni,Uzojina North,Uzojina State,Public,8.397973,7.799525
+HF01107,Hanzano Health Post,Health Post,Agbdeni,Loknaba,Supwasa South,Supwasa State,Public,8.92082,11.504555
+HF00856,Zamduru Primary Health Centre,Primary Health Centre,Wurtimi,Wurkota,Uzojina Central,Uzojina State,Public,8.980323,8.545614
+HF00558,Zammashi Primary Health Centre,Primary Health Centre,Birtima,Soktimi,Tivbetu North,Tivbetu State,Public,7.570048,9.926803
+HF00814,Yelmashi Primary Health Centre,Primary Health Centre,Daideli,Daishali-Central,Uzojina Central,Uzojina State,Public,9.13,8.13
+HF00438,Joszano Health Post,Health Post,Daijiwa,Agbngoru,Agbzatu South,Agbzatu State,Public,7.398021,8.406092
+HF00054,Uzowasa Health Post,Health Post,Wurjimi,Irolufa ,Kukrima North,Kukrima State,Public,6.110032,9.753453
+HF00507,Yelrili Primary Health Centre,Primary Health Centre,Banluba,Bauzani ,Tivbetu North,Tivbetu State,Private,7.870121,10.361789
+HF01185,Wurdude Cottage Hospital,Cottage Hospital,Iroyori,Yeltili,Agbkeko North,Agbkeko State,Faith-based,9.836989,8.910924
+HF01076,Zamjile Primary Health Centre,Primary Health Centre,Uzojiri,Ekedeta-East,Supwasa South,Supwasa State,Private,9.287224,11.580015
+HF00980,Katkona Health Post,Health Post,Sokdeba,Zambani,Supwasa Central,Supwasa State,Faith-based,,
+HF00135,Enubaja Primary Health Centre,Primary Health Centre,Adetidu,Gwolama,Kukrima Central,Kukrima State,Public,6.727273,9.542573
+HF01196,Maljini Primary Health Centre,Primary Health Centre,Kuknayi,Yeltili,Agbkeko North,Agbkeko State,Public,10.180412,9.060246
+HF00521,Naslasa Primary Health Centre,Primary Health Centre,Supbena,Agbzawa-South,Tivbetu North,Tivbetu State,Public,8.360091,9.987065
+HF00109,Supmino Primary Health Centre,Primary Health Centre,Katzale,Lokbaru ,Kukrima Central,Kukrima State,Public,6.640567,9.831372
+HF00310,Wurnali Health Post,Health Post,Riyriru,Josduri-South,Agbzatu North,Agbzatu State,Public,,
+HF00846,Ngeduli Primary Health Centre,Primary Health Centre,Gwoyowo,Adelaja-North,Uzojina Central,Uzojina State,Private,9.272512,8.539446
+HF00517,Zamjino Primary Health Centre,Primary Health Centre,Nasbayi,Agbzawa-South,Tivbetu North,Tivbetu State,Public,8.206622,9.791996
+HF00322,Kadkeni Primary Health Centre,Primary Health Centre,Okeshali,Gwodele-South,Agbzatu North,Agbzatu State,Public,7.959599,7.670939
+HF00123,Tamlatu Health Post,Health Post,Wurdesa,Agbjide,Kukrima Central,Kukrima State,Public,6.821893,9.21825
+HF01155,Ngeshashi Primary Health Centre,Primary Health Centre,Tivdewo,Jostile,Agbkeko North,Agbkeko State,Public,9.908889,9.521433
+HF00454,Irosashi Cottage Hospital,Cottage Hospital,Okelaja,DAISHAKO,Agbzatu South,Agbzatu State,Public,7.583417,8.784474
+HF00804,Hankoyi Cottage Hospital,Cottage Hospital,Uzoyodu,Tamwata-South,Uzojina Central,Uzojina State,Public,10.187914,8.448977
+HF00516,Ekenufa Primary Health Centre,Primary Health Centre,Nasbayi,Agbzawa-South,Tivbetu North,Tivbetu State,Public,8.216741,9.757699
+HF00589,Adedeta Health Post,Health Post,Yelzafa,Irongori,Tivbetu Central,Tivbetu State,Private,7.947185,10.823491
+HF00058,Yobyole Comprehensive Health Centre,Comprehensive Health Centre,Kuknuno,Irolufa,Kukrima North,Kukrima State,Private,6.197444,10.015032
+HF01154,Lokkeba Health Post,Health Post,Tivdewo,Jostile,Agbkeko North,Agbkeko State,Public,9.89696,9.515498
+HF00167,Zamlawa Primary Health Centre,Primary Health Centre,Katwama,WURMASHI,Kukrima Central,Kukrima State,Public,7.411483,9.912909
+HF00926,Uzoyori Primary Health Centre,Primary Health Centre,Malshana,Zamberi-North ,Uzojina South,Uzojina State,Public,8.501021,8.659091
+HF00604,Oketsima Cottage Hospital,Cottage Hospital,Shatsiru,Ironama ,Tivbetu Central,Tivbetu State,Public,7.371901,10.666623
+HF00285,Josrashi Primary Health Centre,Primary Health Centre,Daiyole,Malmaba,Agbzatu North,Agbzatu State,Public,7.768586,7.92846
+HF00637,Zamduko Health Post,Health Post,Wurzafa,Joskeru,Tivbetu South,Tivbetu State,Public,8.683102,11.313295
+HF01021,Katkole Primary Health Centre,Primary Health Centre,Kukngole,Funkedu ,Supwasa Central,Supwasa State,Public,10.252351,11.264894
+HF01182,Yelbele Health Post,Health Post,Maljini,Maljiwo,Agbkeko North,Agbkeko State,Public,9.643656,9.264295
+HF00325,Zammano Health Post,Health Post,Tamngoba,Gwodele South,Agbzatu North,Agbzatu State,Faith-based,8.059011,7.773748
+HF00110,Yelshasa Cottage Hospital,Cottage Hospital,Ekebako,Lokbaru ,Kukrima Central,Kukrima State,Public,6.969075,9.906772
+HF01031,Ngenaba Primary Health Centre,Primary Health Centre,Gwonashi,Josmiba,Supwasa Central,Supwasa State,Public,10.480188,10.41212
+HF00132,Ekemaba Primary Health Centre,Primary Health Centre,Funtsiwa,Tambemi,Kukrima Central,Kukrima State,Public,7.162416,9.831472
+HF00618,Funnuma Health Post,Health Post,Daideno,Tivbani,Tivbetu Central,Tivbetu State,Public,7.536192,10.55022
+HF00816,Uzolude Comprehensive Health Centre,Comprehensive Health Centre,Daideli,Daishali-Central,Uzojina Central,Uzojina State,Public,9.012789,8.199683
+HF00040,Agbritu Health Post,Health Post,Uzobele,Riylude North,Kukrima North,Kukrima State,Public,6.511429,9.595088
+HF00760,Ngebefa Primary Health Centre,Primary Health Centre,Riylale,Tamluni LGA,Uzojina North,Uzojina State,Public,8.416999,7.909065
+HF01239,Iromifa General Hospital,General Hospital,Irowani,Hanjile,Agbkeko Central,Agbkeko State,Public,9.834394,9.623763
+HF00060,Ekejiru Cottage Hospital,Cottage Hospital,Nasnuri,Irolufa,Kukrima North,Kukrima State,Public,6.192201,9.933669
+HF00377,Kukshatu Primary Health Centre,Primary Health Centre,Gwomali,Dutzama,Agbzatu Central,Agbzatu State,Public,6.944508,7.725776
+HF00792,Umumifa Primary Health Centre,Primary Health Centre,Gwobako,Nassako-Central,Uzojina North,Uzojina State,Public,8.85898,7.509353
+HF00954,Irongode Primary Health Centre,Primary Health Centre,Riynuna,NASRIFA,Supwasa North,Supwasa State,Public,"9,066455","10,724456"
+HF00412,Okenadu Primary Health Centre,Primary Health Centre,Zamlani,Iromashi,Agbzatu Central,Agbzatu State,Private,7.093594,8.373692
+HF00878,Baudemi Health Post,Health Post,Wurlutu,OlubaniSouth,Uzojina South,Uzojina State,Public,8.447777,8.411938
+HF01007,Wurkomi Health Post,Health Post,Irozari,Funkedu,Supwasa Central,Supwasa State,Public,10.260593,11.483907
+HF00612,Agbnuni Comprehensive Health Centre,Comprehensive Health Centre,Riyshawa,Ironama LGA,Tivbetu Central,Tivbetu State,Public,7.513699,10.715796
+HF00593,Katnale Health Post,Health Post,Banshako,Irongori,Tivbetu Central,Tivbetu State,Public,7.939329,10.562777
+HF00327,Ibatiwo Health Post,Health Post,Tamngoba,GWODELE-SOUTH,Agbzatu North,Agbzatu State,Public,8.047543,7.748601
+HF00474,Okemama Primary Health Centre,Primary Health Centre,Enuyona,Ngetija,Agbzatu South,Agbzatu State,Public,7.666383,9.058666
+HF00171,Jossaja Primary Health Centre,Primary Health Centre,Riysano,Zamtsiru,Kukrima South,Kukrima State,Public,6.793008,9.99931
+HF00272,Eketide Health Post,Health Post,Katlano,Malmaba,Agbzatu North,Agbzatu State,Public,7.495428,7.999495
+HF00353,Katbako Primary Health Centre,Primary Health Centre,Uzoriyi,Zamkeri,Agbzatu Central,Agbzatu State,Public,6.791232,8.635882
+HF00603,Irojini Primary Health Centre,Primary Health Centre,Shatsiru,Ironama,Tivbetu Central,Tivbetu State,Public,7.444372,10.65135
+HF00146,Okemile Health Post,Health Post,Banrija,Wurmashi ,Kukrima Central,Kukrima State,Public,7.220868,10.195936
+HF01189,Riymaja Primary Health Centre,Primary Health Centre,Nasmitu,YELTILI,Agbkeko North,Agbkeko State,Public,9.889611,8.750201
+HF00872,Adenana Health Post,Health Post,Kukmiyi,Olubani-South,Uzojina South,Uzojina State,Private,8.11253,8.376772
+HF00590,Birtisa Primary Health Centre,Primary Health Centre,Yelzafa,Irongori LGA,Tivbetu Central,Tivbetu State,Public,7.910697,10.762373
+HF01233,Funmima Primary Health Centre,Primary Health Centre,Umuwari,Hanjile,Agbkeko Central,Agbkeko State,Public,9.707219,9.752334
+HF01184,Daideko Primary Health Centre,Primary Health Centre,Oluwaba,Maljiwo,Agbkeko North,Agbkeko State,Public,9.648737,9.487315
+HF00696,Funnuwa Primary Health Centre,Primary Health Centre,Dutrama,Adekowo,Tivbetu South,Tivbetu State,Public,8.457193,11.509368
+HF00078,Wursawo Health Post,Health Post,Fundeyi,Ibabani,Kukrima North,Kukrima State,Public,6.600693,9.210301
+HF00430,Okenuwa Comprehensive Health Centre,Comprehensive Health Centre,Oludude,Oketsifa,Agbzatu South,Agbzatu State,Public,7.978672,8.463104
+HF00232,Irowadu Health Post,Health Post,Hanzami,Enumade-West,Kukrima South,Kukrima State,Public,6.669143,10.501108
+HF00280,Ekengowa Primary Health Centre,Primary Health Centre,Jossafa,Malmaba,Agbzatu North,Agbzatu State,Private,7.661241,8.044617
+HF00607,Malngoma Primary Health Centre,Primary Health Centre,Ekekena,Ironama LGA,Tivbetu Central,Tivbetu State,Public,7.489896,10.816027
+HF00992,Okeyoli Primary Health Centre,Primary Health Centre,Dailaba,Zambani,Supwasa Central,Supwasa State,Private,10.124003,11.206534
+HF01291,Kadduma Health Post,Health Post,Dairiwo,Enumija,Agbkeko South,Agbkeko State,Public,10.596473,10.087195
+HF01278,Dutkemi Health Post,Health Post,Uzodushi,Nasnadu,Agbkeko South,Agbkeko State,Public,9.931932,10.015632
+HF00881,Birngode Primary Health Centre,Primary Health Centre,Suplashi,Uzorisa,Uzojina South,Uzojina State,Faith-based,8.328645,9.375223
+HF00182,Supmimi Health Post,Health Post,Baujimi,DAIZADE,Kukrima South,Kukrima State,Public,6.388055,10.269453
+HF01115,Lokkesa Health Post,Health Post,Ekenuno,Oluyofa,Supwasa South,Supwasa State,Public,9.269803,11.281354
+HF00385,Malmija Health Post,Health Post,Kadjino,Enutifa,Agbzatu Central,Agbzatu State,Public,6.981476,8.01738
+HF01101,Birnuba Primary Health Centre,Primary Health Centre,Katluko,Baumiru,Supwasa South,Supwasa State,Public,9.068453,11.071724
+HF01049,Kukrako Primary Health Centre,Primary Health Centre,Hanbeko,Katdudu,Supwasa Central,Supwasa State,Public,9.91726,10.623578
+HF00259,Tamdena Primary Health Centre,Primary Health Centre,Agbratu,Agbmita,Agbzatu North,Agbzatu State,Private,7.846695,7.87948
+HF01078,Ibalude Health Post,Health Post,Tivnuta,Ekedeta-East,Supwasa South,Supwasa State,Private,9.41374,11.561336
+HF00247,Irosano Health Post,Health Post,Ekezali,Yobkosa-South,Agbzatu North,Agbzatu State,Public,7.477367,7.60339
+HF01179,Adebewo Comprehensive Health Centre,Comprehensive Health Centre,Hanlasa,Maljiwo,Agbkeko North,Agbkeko State,Public,9.473237,9.069337
+HF01289,Olumino Cottage Hospital,Cottage Hospital,Dairiwo,Enumija,Agbkeko South,Agbkeko State,Public,10.661686,10.066308
+HF00061,Ekejiba Health Post,Health Post,Wurshaba,Shajima LGA,Kukrima North,Kukrima State,Public,5.93974,9.277555
+HF00869,Ngewafa Health Post,Health Post,Daikowa,Tivngoba,Uzojina South,Uzojina State,Private,9.0683,9.029568
+HF00858,Okenatu Health Post,Health Post,Adebale,Wurkota,Uzojina Central,Uzojina State,Public,9.230096,8.697439
+HF00709,Josberi Primary Health Centre,Primary Health Centre,Katdeno,Tivrafa-West,Uzojina North,Uzojina State,Public,"9°05'15.7""E","7°51'42.8""N"
+HF00768,Ekeluno Primary Health Centre,Primary Health Centre,Uzosawo,Tamluni,Uzojina North,Uzojina State,Public,8.537452,7.929621
+HF00007,Dutwawa Health Post,Health Post,Dutkoko,Maltsimi,Kukrima North,Kukrima State,Public,6.313554,9.211712
+HF00224,Birmani Health Post,Health Post,Okederi,ENUMADE-WEST,Kukrima South,Kukrima State,Public,6.609607,10.159319
+HF00324,Soklale Health Post,Health Post,Okeshali,Gwodele-South,Agbzatu North,Agbzatu State,Private,7.964362,7.639968
+HF00446,Joskono General Hospital,General Hospital,Katbeba,Daishako,Agbzatu South,Agbzatu State,Public,7.25048,8.964745
+HF00223,Riytifa Primary Health Centre,Primary Health Centre,Nastili,EnumadeWest,Kukrima South,Kukrima State,Public,6.489099,10.40638
+HF00346,Ekebano Primary Health Centre,Primary Health Centre,Dutmili,Zamkeri ,Agbzatu Central,Agbzatu State,Public,6.833786,8.72476
+HF01214,Tamnutu Primary Health Centre,Primary Health Centre,Daizayi,Yobrifa-West,Agbkeko Central,Agbkeko State,Public,8.927396,9.808456
+HF00426,Nasridu Health Post,Health Post,Okekede,Oketsifa,Agbzatu South,Agbzatu State,Private,8.00421,8.651609
+HF00338,Ibanaru Health Post,Health Post,Umubeli,Gwodele South,Agbzatu North,Agbzatu State,Public,8.176598,7.734437
+HF01046,Tivzami Health Post,Health Post,Funnuta,Josmiba,Supwasa Central,Supwasa State,Public,10.726164,10.437667
+HF01164,Funngori Primary Health Centre,Primary Health Centre,Hantsiyi,Jostile,Agbkeko North,Agbkeko State,Public,10.115462,9.28227
+HF00434,Ekeshami Health Post,Health Post,Joszayi,Baungoshi,Agbzatu South,Agbzatu State,Private,7.083152,8.802791
+HF00924,Birnadu Health Post,Health Post,Nastino,ZAMBERI-NORTH,Uzojina South,Uzojina State,Public,,
+HF00149,Funtiko Primary Health Centre,Primary Health Centre,Katshale,WURMASHI,Kukrima Central,Kukrima State,Public,7.086451,10.05271
+HF00575,Agbmiwo Cottage Hospital,Cottage Hospital,Adewadu,Dutwano LGA,Tivbetu Central,Tivbetu State,Public,7.646875,11.256142
+HF00238,Tamrifa Comprehensive Health Centre,Comprehensive Health Centre,Zammiwa,Yobkosa-South,Agbzatu North,Agbzatu State,Public,7.113152,7.718199
+HF01001,Tambeba Comprehensive Health Centre,Comprehensive Health Centre,Zamkoja,Bautiru-West LGA,Supwasa Central,Supwasa State,Public,10.550529,10.988309
+HF00089,Tamngoko Primary Health Centre,Primary Health Centre,Ekerini,Yelkefa,Kukrima Central,Kukrima State,Public,7.273442,9.610453
+HF01088,Malyowa Comprehensive Health Centre,Comprehensive Health Centre,Baubama,Ekedeta-East,Supwasa South,Supwasa State,Public,9.494861,11.60626
+HF00936,Enulani Comprehensive Health Centre,Comprehensive Health Centre,Josmatu,ZAMBERI-NORTH,Uzojina South,Uzojina State,Public,8.593943,8.710386
+HF00680,Sokluko Health Post,Health Post,Kukrali,Olujiwa,Tivbetu South,Tivbetu State,Public,8.178418,11.053379
+HF00427,Yelbena Primary Health Centre,Primary Health Centre,Okekede,Oketsifa,Agbzatu South,Agbzatu State,Private,7.909573,8.602078
+HF00228,Ibajisa Health Post,Health Post,Wurlawo,Enumade-West,Kukrima South,Kukrima State,Public,6.596656,10.287104
+HF00314,Okeshashi Primary Health Centre,Primary Health Centre,Gwonade,Josduri-South,Agbzatu North,Agbzatu State,Public,7.716855,7.619705
+HF00410,Banshari Primary Health Centre,Primary Health Centre,Tammari,Supsama South,Agbzatu Central,Agbzatu State,Private,6.637405,8.27629
+HF00046,Josdewa Primary Health Centre,Primary Health Centre,Tamyowa,Irolufa,Kukrima North,Kukrima State,Public,5.919656,9.891983
+HF00553,Gwotsija General Hospital,General Hospital,Hanbafa,Malbawo-Central,Tivbetu North,Tivbetu State,Public,7.916049,9.535463
+HF00472,Enuzami Health Post,Health Post,Enuyona,Ngetija LGA,Agbzatu South,Agbzatu State,Public,7.751864,8.988739
+HF00864,Enungowo Health Post,Health Post,Kadbana,Tivngoba,Uzojina South,Uzojina State,Public,8.768377,8.778616
+HF00750,Ibabewo Health Post,Health Post,Kuknadu,Nasyotu,Uzojina North,Uzojina State,Private,8.949302,7.995727
+HF00706,Ngeshata Primary Health Centre,Primary Health Centre,Ngeluli,Adekowo,Tivbetu South,Tivbetu State,Private,,
+HF00212,Shazata Primary Health Centre,Primary Health Centre,Kuktsino,Adenaja,Kukrima South,Kukrima State,Public,7.080229,10.451801
+HF00733,Duttiwo Health Post,Health Post,Uzotsiru,Agbkotu-South,Uzojina North,Uzojina State,Public,8.371076,8.225309
+HF00028,Gwoyodu Primary Health Centre,Primary Health Centre,Baukeshi,Riylude-North,Kukrima North,Kukrima State,Faith-based,6.265556,9.779254
+HF01051,Tivbesa Comprehensive Health Centre,Comprehensive Health Centre,Bandema,Katdudu,Supwasa Central,Supwasa State,Public,10.163773,10.563865
+HF00765,Lokmade Primary Health Centre,Primary Health Centre,Riylale,Tamluni,Uzojina North,Uzojina State,Public,8.380314,7.852321
+HF00371,Yelkoru Primary Health Centre,Primary Health Centre,Uzotishi,Lokmata,Agbzatu Central,Agbzatu State,Public,6.740098,8.862194
+HF01165,Wurduwo Cottage Hospital,Cottage Hospital,Riyjiyi,Jostile,Agbkeko North,Agbkeko State,Public,10.100384,9.588139
+HF00975,Birwatu Health Post,Health Post,Okenuko,Wuryona,Supwasa North,Supwasa State,Public,9.900395,10.460292
+HF01327,Okelani Cottage Hospital,Cottage Hospital,Yelshama,Gwodewo,Agbkeko South,Agbkeko State,Private,10.588857,9.841031
+HF00752,Baubeno Primary Health Centre,Primary Health Centre,Kuknadu,Nasyotu,Uzojina North,Uzojina State,Public,8.906137,7.945131
+HF00998,Shajiri Primary Health Centre,Primary Health Centre,Kukbeta,Bautiru-West,Supwasa Central,Supwasa State,Public,10.301712,10.82527
+HF00931,Baukefa Health Post,Health Post,Tivtsisa,Zamberi-North,Uzojina South,Uzojina State,Public,8.529102,8.909557
+HF00852,Dutlayi Comprehensive Health Centre,Comprehensive Health Centre,Loktsifa,Adelaja-North,Uzojina Central,Uzojina State,Public,9.565986,8.407596
+HF900919,Shasayi PHC,Primary Health Centre,Josmako,Banluwo,Uzojina South,Uzojina State,Public,8.711253,8.537559
+HF00112,Agbzari Primary Health Centre,Primary Health Centre,Supzaja,Lokbaru LGA,Kukrima Central,Kukrima State,Public,6.871133,10.009749
+HF00841,Uzoshawo Primary Health Centre,Primary Health Centre,Agbzali,Dutkeni,Uzojina Central,Uzojina State,Private,9.991681,8.455646
+HF00352,Baushaba Health Post,Health Post,Umuwata,Zamkeri,Agbzatu Central,Agbzatu State,Public,6.913406,8.966096
+HF00991,Nasngoshi Primary Health Centre,Primary Health Centre,Dailaba,Zambani,Supwasa Central,Supwasa State,Public,,
+HF00022,Iromari Primary Health Centre,Primary Health Centre,Funngoli,Uzoluni,Kukrima North,Kukrima State,Public,6.21987,9.058692
+HF00357,Oluluri Health Post,Health Post,Funzako,Irosaja,Agbzatu Central,Agbzatu State,Public,6.758515,8.12586
+HF00261,Ekekoru Primary Health Centre,Primary Health Centre,Uzowana,Agbmita,Agbzatu North,Agbzatu State,Public,8.026636,8.192502
+HF00829,Wurduri Primary Health Centre,Primary Health Centre,Ngemili,Yeltsina,Uzojina Central,Uzojina State,Public,9.419292,8.688749
+HF00006,Hanlayi Health Post,Health Post,Olumadu,Maltsimi,Kukrima North,Kukrima State,Public,6.157591,9.570943
+HF00687,Shabade Primary Health Centre,Primary Health Centre,Yeldule,Nasdudu-North,Tivbetu South,Tivbetu State,Public,7.897815,11.565997
+HF00181,Gwoyota Primary Health Centre,Primary Health Centre,Baujimi,Daizade LGA,Kukrima South,Kukrima State,Public,6.279453,10.260356
+HF00140,Hansako Health Post,Health Post,Ekeluwa,Gwolama,Kukrima Central,Kukrima State,Public,6.97876,9.337325
+HF00432,Shangowo Comprehensive Health Centre,Comprehensive Health Centre,Joszayi,BAUNGOSHI,Agbzatu South,Agbzatu State,Public,7.13934,8.866435
+HF00702,Kukkole Health Post,Health Post,Sokshano,Adekowo,Tivbetu South,Tivbetu State,Public,8.687186,11.588935
+HF01075,Josnuri Health Post,Health Post,Baurima,Okeyoru-South,Supwasa Central,Supwasa State,Public,10.050456,10.678583
+HF00334,Lokshata Primary Health Centre,Primary Health Centre,Daidushi,Gwodele-South ,Agbzatu North,Agbzatu State,Public,8.202095,7.515021
+HF00592,Shawale Primary Health Centre,Primary Health Centre,Banshako,Irongori,Tivbetu Central,Tivbetu State,Public,7.962429,10.63916
+HF00101,Okezawo Primary Health Centre,Primary Health Centre,Gwosani,Yelkefa,Kukrima Central,Kukrima State,Public,7.493593,9.441952
+HF01306,Kuksade Health Post,Health Post,Kadsade,Ngemidu,Agbkeko South,Agbkeko State,Private,10.376178,9.590761
+HF00955,Kattishi Cottage Hospital,Cottage Hospital,Sokngono,Nasrifa,Supwasa North,Supwasa State,Faith-based,9.248863,10.8182
+HF01100,Agbmafa Primary Health Centre,Primary Health Centre,Katluko,Baumiru,Supwasa South,Supwasa State,Private,9.014823,11.154474
+HF01211,Kuktiru Health Post,Health Post,Ibayoma,Yobrifa-West,Agbkeko Central,Agbkeko State,Public,8.894472,9.63016
+HF01240,Yellaja Comprehensive Health Centre,Comprehensive Health Centre,Irowani,Hanjile,Agbkeko Central,Agbkeko State,Public,9.881908,9.6406
+HF00921,Uzowami Health Post,Health Post,Ekengoja,Banluwo,Uzojina South,Uzojina State,Public,8.831699,8.673921
+HF00875,Zammiwa Health Post,Health Post,Tamduri,Olubani-South,Uzojina South,Uzojina State,Public,8.293469,8.532028
+HF01326,Agbsaja Primary Health Centre,Primary Health Centre,Yelshama,Gwodewo,Agbkeko South,Agbkeko State,Public,10.55459,9.870037
+HF00031,Kadmasa Health Post,Health Post,Baukeshi,Riylude-North,Kukrima North,Kukrima State,Public,6.253184,9.830211
+HF00197,Gwongoba Cottage Hospital,Cottage Hospital,Zamkono,Umumitu,Kukrima South,Kukrima State,Public,6.661819,10.88988
+HF00685,Tivngoma Primary Health Centre,Primary Health Centre,Yobbana,Olujiwa,Tivbetu South,Tivbetu State,Public,8.276554,10.800409
+HF01319,Wurduyi Cottage Hospital,Cottage Hospital,Ngetsiko,Zammiyi,Agbkeko South,Agbkeko State,Public,10.642577,10.033475
+HF00568,Irosale Health Post,Health Post,Oluyoko,Ibajija-South,Tivbetu Central,Tivbetu State,Public,10.98254,7.147829
+HF00585,Baumishi Primary Health Centre,Primary Health Centre,Tivzana,Irongori,Tivbetu Central,Tivbetu State,Public,7.789818,10.883615
+HF00443,Riyzashi Comprehensive Health Centre,Comprehensive Health Centre,Ekekowo,AGBNGORU,Agbzatu South,Agbzatu State,Private,7.65573,8.430011
+HF01237,Okesadu Health Post,Health Post,Gwobeno,HANJILE,Agbkeko Central,Agbkeko State,Public,9.658971,9.607714
+HF00754,Ekeritu Primary Health Centre,Primary Health Centre,Banwama,NASYOTU,Uzojina North,Uzojina State,Public,9.198542,8.028332
+HF01282,Ibatsidu Primary Health Centre,Primary Health Centre,Adetsita,Nasnadu,Agbkeko South,Agbkeko State,Public,10.078286,10.270813
+HF00951,Suplano Health Post,Health Post,Birtsiba,Nasrifa,Supwasa North,Supwasa State,Public,8.957197,10.87669
+HF01299,Irongori Primary Health Centre,Primary Health Centre,Gwotsimi,Enumija ,Agbkeko South,Agbkeko State,Public,10.826209,10.227893
+HF00133,Nasketa Comprehensive Health Centre,Comprehensive Health Centre,Adetidu,Gwolama,Kukrima Central,Kukrima State,Public,6.729949,9.695893
+HF00786,Uzozata Primary Health Centre,Primary Health Centre,Ngemiyi,Nassako-Central,Uzojina North,Uzojina State,Public,8.540909,7.439272
+HF01216,Ngetsishi Comprehensive Health Centre,Comprehensive Health Centre,Birriwa,Yobrifa West,Agbkeko Central,Agbkeko State,Public,8.967089,9.602304
+HF00063,Soknano Primary Health Centre,Primary Health Centre,Aderita,Shajima,Kukrima North,Kukrima State,Public,5.836909,9.041206
+HF00941,Ibajishi Health Post,Health Post,Wurshani,Adekeni,Supwasa North,Supwasa State,Public,9.464985,10.629006
+HF00463,Supbesa Health Post,Health Post,Nasnayi,Umumayi,Agbzatu South,Agbzatu State,Faith-based,8.003522,9.339455
+HF00375,Agbdutu Primary Health Centre,Primary Health Centre,Uzotishi,Lokmata,Agbzatu Central,Agbzatu State,Public,6.766095,8.727617
+HF00103,Umunuba Primary Health Centre,Primary Health Centre,Naslama,Yelkefa,Kukrima Central,Kukrima State,Public,"7,444181","9,87923"
+HF00359,Gwotsina Health Post,Health Post,Funzako,Irosaja,Agbzatu Central,Agbzatu State,Public,6.657077,8.081276
+HF00131,Wurdewo Health Post,Health Post,Agbtifa,Tambemi,Kukrima Central,Kukrima State,Public,7.032331,9.876326
+HF00476,Okelata Health Post,Health Post,Enuyona,Ngetija,Agbzatu South,Agbzatu State,Public,7.753388,8.960476
+HF00703,Tivluta Primary Health Centre,Primary Health Centre,Sokshano,Adekowo,Tivbetu South,Tivbetu State,Public,8.714223,11.590589
+HF00497,Ekejiwa Health Post,Health Post,Kukbeja,Agbtsiko,Tivbetu North,Tivbetu State,Private,7.978348,9.937524
+HF01085,Riybeno Primary Health Centre,Primary Health Centre,Baubama,Ekedeta East,Supwasa South,Supwasa State,Public,9.507048,11.547113
+HF00569,Jostiyi Primary Health Centre,Primary Health Centre,Loksafa,Ibajija-South ,Tivbetu Central,Tivbetu State,Public,7.189703,10.771575
+HF00616,Banmawo Comprehensive Health Centre,Comprehensive Health Centre,Daideno,Tivbani,Tivbetu Central,Tivbetu State,Public,7.62362,10.564237
+HF00248,Wurwaru Health Post,Health Post,Ekezali,Yobkosa-South,Agbzatu North,Agbzatu State,Public,7.494263,7.59634
+HF01213,Okejili Health Post,Health Post,Daizayi,Yobrifa West,Agbkeko Central,Agbkeko State,Public,9.070264,9.708487
+HF900253,Ngemiba Health Post,Health Post,Kadbetu,Agbmita,Agbzatu North,Agbzatu State,Public,8.394384,7.88658
+HF00490,Bausade Primary Health Centre,Primary Health Centre,Umunuta,Tivsano-North,Tivbetu North,Tivbetu State,Public,8.463749,10.277329
+HF00894,Shamade Primary Health Centre,Primary Health Centre,Yeldena,LOKSAYI,Uzojina South,Uzojina State,Public,8.315355,8.89229
+HF00743,Yobmiba Primary Health Centre,Primary Health Centre,Daitsitu,Agbkotu-South,Uzojina North,Uzojina State,Public,8.495016,8.147641
+HF00994,Birraja Primary Health Centre,Primary Health Centre,Irokoni,ZAMBANI,Supwasa Central,Supwasa State,Public,10.279417,10.901836
+HF00459,Tamjiwo Primary Health Centre,Primary Health Centre,Kuktiwa,Umumayi,Agbzatu South,Agbzatu State,Public,7.633257,9.456743
+HF00638,Riymiru Comprehensive Health Centre,Comprehensive Health Centre,Okeluwo,Tamlufa-East LGA,Tivbetu South,Tivbetu State,Public,8.553245,10.719561
+HF00496,Irorako Cottage Hospital,Cottage Hospital,Eketiyi,AGBTSIKO,Tivbetu North,Tivbetu State,Public,7.973203,9.695171
+HF00160,Supshade Primary Health Centre,Primary Health Centre,Birwari,Wurmashi,Kukrima Central,Kukrima State,Public,7.277172,9.966112
+HF00780,Umumiru Primary Health Centre,Primary Health Centre,Riymano,Nassako-Central,Uzojina North,Uzojina State,Public,7.409559,8.275578
+HF00256,Zamrata Comprehensive Health Centre,Comprehensive Health Centre,Kadbetu,Agbmita,Agbzatu North,Agbzatu State,Public,7.921323,8.365892
+HF00630,Agbzade Health Post,Health Post,Katriwa,Joskeru,Tivbetu South,Tivbetu State,Public,8.390897,11.339983
+HF01147,Shazale Health Post,Health Post,Riynawa,Lokshasa,Agbkeko North,Agbkeko State,Public,10.550423,9.439153
+HF00218,Nasrani Health Post,Health Post,Irobade,Banluta,Kukrima South,Kukrima State,Public,6.100463,10.150814
+HF00707,Sokshayi Health Post,Health Post,Agbkoli,Tivrafa-West ,Uzojina North,Uzojina State,Public,8.955445,7.646671
+HF01204,Lokwata Primary Health Centre,Primary Health Centre,Suptini,DAIBEWO,Agbkeko Central,Agbkeko State,Public,9.339605,9.420845
+HF00543,Birdewo Primary Health Centre,Primary Health Centre,Okedesa,Uzoberi,Tivbetu North,Tivbetu State,Public,8.841955,10.126361
+HF00143,Baushani Health Post,Health Post,Lokngowa,Gwolama,Kukrima Central,Kukrima State,Public,6.915991,9.185069
+HF00136,Yelyode Health Post,Health Post,Malsana,Gwolama,Kukrima Central,Kukrima State,Public,6.817994,9.514545
+HF01098,Umuzadu Primary Health Centre,Primary Health Centre,Katluko,Baumiru,Supwasa South,Supwasa State,Public,9.02877,11.115224
+HF01177,Dutbafa Comprehensive Health Centre,Comprehensive Health Centre,Malnumi,Maljiwo,Agbkeko North,Agbkeko State,Public,9.497099,9.123282
+HF01245,Dutnata Primary Health Centre,Primary Health Centre,Yobwani,Daibama,Agbkeko Central,Agbkeko State,Public,9.154912,9.910187
+HF00282,Wurkoma Comprehensive Health Centre,Comprehensive Health Centre,Jossafa,Malmaba,Agbzatu North,Agbzatu State,Public,7.744936,8.14884
+HF00788,Ibadewa Health Post,Health Post,Daitisa,Nassako-Central,Uzojina North,Uzojina State,Public,8.580784,7.497792
+HF00305,Baushadu General Hospital,General Hospital,Kuktsini,Hanraja,Agbzatu North,Agbzatu State,Public,7.501431,7.908779
+HF01027,Yelmatu Primary Health Centre,Primary Health Centre,Wurbasa,Funkedu,Supwasa Central,Supwasa State,Faith-based,10.577629,11.270131
+HF00539,Umunushi Primary Health Centre,Primary Health Centre,Supmita,Uzoberi,Tivbetu North,Tivbetu State,Faith-based,8.849711,10.173867
+HF00342,Banluna Primary Health Centre,Primary Health Centre,Bannayi,Zamkeri ,Agbzatu Central,Agbzatu State,Faith-based,6.760362,8.967704
+HF00662,Iromani Health Post,Health Post,Tivshana,Hanjiko,Tivbetu South,Tivbetu State,Public,8.516601,11.019014
+HF01074,Dairaja Comprehensive Health Centre,Comprehensive Health Centre,Baurima,Okeyoru-South,Supwasa Central,Supwasa State,Public,9.975258,10.731835
+HF00258,Kukdetu Primary Health Centre,Primary Health Centre,Agbratu,Agbmita,Agbzatu North,Agbzatu State,Public,7.91,7.81
+HF00098,Ibararu Comprehensive Health Centre,Comprehensive Health Centre,Hanlana,Yelkefa,Kukrima Central,Kukrima State,Public,7.339431,9.436547
+HF00861,Olumawo Health Post,Health Post,Sharimi,Wurkota,Uzojina Central,Uzojina State,Public,9.282455,9.087383
+HF00081,Wurdule Comprehensive Health Centre,Comprehensive Health Centre,Ibasashi,EKEJISA-NORTH,Kukrima North,Kukrima State,Public,5.699544,9.729066
+HF01123,Nasnari Health Post,Health Post,Naslawa,Tivmama,Supwasa South,Supwasa State,Public,9.64695,11.091215
+HF00982,Riylule Primary Health Centre,Primary Health Centre,Adesale,Zambani ,Supwasa Central,Supwasa State,Public,9.910613,11.210663
+HF00099,Zambeshi Health Post,Health Post,Gwosani,Yelkefa,Kukrima Central,Kukrima State,Public,7.5895,9.428368
+HF00118,Joswaba Health Post,Health Post,Zamyoru,Agbjide,Kukrima Central,Kukrima State,Private,6.572116,9.523416
+HF01081,Nasmayi Primary Health Centre,Primary Health Centre,Tivnuta,Ekedeta-East,Supwasa South,Supwasa State,Public,9.488061,11.604106
+HF00056,Olusari General Hospital,General Hospital,Kuknuno,Irolufa,Kukrima North,Kukrima State,Public,6.131007,9.973242
+HF01317,Dutnaba Primary Health Centre,Primary Health Centre,Okewari,Zammiyi,Agbkeko South,Agbkeko State,Public,10.46656,10.186012
+HF01056,Nasmali General Hospital,General Hospital,Wurtsiwa,Katdudu,Supwasa Central,Supwasa State,Public,10.114072,10.505125
+HF00935,Wurrata Primary Health Centre,Primary Health Centre,Josmatu,Zamberi-North LGA,Uzojina South,Uzojina State,Public,8.680263,8.751563
+HF00956,Soklata Health Post,Health Post,Daizaba,Nasrifa,Supwasa North,Supwasa State,Public,9.243193,10.648005
+HF00996,Shadeli Cottage Hospital,Cottage Hospital,Irokoni,ZAMBANI,Supwasa Central,Supwasa State,Public,10.246834,10.87804
+HF01297,Riybede Primary Health Centre,Primary Health Centre,Malludu,Enumija,Agbkeko South,Agbkeko State,Public,10.863171,10.078358
+HF00120,Malrami General Hospital,General Hospital,Kadjisa,Agbjide,Kukrima Central,Kukrima State,Public,6.704085,9.374498
+HF01143,Adeduni Health Post,Health Post,Bauyoyi,Sokmiri,Agbkeko North,Agbkeko State,Public,9.746433,8.988746
+HF00973,Malluna Health Post,Health Post,Wurkele,Wuryona,Supwasa North,Supwasa State,Faith-based,9.811489,10.578971
+HF00230,Tivsami Primary Health Centre,Primary Health Centre,Wurlawo,Enumade-West,Kukrima South,Kukrima State,Public,6.527888,10.282229
+HF01275,Ibarana Primary Health Centre,Primary Health Centre,Uzodushi,Nasnadu,Agbkeko South,Agbkeko State,Public,9.941365,9.886431
+HF00065,Agbrisa Comprehensive Health Centre,Comprehensive Health Centre,Joswaja,SHAJIMA,Kukrima North,Kukrima State,Public,6.135081,9.231325
+HF00772,Birmili Comprehensive Health Centre,Comprehensive Health Centre,Uzosawo,Tamluni,Uzojina North,Uzojina State,Private,8.525022,7.911056
+HF00544,Riytina Comprehensive Health Centre,Comprehensive Health Centre,Okedesa,Uzoberi,Tivbetu North,Tivbetu State,Public,8.967805,10.154681
+HF01284,Enushafa Health Post,Health Post,Katnawa,Nasnadu,Agbkeko South,Agbkeko State,Public,10.045463,10.105296
+HF00200,Daibawo Comprehensive Health Centre,Comprehensive Health Centre,Kukjimi,Umumitu,Kukrima South,Kukrima State,Public,6.864166,10.900675
+HF00494,Tivderi Cottage Hospital,Cottage Hospital,Eketiyi,Agbtsiko,Tivbetu North,Tivbetu State,Public,7.99,9.78
+HF00880,Wurjide Primary Health Centre,Primary Health Centre,Jostsita,Olubani-South,Uzojina South,Uzojina State,Public,8.333424,8.594569
+HF01131,Olurayi Primary Health Centre,Primary Health Centre,Kadzaru,Tivmama,Supwasa South,Supwasa State,Public,10.008208,11.477596
+HF00619,Tammafa Health Post,Health Post,Daideno,Tivbani,Tivbetu Central,Tivbetu State,Public,7.568924,10.550798
+HF00082,Yobrana Primary Health Centre,Primary Health Centre,Ibasashi,Ekejisa-North,Kukrima North,Kukrima State,Private,5.655149,9.628072
+HF00413,Katwasa Health Post,Health Post,Zamlani,Iromashi,Agbzatu Central,Agbzatu State,Private,7.069807,8.492966
+HF00201,Kadmade Primary Health Centre,Primary Health Centre,Ibanana,Adenaja,Kukrima South,Kukrima State,Public,6.738118,10.610027
+HF00229,Kukkoyi Comprehensive Health Centre,Comprehensive Health Centre,Wurlawo,Enumade-West,Kukrima South,Kukrima State,Public,6.495369,10.279602
+HF00855,Yelnule Primary Health Centre,Primary Health Centre,Wurtimi,WURKOTA,Uzojina Central,Uzojina State,Public,8.954704,8.513525
+HF00344,Kadngoko Health Post,Health Post,Dutmili,Zamkeri,Agbzatu Central,Agbzatu State,Private,6.95,8.7
+HF01260,Adeyowa General Hospital,General Hospital,Riytsina,ZAMJIDU,Agbkeko Central,Agbkeko State,Faith-based,9.508888,10.03343
+HF00784,Sokrimi Health Post,Health Post,Uzorimi,Nassako-Central,Uzojina North,Uzojina State,Private,8.317521,7.294495
+HF00505,Olukeko Cottage Hospital,Cottage Hospital,Banluba,Bauzani,Tivbetu North,Tivbetu State,Public,7.890172,10.501407
+HF01099,Jostiri Primary Health Centre,Primary Health Centre,Katluko,Baumiru,Supwasa South,Supwasa State,Private,9.07046,11.200216
+HF01163,Ngeluni Primary Health Centre,Primary Health Centre,Yobkema,Jostile,Agbkeko North,Agbkeko State,Private,10.143697,9.414559
+HF00010,Irongole Comprehensive Health Centre,Comprehensive Health Centre,Oludeli,Katmaba,Kukrima North,Kukrima State,Public,5.701687,9.161474
+HF00838,Ibakeja Primary Health Centre,Primary Health Centre,Supriyi,Dutkeni ,Uzojina Central,Uzojina State,Public,9.696847,8.418326
+HF01174,Daingoyi Primary Health Centre,Primary Health Centre,Malnumi,Maljiwo ,Agbkeko North,Agbkeko State,Public,9.4965,9.130317
+HF01065,Yeltima Primary Health Centre,Primary Health Centre,Umuyoba,OKEYORU-SOUTH,Supwasa Central,Supwasa State,Public,9.796443,10.791494
+HF00583,Ngesami Primary Health Centre,Primary Health Centre,Funmidu,Irongori,Tivbetu Central,Tivbetu State,Public,7.702457,10.737229
+HF00304,Josluja Primary Health Centre,Primary Health Centre,Dutkota,Hanraja,Agbzatu North,Agbzatu State,Public,7.425182,7.864777
+HF00214,Bauladu Comprehensive Health Centre,Comprehensive Health Centre,Okenawa,Adenaja,Kukrima South,Kukrima State,Private,7.041731,10.641934
+HF00911,Kadngoshi Cottage Hospital,Cottage Hospital,Yobnushi,Agbridu-West,Uzojina South,Uzojina State,Public,8.208013,9.211652
+HF00088,Okemako Cottage Hospital,Cottage Hospital,Lokngodu,Ekejisa-North,Kukrima North,Kukrima State,Public,5.938353,9.729836
+HF00582,Agbriyi Health Post,Health Post,Funmidu,Irongori,Tivbetu Central,Tivbetu State,Private,7.654234,10.685819
+HF00672,Birlude Primary Health Centre,Primary Health Centre,Daimako,Hanjiko,Tivbetu South,Tivbetu State,Private,8.724419,10.909656
+HF01043,Bannuli Health Post,Health Post,Wurngomi,Josmiba,Supwasa Central,Supwasa State,Public,10.650835,10.628476
+HF00591,Ngekori Comprehensive Health Centre,Comprehensive Health Centre,Yelzafa,Irongori,Tivbetu Central,Tivbetu State,Public,7.87,10.66
+HF01285,Daishasa Health Post,Health Post,Daibano,Nasnadu,Agbkeko South,Agbkeko State,Public,10.203595,10.229631
+HF00910,Lokshana Health Post,Health Post,Hanwano,AGBRIDU-WEST,Uzojina South,Uzojina State,Private,8.189422,9.08186
+HF00391,Tivtifa Primary Health Centre,Primary Health Centre,Oluketa,Enutifa,Agbzatu Central,Agbzatu State,Public,7.168547,7.926887
+HF00721,Wurtsima Health Post,Health Post,Katbaru,Dutjiri LGA,Uzojina North,Uzojina State,Public,8.706286,8.311258
+HF01269,Sokkesa Primary Health Centre,Primary Health Centre,Bantsile,Nasnadu,Agbkeko South,Agbkeko State,Public,9.888763,10.18315
+HF00567,Gwonuli Comprehensive Health Centre,Comprehensive Health Centre,Oluyoko,Ibajija-South,Tivbetu Central,Tivbetu State,Public,7.2,10.91
+HF00368,Agbjisa Health Post,Health Post,Okewako,Lokmata,Agbzatu Central,Agbzatu State,Private,6.626039,8.736826
+HF00336,Umutsita Comprehensive Health Centre,Comprehensive Health Centre,Umubeli,Gwodele-South,Agbzatu North,Agbzatu State,Public,8.289558,7.658991
+HF00684,Umukeru Primary Health Centre,Primary Health Centre,Agbsama,Olujiwa,Tivbetu South,Tivbetu State,Public,8.30342,10.611765
+HF00608,Ekenuna Primary Health Centre,Primary Health Centre,Ekekena,Ironama,Tivbetu Central,Tivbetu State,Public,7.45021,10.762142
+HF00793,Yeljiko Primary Health Centre,Primary Health Centre,Gwobako,Nassako-Central,Uzojina North,Uzojina State,Public,8.89048,7.503743
+HF00462,Riykota Health Post,Health Post,Nasnayi,Umumayi,Agbzatu South,Agbzatu State,Public,7.862228,9.412381
+HF00654,Yobngoshi Health Post,Health Post,Funrashi,Ibamide,Tivbetu South,Tivbetu State,Public,8.246522,11.477482
+HF00761,Zamsaru Primary Health Centre,Primary Health Centre,Riylale,Tamluni,Uzojina North,Uzojina State,Public,8.464619,7.839465
+HF00069,Katjiyi Primary Health Centre,Primary Health Centre,Sokdema,Shajima,Kukrima North,Kukrima State,Public,5.991622,9.45229
+HF00515,Shajino Primary Health Centre,Primary Health Centre,Nasbayi,Agbzawa-South,Tivbetu North,Tivbetu State,Public,8.273164,9.774455
+HF01102,Riymani Primary Health Centre,Primary Health Centre,Joslaru,Loknaba,Supwasa South,Supwasa State,Public,8.877646,11.39921
+HF01152,Umubesa Cottage Hospital,Cottage Hospital,Riynawa,Lokshasa,Agbkeko North,Agbkeko State,Private,10.507394,9.386771
+HF00979,Adebedu Primary Health Centre,Primary Health Centre,Sokdeba,Zambani,Supwasa Central,Supwasa State,Public,9.8651,11.012778
+HF00617,Ekejiyi Health Post,Health Post,Daideno,Tivbani,Tivbetu Central,Tivbetu State,Private,,
+HF00995,Riyngodu Comprehensive Health Centre,Comprehensive Health Centre,Irokoni,Zambani,Supwasa Central,Supwasa State,Public,10.160937,10.926222
+HF00692,Yellafa Cottage Hospital,Cottage Hospital,Okenatu,NASDUDU-NORTH,Tivbetu South,Tivbetu State,Public,8.057355,11.155358
+HF00825,Sokbawo Primary Health Centre,Primary Health Centre,Adetsidu,Daishali-Central,Uzojina Central,Uzojina State,Private,9.230967,8.23195
+HF00151,Naskoli Primary Health Centre,Primary Health Centre,Hanluta,Wurmashi,Kukrima Central,Kukrima State,Faith-based,7.36,10.14
+HF00660,Yellano Primary Health Centre,Primary Health Centre,Tivshana,Hanjiko,Tivbetu South,Tivbetu State,Public,8.503773,10.984919
+HF900014,Yellali PHC,Primary Health Centre,Maltsisa,Katmaba,Kukrima North,Kukrima State,Public,"5,698752","9,381432"
+HF01129,Yelkemi Primary Health Centre,Primary Health Centre,Loktifa,Tivmama,Supwasa South,Supwasa State,Public,10.182685,11.552551
+HF00281,Hansashi General Hospital,General Hospital,Jossafa,Malmaba,Agbzatu North,Agbzatu State,Public,7.765756,8.140065
+HF00121,Bauwatu General Hospital,General Hospital,Wurdesa,Agbjide,Kukrima Central,Kukrima State,Private,,
+HF00902,Daizale Health Post,Health Post,Banzashi,Hansatu,Uzojina South,Uzojina State,Private,8.822596,9.452789
+HF00290,Zamrama Primary Health Centre,Primary Health Centre,Daisale,Supyoshi-East,Agbzatu North,Agbzatu State,Public,7.788012,7.394021
+HF00479,Olumaru Cottage Hospital,Cottage Hospital,Yobbeko,Ngetija,Agbzatu South,Agbzatu State,Public,7.657602,9.11469
+HF01178,Riysayi General Hospital,General Hospital,Hanlasa,Maljiwo,Agbkeko North,Agbkeko State,Public,9.544469,9.059718
+HF00833,Hanngoma Comprehensive Health Centre,Comprehensive Health Centre,Hantima,Yeltsina,Uzojina Central,Uzojina State,Public,9.539544,8.899281
+HF00832,Ekejiwo Comprehensive Health Centre,Comprehensive Health Centre,Hantima,Yeltsina,Uzojina Central,Uzojina State,Public,9.579981,8.969575
+HF00510,Kukmaja Primary Health Centre,Primary Health Centre,Bannasa,Bauzani LGA,Tivbetu North,Tivbetu State,Public,8.031191,10.374378
+HF01055,Baujiri Primary Health Centre,Primary Health Centre,Wurtsiwa,Katdudu,Supwasa Central,Supwasa State,Public,10.012807,10.446536
+HF00785,Banwata Comprehensive Health Centre,Comprehensive Health Centre,Ngemiyi,Nassako Central,Uzojina North,Uzojina State,Public,8.533487,7.371664
+HF00092,Baukowa Primary Health Centre,Primary Health Centre,Adelawa,YELKEFA,Kukrima Central,Kukrima State,Public,7.377988,9.715044
+HF00835,Ibarako Primary Health Centre,Primary Health Centre,Dairili,Dutkeni,Uzojina Central,Uzojina State,Public,9.596073,8.626605
+HF00776,Olutiko Primary Health Centre,Primary Health Centre,Bantsiko,TAMLUNI,Uzojina North,Uzojina State,Public,8.748026,7.721966
+HF00423,Okesana Cottage Hospital,Cottage Hospital,Wurnude,Oketsifa,Agbzatu South,Agbzatu State,Public,7.959241,8.730055
+HF00615,Riyduwa Comprehensive Health Centre,Comprehensive Health Centre,Shabani,Ironama,Tivbetu Central,Tivbetu State,Public,7.601149,10.788938
+HF00257,Uzozana Primary Health Centre,Primary Health Centre,Kadbetu,Agbmita,Agbzatu North,Agbzatu State,Public,8.028324,8.318118
+HF901326,Agbsaja PHC,Primary Health Centre,Yelshama,Gwodewo ,Agbkeko South,Agbkeko State,Public,10.55459,9.870037
+HF00487,Daishatu Primary Health Centre,Primary Health Centre,Riyzama,Tivsano-North,Tivbetu North,Tivbetu State,Public,8.416361,10.051751
+HF900254,Agbmade PHC,Primary Health Centre,Kadbetu,Agbmita,Agbzatu North,Agbzatu State,Private,7.863119,8.300637
+HF01277,Kadluli General Hospital,General Hospital,Uzodushi,Nasnadu,Agbkeko South,Agbkeko State,Private,9.906101,9.89263
+HF00450,Funzafa Health Post,Health Post,Zamnawo,Daishako,Agbzatu South,Agbzatu State,Private,7.399633,8.90719
+HF00335,Yobdeko Primary Health Centre,Primary Health Centre,Umubeli,Gwodele-South,Agbzatu North,Agbzatu State,Public,8.282042,7.689059
+HF00673,Kadyoni Health Post,Health Post,Baunata,Hanjiko,Tivbetu South,Tivbetu State,Public,8.780939,11.127303
+HF00030,Hanlusa Cottage Hospital,Cottage Hospital,Baukeshi,Riylude-North,Kukrima North,Kukrima State,Public,6.2699,9.78267
+HF01151,Wurngoyi Comprehensive Health Centre,Comprehensive Health Centre,Riynawa,Lokshasa,Agbkeko North,Agbkeko State,Public,10.559593,9.358575
+HF00970,Lokritu Primary Health Centre,Primary Health Centre,Katraja,Wuryona,Supwasa North,Supwasa State,Public,9.721687,10.423517
+HF00518,Dutsashi Primary Health Centre,Primary Health Centre,Nasbayi,Agbzawa-South,Tivbetu North,Tivbetu State,Public,8.192224,9.639157
+HF900512,Oluyota PHC,Primary Health Centre,Adetsile,Bauzani,Tivbetu North,Tivbetu State,Public,8.1,10.52
+HF900825,Sokbawo PHC,Primary Health Centre,Adetsidu,Daishali Central,Uzojina Central,Uzojina State,Private,9.230967,8.23195
+HF00676,Ekeridu Cottage Hospital,Cottage Hospital,Ngeduru,Olujiwa,Tivbetu South,Tivbetu State,Private,7.898121,10.954963
+HF00041,Kukzadu Primary Health Centre,Primary Health Centre,Uzobele,Riylude-North LGA,Kukrima North,Kukrima State,Public,6.473236,9.61267
+HF00017,Ibamako Primary Health Centre,Primary Health Centre,Shaluri,Uzoluni,Kukrima North,Kukrima State,Public,5.866775,8.909237
+HF01322,Fundeta Primary Health Centre,Primary Health Centre,Yelshama,Gwodewo,Agbkeko South,Agbkeko State,Public,10.481587,9.86026
+HF00990,Riyshari General Hospital,General Hospital,Dailaba,Zambani LGA,Supwasa Central,Supwasa State,Public,,
+HF01121,Olubeli Primary Health Centre,Primary Health Centre,Soknutu,Oluyofa,Supwasa South,Supwasa State,Public,9.336942,11.105304
+HF01105,Ibasami Primary Health Centre,Primary Health Centre,Agbdeni,Loknaba,Supwasa South,Supwasa State,Public,9.026423,11.494417
+HF00542,Agbdeja Primary Health Centre,Primary Health Centre,Yelnuba,Uzoberi,Tivbetu North,Tivbetu State,Public,8.907795,10.389694
+HF00668,Yobbafa Health Post,Health Post,Katbeno,Hanjiko,Tivbetu South,Tivbetu State,Public,10.779479,8.691083
+HF00645,Ibashani General Hospital,General Hospital,Ibayoja,TAMLUFA-EAST,Tivbetu South,Tivbetu State,Faith-based,8.74827,10.749672
+HF00541,Iroyoshi Health Post,Health Post,Yelnuba,Uzoberi LGA,Tivbetu North,Tivbetu State,Public,8.758937,10.43891
+HF00545,Ngenashi Primary Health Centre,Primary Health Centre,Okedesa,Uzoberi,Tivbetu North,Tivbetu State,Faith-based,8.91,10.15
+HF01061,Gwobayi Health Post,Health Post,Daibefa,Katdudu,Supwasa Central,Supwasa State,Public,10.26702,10.634883
+HF00897,Umuluyi Primary Health Centre,Primary Health Centre,Lokkona,Loksayi,Uzojina South,Uzojina State,Public,8.426733,9.025432
+HF00451,Lokdushi Health Post,Health Post,Wurnuri,Daishako,Agbzatu South,Agbzatu State,Public,7.470794,8.702362
+HF00250,Riymama Health Post,Health Post,Daizaru,Agbmita,Agbzatu North,Agbzatu State,Public,7.82337,8.006812
+HF01203,Yobsashi General Hospital,General Hospital,Suptini,Daibewo,Agbkeko Central,Agbkeko State,Public,9.38731,9.419656
+HF00602,Olubeyi Primary Health Centre,Primary Health Centre,Duttsija,Agblasa,Tivbetu Central,Tivbetu State,Faith-based,7.521693,10.210758
+HF00610,Shalami Health Post,Health Post,Josnata,Ironama,Tivbetu Central,Tivbetu State,Public,7.580064,10.90938
+HF00011,Funnuwo Health Post,Health Post,Oludeli,Katmaba,Kukrima North,Kukrima State,Faith-based,5.648793,9.306261
+HF00757,Umuriwa Health Post,Health Post,Daiyona,Tamluni,Uzojina North,Uzojina State,Public,8.312096,7.821255
+HF01025,Nasngotu Comprehensive Health Centre,Comprehensive Health Centre,Ngetiba,Funkedu,Supwasa Central,Supwasa State,Public,10.495448,11.155514
+HF00891,Loktsiba Health Post,Health Post,Riyridu,Loksayi ,Uzojina South,Uzojina State,Public,8.19065,8.941948
+HF00066,Loktsile Health Post,Health Post,Joswaja,SHAJIMA,Kukrima North,Kukrima State,Public,,
+HF00999,Shanawo Health Post,Health Post,Uzomisa,Bautiru-West,Supwasa Central,Supwasa State,Public,10.431509,10.793258
+HF01120,Sokdema Comprehensive Health Centre,Comprehensive Health Centre,Soknutu,Oluyofa,Supwasa South,Supwasa State,Private,9.393041,11.200785
+HF00828,Irozaru Primary Health Centre,Primary Health Centre,Ngemili,Yeltsina,Uzojina Central,Uzojina State,Public,9.572571,8.68425
+HF00783,Hanjifa Health Post,Health Post,Riymano,Nassako-Central,Uzojina North,Uzojina State,Public,8.428234,7.480305
+HF01023,Aderade Cottage Hospital,Cottage Hospital,Gwonale,FUNKEDU,Supwasa Central,Supwasa State,Public,10.360787,11.059269
+HF00724,Birngodu Health Post,Health Post,Katbaru,Dutjiri LGA,Uzojina North,Uzojina State,Public,0.687961,8.400106
+HF00169,Funbami Comprehensive Health Centre,Comprehensive Health Centre,Aderimi,Zamtsiru,Kukrima South,Kukrima State,Public,6.39998,9.862026
+HF00227,Hanrawo Primary Health Centre,Primary Health Centre,Wurlawo,Enumade-West,Kukrima South,Kukrima State,Public,6.591324,10.344154
+HF00914,Supluna Comprehensive Health Centre,Comprehensive Health Centre,Gwojishi,Agbridu-West,Uzojina South,Uzojina State,Public,8.385701,9.11997
+HF00194,Yellatu Primary Health Centre,Primary Health Centre,Zamkono,Umumitu,Kukrima South,Kukrima State,Public,6.721752,10.892784
+HF00372,Adekoli Comprehensive Health Centre,Comprehensive Health Centre,Uzotishi,Lokmata,Agbzatu Central,Agbzatu State,Public,6.746916,8.790428
+HF00971,Duttsiru Comprehensive Health Centre,Comprehensive Health Centre,Wurkele,Wuryona,Supwasa North,Supwasa State,Public,,
+HF00509,Katmashi Comprehensive Health Centre,Comprehensive Health Centre,Yobnadu,Bauzani,Tivbetu North,Tivbetu State,Private,7.725137,10.236117
+HF00296,Suprade General Hospital,General Hospital,Adejisa,Supyoshi-East,Agbzatu North,Agbzatu State,Public,7.808796,7.565334
+HF00666,Enumano Primary Health Centre,Primary Health Centre,Sokyowa,Hanjiko,Tivbetu South,Tivbetu State,Public,8.618799,10.905515
+HF00819,Enubawa Primary Health Centre,Primary Health Centre,Supngotu,Daishali-Central,Uzojina Central,Uzojina State,Public,9.204815,8.263696
+HF00830,Tivrina Comprehensive Health Centre,Comprehensive Health Centre,Zamdena,Yeltsina,Uzojina Central,Uzojina State,Faith-based,9.54,8.81
+HF01144,Ekelana Comprehensive Health Centre,Comprehensive Health Centre,Tivrana,LOKSHASA,Agbkeko North,Agbkeko State,Private,10.396754,9.058442
+HF01301,Kukmawo Health Post,Health Post,Gwotsimi,Enumija,Agbkeko South,Agbkeko State,Public,10.819718,10.313852
+HF01066,Ngetiwo Comprehensive Health Centre,Comprehensive Health Centre,Hantsishi,Okeyoru-South,Supwasa Central,Supwasa State,Public,9.926922,10.841498
+HF01141,Birzata Primary Health Centre,Primary Health Centre,Umuwako,Sokmiri,Agbkeko North,Agbkeko State,Public,9.758325,9.207863
+HF01111,Olukomi Health Post,Health Post,Lokngode,Oluyofa LGA,Supwasa South,Supwasa State,Public,9.150012,11.448473
+HF00144,Dailude General Hospital,General Hospital,Banrija,Wurmashi,Kukrima Central,Kukrima State,Public,7.110716,10.161562
+HF01207,Ekewawo Health Post,Health Post,Sokbedu,DAIBEWO,Agbkeko Central,Agbkeko State,Public,9.33712,9.26231
+HF00727,Yobjide Primary Health Centre,Primary Health Centre,Katmana,DUTJIRI,Uzojina North,Uzojina State,Public,8.806673,8.208086
+HF00035,Shayosa Primary Health Centre,Primary Health Centre,Baulako,Riylude-North,Kukrima North,Kukrima State,Public,6.30289,9.608775
+HF00142,Hantsiko Cottage Hospital,Cottage Hospital,Lokngowa,Gwolama,Kukrima Central,Kukrima State,Public,6.991348,9.183805
+HF00333,Yobkoru Primary Health Centre,Primary Health Centre,Daidushi,Gwodele-South LGA,Agbzatu North,Agbzatu State,Public,8.194767,7.602103
+HF01168,Daiketa Comprehensive Health Centre,Comprehensive Health Centre,Agbmama,Ngenuta-Central,Agbkeko North,Agbkeko State,Public,10.225214,8.529901
+HF00419,Baunuwo Primary Health Centre,Primary Health Centre,Kadmaja,Oketsifa,Agbzatu South,Agbzatu State,Private,7.904583,8.697773
+HF01175,Gwojima Primary Health Centre,Primary Health Centre,Malnumi,Maljiwo,Agbkeko North,Agbkeko State,Private,"9°33'05.6""E","9°10'20.9""N"
+HF00399,Agbjiru Primary Health Centre,Primary Health Centre,Maldefa,Katrini,Agbzatu Central,Agbzatu State,Public,7.013449,8.422234
+HF00189,Katnushi Health Post,Health Post,Okedeni,Umumitu,Kukrima South,Kukrima State,Private,6.600439,10.953746
+HF01254,Joskeli Health Post,Health Post,Birjili,DAIBAMA,Agbkeko Central,Agbkeko State,Public,9.513872,9.954761
+HF00249,Kadjiwa Health Post,Health Post,Ekezali,Yobkosa-South,Agbzatu North,Agbzatu State,Private,7.455173,7.636999
+HF900431,Yobtifa Cottage Hospital,Cottage Hospital,Oludude,Oketsifa,Agbzatu South,Agbzatu State,Faith-based,7.906886,8.425708
+HF01218,Bauzawo Health Post,Health Post,Birriwa,Yobrifa-West,Agbkeko Central,Agbkeko State,Faith-based,8.979999,9.5144
+HF01311,Supderi Comprehensive Health Centre,Comprehensive Health Centre,Oluzana,Zammiyi,Agbkeko South,Agbkeko State,Private,10.334917,10.116757
+HF00801,Malbani Comprehensive Health Centre,Comprehensive Health Centre,Ngesana,Tamwata-South,Uzojina Central,Uzojina State,Public,9.819443,8.27934
+HF00984,Bandemi Primary Health Centre,Primary Health Centre,Adesale,Zambani,Supwasa Central,Supwasa State,Public,10.038169,11.125108
+HF01029,Dutwama Health Post,Health Post,Wurbasa,Funkedu,Supwasa Central,Supwasa State,Faith-based,10.584043,11.178806
+HF01020,Sokkoni Primary Health Centre,Primary Health Centre,Kukngole,Funkedu,Supwasa Central,Supwasa State,Public,10.271422,11.190023
+HF01106,Daibaba Health Post,Health Post,Agbdeni,Loknaba,Supwasa South,Supwasa State,Public,8.994841,11.638533
+HF00166,Okekole Primary Health Centre,Primary Health Centre,Katwama,Wurmashi,Kukrima Central,Kukrima State,Public,7.448197,9.986495
+HF01224,Nasmami Comprehensive Health Centre,Comprehensive Health Centre,Birnuwa,Yobrifa-West,Agbkeko Central,Agbkeko State,Public,9.260962,9.548068
+HF00952,Riyluja Primary Health Centre,Primary Health Centre,Birtsiba,Nasrifa,Supwasa North,Supwasa State,Public,8.96997,10.806687
+HF00722,Supbewo Health Post,Health Post,Katbaru,Dutjiri,Uzojina North,Uzojina State,Public,8.631305,8.292382
+HF00436,Nastsiba Primary Health Centre,Primary Health Centre,Ekewafa,Agbngoru,Agbzatu South,Agbzatu State,Public,7.357893,8.479517
+HF00188,Josluno Comprehensive Health Centre,Comprehensive Health Centre,Okedeni,Umumitu,Kukrima South,Kukrima State,Public,6.494048,10.859272
+HF01232,Riyzatu Health Post,Health Post,Olujisa,Hanjile,Agbkeko Central,Agbkeko State,Public,9.47114,9.49912
+HF01199,Iroderi Primary Health Centre,Primary Health Centre,Adeketu,Daibewo,Agbkeko Central,Agbkeko State,Public,9.295288,9.483579
+HF01052,Umuketa Primary Health Centre,Primary Health Centre,Bandema,Katdudu,Supwasa Central,Supwasa State,Public,10.095227,10.658858
+HF00478,Enukewa Health Post,Health Post,Yobbeko,NGETIJA,Agbzatu South,Agbzatu State,Public,7.775339,9.250912
+HF00395,Ibabami Primary Health Centre,Primary Health Centre,Naslayi,Katrini,Agbzatu Central,Agbzatu State,Public,6.83,8.31
+HF00073,Katjija Primary Health Centre,Primary Health Centre,Supnami,Ibabani,Kukrima North,Kukrima State,Public,6.463764,9.383134
+HF01122,Kadlaru Primary Health Centre,Primary Health Centre,Soknutu,Oluyofa,Supwasa South,Supwasa State,Public,9.380897,11.124742
+HF00345,Enubana Primary Health Centre,Primary Health Centre,Dutmili,ZAMKERI,Agbzatu Central,Agbzatu State,Public,6.919506,8.771637
+HF00532,Dailaru Health Post,Health Post,Duttiri,Hansaba,Tivbetu North,Tivbetu State,Public,8.684833,10.030608
+HF01024,Banshawa Primary Health Centre,Primary Health Centre,Ngetiba,Funkedu,Supwasa Central,Supwasa State,Public,10.383265,11.282978
+HF00565,Uzokele Health Post,Health Post,Ngemima,IbajijaSouth,Tivbetu Central,Tivbetu State,Public,6.95688,10.872176
+HF00165,Ibatifa Health Post,Health Post,Katwama,Wurmashi,Kukrima Central,Kukrima State,Public,7.463128,9.989509
+HF00563,Sokyowo Primary Health Centre,Primary Health Centre,Olukoko,Soktimi,Tivbetu North,Tivbetu State,Private,7.743905,10.059836
+HF00969,Josbetu Health Post,Health Post,Shazama,Wuryona ,Supwasa North,Supwasa State,Public,9.525729,10.561765
+HF00705,Shazako Primary Health Centre,Primary Health Centre,Ngeluli,Adekowo,Tivbetu South,Tivbetu State,Public,8.632523,11.445939
+HF00409,Daiwata Health Post,Health Post,Tammari,Supsama South,Agbzatu Central,Agbzatu State,Public,6.614101,8.260232
+HF00190,Okeshale Primary Health Centre,Primary Health Centre,Okedeni,Umumitu,Kukrima South,Kukrima State,Public,6.64806,10.956638
+HF00882,Ngeshawa Primary Health Centre,Primary Health Centre,Suplashi,UZORISA,Uzojina South,Uzojina State,Public,8.311822,9.347545
+HF00513,Tammiwa Comprehensive Health Centre,Comprehensive Health Centre,Adetsile,Bauzani,Tivbetu North,Tivbetu State,Public,8.163622,10.377385
+HF00596,Bantsija Health Post,Health Post,Ekesana,Okerano Central,Tivbetu Central,Tivbetu State,Public,7.389057,11.103716
+HF01308,Ibakeno Health Post,Health Post,Malsharu,Ngemidu,Agbkeko South,Agbkeko State,Public,10.411658,9.913495
+HF00809,Supmima Health Post,Health Post,Gwokoma,Ekedewo,Uzojina Central,Uzojina State,Public,9.301706,7.974502
+HF01181,Katjiru General Hospital,General Hospital,Maljini,Maljiwo,Agbkeko North,Agbkeko State,Public,9.695107,9.237374
+HF01126,Bansharu Health Post,Health Post,Naslawa,Tivmama,Supwasa South,Supwasa State,Public,9.573211,11.020342
+HF00237,Uzorafa Health Post,Health Post,Irodefa,Yobkosa-South ,Agbzatu North,Agbzatu State,Public,7.422977,7.414021
+HF00351,Baushako Health Post,Health Post,Umuwata,Zamkeri,Agbzatu Central,Agbzatu State,Public,6.815043,9.044583
+HF00959,Enukede General Hospital,General Hospital,Agbshako,Yobmija,Supwasa North,Supwasa State,Public,9.151993,10.279802
+HF00741,Ekemadu Primary Health Centre,Primary Health Centre,Enumitu,Agbkotu-South,Uzojina North,Uzojina State,Public,8.351182,7.952004
+HF01247,Birshari Health Post,Health Post,Shashafa,Daibama,Agbkeko Central,Agbkeko State,Public,9.143997,10.083407
+HF00511,Bauzayi Health Post,Health Post,Banngotu,Bauzani,Tivbetu North,Tivbetu State,Public,8.07,10.21
+HF00347,Uzobayi Primary Health Centre,Primary Health Centre,Dutmili,Zamkeri LGA,Agbzatu Central,Agbzatu State,Private,6.928157,8.671094
+HF01231,Malrino Comprehensive Health Centre,Comprehensive Health Centre,Olujisa,Hanjile ,Agbkeko Central,Agbkeko State,Public,9.464037,9.545713
+HF00032,Soklufa Primary Health Centre,Primary Health Centre,Baukeshi,Riylude-North,Kukrima North,Kukrima State,Private,6.254289,9.755742
+HF01053,Riyladu Health Post,Health Post,Wurtsiwa,Katdudu,Supwasa Central,Supwasa State,Public,10.132632,10.416126
+HF01222,Ademina Health Post,Health Post,Shaluja,Yobrifa-West,Agbkeko Central,Agbkeko State,Public,9.169447,9.814013
+HF01036,Tamriko Comprehensive Health Centre,Comprehensive Health Centre,Gwonashi,Josmiba,Supwasa Central,Supwasa State,Public,10.36,10.39
+HF00449,Funraba Primary Health Centre,Primary Health Centre,Funbaja,Daishako,Agbzatu South,Agbzatu State,Public,7.254636,8.735905
+HF00808,Nasrawa Cottage Hospital,Cottage Hospital,Gwokoma,Ekedewo,Uzojina Central,Uzojina State,Public,9.34822,7.990621
+HF00457,Agbnasa Health Post,Health Post,Uzosafa,BANNGONO,Agbzatu South,Agbzatu State,Public,7.271787,9.09629
+HF00076,Okenuja Primary Health Centre,Primary Health Centre,Lokngoli,Ibabani,Kukrima North,Kukrima State,Public,,
+HF01153,Yobkeno Primary Health Centre,Primary Health Centre,Dairami,Jostile,Agbkeko North,Agbkeko State,Public,,
+HF01208,Suplawo Primary Health Centre,Primary Health Centre,Shayoshi,Daibewo,Agbkeko Central,Agbkeko State,Public,9.295321,9.50515
+HF01148,Kukkeyi Primary Health Centre,Primary Health Centre,Riynawa,Lokshasa,Agbkeko North,Agbkeko State,Private,10.535799,9.429962
+HF00725,Adedeyi Primary Health Centre,Primary Health Centre,Katmana,Dutjiri,Uzojina North,Uzojina State,Public,8.886652,8.207274
+HF00562,Sokjishi Primary Health Centre,Primary Health Centre,Kukngowa,Soktimi,Tivbetu North,Tivbetu State,Private,7.667972,9.844426
+HF01103,Ibamasa Primary Health Centre,Primary Health Centre,Joslaru,Loknaba LGA,Supwasa South,Supwasa State,Public,8.759997,11.433778
+HF01134,Zamnuta Primary Health Centre,Primary Health Centre,Kadzaru,Tivmama,Supwasa South,Supwasa State,Public,10.003927,11.502357
+HF00977,Kukyofa Primary Health Centre,Primary Health Centre,Sokdeba,Zambani,Supwasa Central,Supwasa State,Private,9.919522,11.099155
+HF00202,Agbbeshi Cottage Hospital,Cottage Hospital,Ibanana,Adenaja,Kukrima South,Kukrima State,Public,6.741082,10.618374
+HF00853,Naszata Primary Health Centre,Primary Health Centre,Wurtimi,Wurkota,Uzojina Central,Uzojina State,Public,8.967566,8.444522
+HF00481,Enuyoyi Cottage Hospital,Cottage Hospital,Ibazawa,Tivsano-North,Tivbetu North,Tivbetu State,Public,8.212088,10.281884
+HF00225,Zambari Primary Health Centre,Primary Health Centre,Okederi,Enumade West,Kukrima South,Kukrima State,Faith-based,6.499245,10.12354
+HF00129,Birkoshi General Hospital,General Hospital,Jostsili,Tambemi,Kukrima Central,Kukrima State,Public,6.832433,9.706995
+HF00117,Tamtima Comprehensive Health Centre,Comprehensive Health Centre,Zamyoru,Agbjide,Kukrima Central,Kukrima State,Public,6.626353,9.627134
+HF00382,Gwosale Health Post,Health Post,Baulutu,Dutzama,Agbzatu Central,Agbzatu State,Public,7.021155,7.869011
+HF00456,Kukbeba Primary Health Centre,Primary Health Centre,Uzosafa,Banngono,Agbzatu South,Agbzatu State,Public,7.217766,9.111637
+HF00650,Handeko Primary Health Centre,Primary Health Centre,Ekemiwa,Ibamide,Tivbetu South,Tivbetu State,Public,8.012237,11.519807
+HF00220,Yeldeta Primary Health Centre,Primary Health Centre,Irobade,Banluta,Kukrima South,Kukrima State,Public,6.171554,10.277902
+HF00219,Dutlude Primary Health Centre,Primary Health Centre,Irobade,Banluta,Kukrima South,Kukrima State,Public,6.11841,10.186953
+HF00537,Lokdemi Comprehensive Health Centre,Comprehensive Health Centre,Yelwana,Uzoberi,Tivbetu North,Tivbetu State,Public,8.709088,10.373727
+HF00777,Zamwami Health Post,Health Post,Bantsiko,Tamluni,Uzojina North,Uzojina State,Public,8.716494,7.7319
+HF00867,Agbkofa Health Post,Health Post,Lokkode,Tivngoba,Uzojina South,Uzojina State,Private,8.891956,8.983104
+HF00107,Sokwatu Primary Health Centre,Primary Health Centre,Banluma,Yelkefa,Kukrima Central,Kukrima State,Public,7.459896,9.665336
+HF01190,Dutsatu Comprehensive Health Centre,Comprehensive Health Centre,Okedefa,Yeltili,Agbkeko North,Agbkeko State,Public,10.107482,8.911105
+HF00328,Katngofa Comprehensive Health Centre,Comprehensive Health Centre,Ekelusa,Gwodele South,Agbzatu North,Agbzatu State,Faith-based,8.069758,7.640847
+HF00373,Gwokoli Primary Health Centre,Primary Health Centre,Uzotishi,Lokmata,Agbzatu Central,Agbzatu State,Public,6.771099,8.76038
+HF00533,Funngode Primary Health Centre,Primary Health Centre,Duttiri,Hansaba,Tivbetu North,Tivbetu State,Public,8.710153,9.952871
+HF01018,Yelmasa Health Post,Health Post,Soktiba,Funkedu,Supwasa Central,Supwasa State,Faith-based,10.415712,11.400667
+HF00759,Olujiyi Primary Health Centre,Primary Health Centre,Daiyona,Tamluni,Uzojina North,Uzojina State,Public,8.274203,7.795146
+HF01110,Zamdena Primary Health Centre,Primary Health Centre,Lokngode,Oluyofa,Supwasa South,Supwasa State,Public,9.13005,11.488819
+HF01283,Uzoshafa Health Post,Health Post,Adetsita,Nasnadu,Agbkeko South,Agbkeko State,Public,9.920291,10.294765
+HF00053,Oluwaja Comprehensive Health Centre,Comprehensive Health Centre,Wurjimi,Irolufa,Kukrima North,Kukrima State,Public,6.135046,9.788586
+HF01230,Bautita Cottage Hospital,Cottage Hospital,Katyodu,Hanjile,Agbkeko Central,Agbkeko State,Public,9.561203,9.790795
+HF00656,Uzobeshi Comprehensive Health Centre,Comprehensive Health Centre,Tivtimi,Ibamide,Tivbetu South,Tivbetu State,Faith-based,"8,164714","11,256375"
+HF00713,Duttimi Primary Health Centre,Primary Health Centre,Maldule,Tivrafa-West,Uzojina North,Uzojina State,Private,9.115763,7.689633
+HF01238,Wurrishi Cottage Hospital,Cottage Hospital,Baurino,Hanjile,Agbkeko Central,Agbkeko State,Public,"9,773458","9,793496"
+HF00508,Tivbaja Comprehensive Health Centre,Comprehensive Health Centre,Yobnadu,Bauzani,Tivbetu North,Tivbetu State,Public,7.801673,10.179489
+HF00196,Yellufa Health Post,Health Post,Zamkono,Umumitu,Kukrima South,Kukrima State,Public,6.585774,10.841617
+HF00448,Yelkeri Comprehensive Health Centre,Comprehensive Health Centre,Funbaja,Daishako,Agbzatu South,Agbzatu State,Private,7.229764,8.75965
+HF00442,Kadmami Primary Health Centre,Primary Health Centre,Enurita,Agbngoru LGA,Agbzatu South,Agbzatu State,Public,7.448374,8.456653
+HF00300,Okedesa Health Post,Health Post,Loknuri,HANRAJA,Agbzatu North,Agbzatu State,Private,7.459246,7.992608
+HF00025,Gwoduko Primary Health Centre,Primary Health Centre,Funngoli,Uzoluni,Kukrima North,Kukrima State,Public,6.170968,8.856011
+HF01135,Supnatu General Hospital,General Hospital,Zamnuno,Sokmiri,Agbkeko North,Agbkeko State,Public,9.684933,9.121296
+HF00486,Birnayi Health Post,Health Post,Funbayi,Tivsano-North LGA,Tivbetu North,Tivbetu State,Public,8.405129,10.300582
+HF01248,Duttitu Primary Health Centre,Primary Health Centre,Shashafa,Daibama,Agbkeko Central,Agbkeko State,Public,9.257016,10.040717
+HF00942,Kattisa Primary Health Centre,Primary Health Centre,Wurshani,Adekeni,Supwasa North,Supwasa State,Public,9.375986,10.579926
+HF01004,Baunumi Comprehensive Health Centre,Comprehensive Health Centre,Tivsana,Bautiru West,Supwasa Central,Supwasa State,Public,10.581101,10.885448
+HF01060,Adetsita Health Post,Health Post,Daibefa,Katdudu,Supwasa Central,Supwasa State,Public,10.256319,10.591651
+HF00677,Funrade Cottage Hospital,Cottage Hospital,Ngeduru,Olujiwa,Tivbetu South,Tivbetu State,Public,7.936897,10.99264
+HF01159,Zambade Comprehensive Health Centre,Comprehensive Health Centre,Riydewa,Jostile,Agbkeko North,Agbkeko State,Private,9.945147,9.154065
+HF00460,Agbjile Primary Health Centre,Primary Health Centre,Banlumi,Umumayi,Agbzatu South,Agbzatu State,Public,7.721139,9.1017
+HF01323,Supdena Primary Health Centre,Primary Health Centre,Yelshama,Gwodewo,Agbkeko South,Agbkeko State,Public,10.487941,9.914609
+HF00723,Umurano Primary Health Centre,Primary Health Centre,Katbaru,Dutjiri,Uzojina North,Uzojina State,Faith-based,8.678205,8.377179
+HF00301,Ngekoyi Comprehensive Health Centre,Comprehensive Health Centre,Dutkota,Hanraja LGA,Agbzatu North,Agbzatu State,Public,7.407445,7.785653
+HF01012,Wurmaru Health Post,Health Post,Soktiba,Funkedu,Supwasa Central,Supwasa State,Public,10.530803,11.314902
+HF00205,Naszani General Hospital,General Hospital,Ibabewo,Adenaja ,Kukrima South,Kukrima State,Public,6.853147,10.388536
+HF901211,Kuktiru Health Post,Health Post,Ibayoma,Yobrifa-West,Agbkeko Central,Agbkeko State,Public,8.894472,9.63016
+HF00950,Josjiwa Comprehensive Health Centre,Comprehensive Health Centre,Birtsiba,Nasrifa,Supwasa North,Supwasa State,Public,8.916963,10.944127
+HF00646,Banraru Primary Health Centre,Primary Health Centre,Ibayoja,Tamlufa-East,Tivbetu South,Tivbetu State,Private,8.661667,10.69912
+HF00701,Supkosa Primary Health Centre,Primary Health Centre,Sokshano,Adekowo,Tivbetu South,Tivbetu State,Private,8.634443,11.522587
+HF01158,Tammiwo Health Post,Health Post,Riydewa,Jostile,Agbkeko North,Agbkeko State,Public,9.960877,9.197386
+HF01186,Umumari Primary Health Centre,Primary Health Centre,Iroyori,Yeltili,Agbkeko North,Agbkeko State,Public,9.87019,8.952257
+HF01183,Yeltsiba Primary Health Centre,Primary Health Centre,Oluwaba,Maljiwo,Agbkeko North,Agbkeko State,Public,9.594434,9.413034
+HF00665,Tamrishi Primary Health Centre,Primary Health Centre,Tivdeli,Hanjiko LGA,Tivbetu South,Tivbetu State,Public,8.493358,10.894855
+HF01116,Yobshali Primary Health Centre,Primary Health Centre,Ekenuno,Oluyofa,Supwasa South,Supwasa State,Private,9.222171,11.236469
+HF00125,Handuli Primary Health Centre,Primary Health Centre,Wurdesa,Agbjide,Kukrima Central,Kukrima State,Public,6.714454,9.255895
+HF01093,Irodewa Primary Health Centre,Primary Health Centre,Hansasa,Baumiru,Supwasa South,Supwasa State,Public,8.87432,11.169791
+HF01197,Nasderu Primary Health Centre,Primary Health Centre,Kuknayi,Yeltili,Agbkeko North,Agbkeko State,Faith-based,10.250894,9.056913
+HF00504,Funngowa Comprehensive Health Centre,Comprehensive Health Centre,Banluba,Bauzani,Tivbetu North,Tivbetu State,Public,7.799663,10.447606
+HF01090,Umubaba Primary Health Centre,Primary Health Centre,Agbwali,BAUMIRU,Supwasa South,Supwasa State,Public,8.756392,11.285943
+HF00323,Adesale Primary Health Centre,Primary Health Centre,Okeshali,Gwodele-South,Agbzatu North,Agbzatu State,Public,8.002708,7.723022
+HF00640,Maljita Health Post,Health Post,Okeluwo,Tamlufa-East,Tivbetu South,Tivbetu State,Public,8.441586,10.700668
+HF00104,Josnani Health Post,Health Post,Banluma,Yelkefa ,Kukrima Central,Kukrima State,Public,7.528177,9.739169
+HF00732,Kuksata Primary Health Centre,Primary Health Centre,Uzotsiru,Agbkotu-South,Uzojina North,Uzojina State,Private,8.23668,8.166848
+HF00447,Zammatu Primary Health Centre,Primary Health Centre,Funbaja,DAISHAKO,Agbzatu South,Agbzatu State,Private,7.265888,8.704903
+HF00393,Tamshasa Comprehensive Health Centre,Comprehensive Health Centre,Kuktidu,Enutifa,Agbzatu Central,Agbzatu State,Public,7.278764,7.992849
+HF00297,Dutjile Primary Health Centre,Primary Health Centre,Adejisa,SUPYOSHI-EAST,Agbzatu North,Agbzatu State,Public,7.914241,7.602241
+HF00571,Ibaluyi General Hospital,General Hospital,Gwolude,Ibajija-South,Tivbetu Central,Tivbetu State,Public,7.296889,10.658045
+HF00312,Gwokesa Cottage Hospital,Cottage Hospital,Gwonade,Josduri-South ,Agbzatu North,Agbzatu State,Public,7.702842,7.568388
+HF00552,Ngeshama Comprehensive Health Centre,Comprehensive Health Centre,Agbderu,Malbawo-Central LGA,Tivbetu North,Tivbetu State,Public,7.789709,9.752498
+HF01286,Oluwatu General Hospital,General Hospital,Daibano,Nasnadu,Agbkeko South,Agbkeko State,Faith-based,10.069643,10.235692
+HF00326,Yelrasa Primary Health Centre,Primary Health Centre,Tamngoba,Gwodele-South,Agbzatu North,Agbzatu State,Private,,
+HF00048,Dutbari Health Post,Health Post,Tamyowa,Irolufa,Kukrima North,Kukrima State,Public,5.874698,9.865064
+HF00164,Supjiyi Primary Health Centre,Primary Health Centre,Katwama,Wurmashi,Kukrima Central,Kukrima State,Faith-based,7.49356,9.920894
+HF01256,Umusawo Comprehensive Health Centre,Comprehensive Health Centre,Birjili,Daibama,Agbkeko Central,Agbkeko State,Public,9.337844,10.003093
+HF00928,Wurtsimi Comprehensive Health Centre,Comprehensive Health Centre,Malshana,Zamberi-North,Uzojina South,Uzojina State,Public,8.473544,8.668456
+HF00851,Oluberi Cottage Hospital,Cottage Hospital,Loktsifa,Adelaja North,Uzojina Central,Uzojina State,Public,9.572852,8.426794
+HF01193,Suptsija Primary Health Centre,Primary Health Centre,Kuknayi,Yeltili,Agbkeko North,Agbkeko State,Public,10.149777,9.069331
+HF00019,Okenuru Health Post,Health Post,Loklude,Uzoluni,Kukrima North,Kukrima State,Public,6.233549,8.751762
+HF00766,Yelbaba Health Post,Health Post,Duttsisa,TAMLUNI,Uzojina North,Uzojina State,Public,8.676057,7.616658
+HF01171,Riyngoko Primary Health Centre,Primary Health Centre,Tivtsiwo,Ngenuta-Central,Agbkeko North,Agbkeko State,Private,10.229463,8.917265
+HF01176,Bantsiri Primary Health Centre,Primary Health Centre,Malnumi,Maljiwo,Agbkeko North,Agbkeko State,Public,9.509636,9.152244
+HF01279,Agbbena Health Post,Health Post,Uzodushi,Nasnadu,Agbkeko South,Agbkeko State,Faith-based,9.902561,10.018031
+HF01188,Riyjiru Primary Health Centre,Primary Health Centre,Nasmitu,YELTILI,Agbkeko North,Agbkeko State,Public,9.825574,8.786015
+HF00127,Hannuli Primary Health Centre,Primary Health Centre,Kadjina,Agbjide,Kukrima Central,Kukrima State,Public,6.788865,9.079884
+HF00606,Supbatu Primary Health Centre,Primary Health Centre,Shatsiru,Ironama,Tivbetu Central,Tivbetu State,Public,7.41366,10.694819
+HF00418,Olutitu Comprehensive Health Centre,Comprehensive Health Centre,Nasyowa,Oketsifa,Agbzatu South,Agbzatu State,Public,7.708377,8.788659
+HF00671,Tivnayi Primary Health Centre,Primary Health Centre,Daimako,Hanjiko ,Tivbetu South,Tivbetu State,Public,8.860195,10.976326
+HF00018,Katkeli Health Post,Health Post,Dutrimi,Uzoluni,Kukrima North,Kukrima State,Public,6.128625,8.706849
+HF00045,Riybasa Primary Health Centre,Primary Health Centre,Tamyowa,Irolufa,Kukrima North,Kukrima State,Public,5.869062,9.920266
+HF01072,Agbkoba Comprehensive Health Centre,Comprehensive Health Centre,Baurima,Okeyoru-South,Supwasa Central,Supwasa State,Public,9.957937,10.797267
+HF00781,Banriru Health Post,Health Post,Riymano,Nassako-Central,Uzojina North,Uzojina State,Public,8.35,7.37
+HF00480,Yeltsiwo Health Post,Health Post,Ibazawa,Tivsano-North,Tivbetu North,Tivbetu State,Public,8.253691,10.386488
+HF00317,Ibayomi Cottage Hospital,Cottage Hospital,Tivbedu,Josduri-South,Agbzatu North,Agbzatu State,Public,7.788964,7.669043
+HF00642,Katbana Cottage Hospital,Cottage Hospital,Yobnuma,Tamlufa-East,Tivbetu South,Tivbetu State,Public,8.661271,10.545037
+HF00800,Ekesale Health Post,Health Post,Ngesana,Tamwata-South,Uzojina Central,Uzojina State,Public,9.85975,8.43158
+HF00530,Katwami Health Post,Health Post,Ngebana,HANSABA,Tivbetu North,Tivbetu State,Public,8.627293,9.839852
+HF00690,Loksaru Primary Health Centre,Primary Health Centre,Soknudu,Nasdudu North,Tivbetu South,Tivbetu State,Public,7.89026,11.130176
+HF01016,Riyjifa Primary Health Centre,Primary Health Centre,Soktiba,Funkedu,Supwasa Central,Supwasa State,Public,10.3954,11.35001
+HF00055,Tamzasa Primary Health Centre,Primary Health Centre,Gwobedu,Irolufa,Kukrima North,Kukrima State,Public,6.028129,9.875043
+HF00742,Kukshawa Comprehensive Health Centre,Comprehensive Health Centre,Daitsitu,AgbkotuSouth,Uzojina North,Uzojina State,Public,,
+HF00424,Malzata Primary Health Centre,Primary Health Centre,Okekede,Oketsifa,Agbzatu South,Agbzatu State,Private,7.904786,8.508298
+HF01045,Uzotsiru Cottage Hospital,Cottage Hospital,Funnuta,Josmiba,Supwasa Central,Supwasa State,Public,10.763168,10.409072
+HF00252,Zamnako Comprehensive Health Centre,Comprehensive Health Centre,Daizaru,Agbmita,Agbzatu North,Agbzatu State,Public,7.944015,8.063994
+HF00581,Uzoluta Primary Health Centre,Primary Health Centre,Wurjino,IRONGORI,Tivbetu Central,Tivbetu State,Public,7.760343,10.743219
+HF00767,Katridu Primary Health Centre,Primary Health Centre,Kukjino,Tamluni,Uzojina North,Uzojina State,Faith-based,8.505608,7.653055
+HF01302,Wurkeshi Comprehensive Health Centre,Comprehensive Health Centre,Ngebasa,Ngemidu,Agbkeko South,Agbkeko State,Public,10.039107,9.771793
+HF00675,Malmafa Health Post,Health Post,Shayona,OLUJIWA,Tivbetu South,Tivbetu State,Public,8.061331,10.799394
+HF01080,Agbjiri Health Post,Health Post,Tivnuta,Ekedeta-East,Supwasa South,Supwasa State,Public,9.347394,11.555642
+HF00406,Yobsali Comprehensive Health Centre,Comprehensive Health Centre,Tivjidu,Supsama-South,Agbzatu Central,Agbzatu State,Private,6.43209,8.585277
+HF01169,Riybadu Primary Health Centre,Primary Health Centre,Shangodu,Ngenuta-Central,Agbkeko North,Agbkeko State,Public,10.146689,8.826966
+HF00661,Agblawa Health Post,Health Post,Tivshana,Hanjiko,Tivbetu South,Tivbetu State,Public,8.465687,11.036799
+HF00806,Aderani Comprehensive Health Centre,Comprehensive Health Centre,Uzoyodu,Tamwata-South,Uzojina Central,Uzojina State,Public,10.102937,8.35036
+HF01132,Dairana Primary Health Centre,Primary Health Centre,Kadzaru,Tivmama,Supwasa South,Supwasa State,Public,9.917037,11.349912
+HF00033,Sokngofa Health Post,Health Post,Baukeshi,Riylude-North ,Kukrima North,Kukrima State,Public,6.352672,9.806485
+HF00560,Wurmawo Primary Health Centre,Primary Health Centre,Kukngowa,Soktimi,Tivbetu North,Tivbetu State,Faith-based,9.863227,7.646916
+HF00944,Agbdemi Comprehensive Health Centre,Comprehensive Health Centre,Agbjisa,Adekeni LGA,Supwasa North,Supwasa State,Public,9.49319,11.008128
+HF00764,Sokkoja Primary Health Centre,Primary Health Centre,Riylale,Tamluni,Uzojina North,Uzojina State,Public,8.388956,7.879492
+HF00895,Sokdeja Cottage Hospital,Cottage Hospital,Lokyofa,Loksayi,Uzojina South,Uzojina State,Public,8.272792,8.783439
+HF00629,Yelmiwo Primary Health Centre,Primary Health Centre,Katriwa,Joskeru,Tivbetu South,Tivbetu State,Public,8.365846,11.231339
+HF00500,Birngole Primary Health Centre,Primary Health Centre,Zamlama,Agbtsiko,Tivbetu North,Tivbetu State,Public,7.97,10.16
+HF00659,Kuknuja Primary Health Centre,Primary Health Centre,Banrani,Ibamide,Tivbetu South,Tivbetu State,Public,8.256369,11.432597
+HF00635,Umusali Health Post,Health Post,Birmishi,Joskeru,Tivbetu South,Tivbetu State,Public,8.434217,11.223627
+HF00674,Birmisa Primary Health Centre,Primary Health Centre,Shayona,Olujiwa LGA,Tivbetu South,Tivbetu State,Faith-based,8.041144,10.825541
+HF00915,Eketile Cottage Hospital,Cottage Hospital,Tivsako,Banluwo,Uzojina South,Uzojina State,Public,8.560985,8.55657
+HF00026,Birjini Health Post,Health Post,Yelluna,Uzoluni,Kukrima North,Kukrima State,Public,6.383685,9.003897
+HF00208,Birtsiri Comprehensive Health Centre,Comprehensive Health Centre,Kuktsino,Adenaja LGA,Kukrima South,Kukrima State,Public,7.021574,10.460539
+HF00503,Sokwako Primary Health Centre,Primary Health Centre,Yeltiko,Agbtsiko,Tivbetu North,Tivbetu State,Private,8.184064,9.952442
+HF00551,Funrano Primary Health Centre,Primary Health Centre,Ekebemi,Malbawo-Central,Tivbetu North,Tivbetu State,Public,7.743608,9.509261
+HF00394,Jossata Health Post,Health Post,Naslayi,Katrini,Agbzatu Central,Agbzatu State,Public,6.839057,8.340425
+HF01138,Enubede Comprehensive Health Centre,Comprehensive Health Centre,Zamnuno,Sokmiri,Agbkeko North,Agbkeko State,Public,9.6847,9.144992
+HF00364,Umunari Health Post,Health Post,Tivlana,Lokmata,Agbzatu Central,Agbzatu State,Private,6.457464,8.804419
+HF00495,Aderiko Primary Health Centre,Primary Health Centre,Eketiyi,Agbtsiko,Tivbetu North,Tivbetu State,Private,7.837038,9.780427
+HF00917,Loklushi Primary Health Centre,Primary Health Centre,Josmako,Banluwo,Uzojina South,Uzojina State,Public,8.71888,8.466546
+HF00369,Malbata General Hospital,General Hospital,Okewako,Lokmata,Agbzatu Central,Agbzatu State,Public,6.618317,8.700354
+HF00416,Adetsisa Primary Health Centre,Primary Health Centre,Adenuru,Iromashi,Agbzatu Central,Agbzatu State,Private,7.217638,8.266466
+HF00554,Bantitu Primary Health Centre,Primary Health Centre,Hanbafa,MALBAWO-CENTRAL,Tivbetu North,Tivbetu State,Public,7.82633,9.568121
+HF01082,Tamkefa Health Post,Health Post,Tivnuta,Ekedeta-East,Supwasa South,Supwasa State,Public,9.38925,11.643881
+HF00748,Umujidu Comprehensive Health Centre,Comprehensive Health Centre,Bausako,Nasyotu LGA,Uzojina North,Uzojina State,Public,8.671537,7.999341
+HF00799,Bansale Health Post,Health Post,Ngesana,Tamwata-South,Uzojina Central,Uzojina State,Public,9.780507,8.366928
+HF01310,Irobako Primary Health Centre,Primary Health Centre,Yelwami,Zammiyi,Agbkeko South,Agbkeko State,Public,10.242446,9.928757
+HF01316,Malduno Health Post,Health Post,Okewari,Zammiyi,Agbkeko South,Agbkeko State,Public,10.414329,10.315781
+HF01257,Gwomiba Primary Health Centre,Primary Health Centre,Birjili,Daibama,Agbkeko Central,Agbkeko State,Private,9.434616,9.925679
+HF00698,Agbtsiko Comprehensive Health Centre,Comprehensive Health Centre,Ekenushi,Adekowo,Tivbetu South,Tivbetu State,Public,8.546865,11.576843
+HF00370,Baungota Primary Health Centre,Primary Health Centre,Sharama,Lokmata,Agbzatu Central,Agbzatu State,Public,6.735484,8.539168
+HF00284,Agbwasa Comprehensive Health Centre,Comprehensive Health Centre,Daiyole,Malmaba LGA,Agbzatu North,Agbzatu State,Public,"7,772627","7,941249"
+HF00961,Lokratu General Hospital,General Hospital,Baulasa,Yobmija,Supwasa North,Supwasa State,Public,9.231796,10.251417
+HF00717,Soknale Health Post,Health Post,Zambema,Tivrafa-West,Uzojina North,Uzojina State,Public,9.243735,7.777768
+HF00710,Okezata Health Post,Health Post,Maldule,Tivrafa-West,Uzojina North,Uzojina State,Public,9.232631,7.726225
+HF01058,Hanbaru Primary Health Centre,Primary Health Centre,Kadtini,Katdudu,Supwasa Central,Supwasa State,Public,10.155064,10.393141
+HF00794,Funsasa Primary Health Centre,Primary Health Centre,Gwobako,NASSAKO-CENTRAL,Uzojina North,Uzojina State,Faith-based,8.87,7.52
+HF00295,Zamjitu Health Post,Health Post,Adejisa,Supyoshi-East,Agbzatu North,Agbzatu State,Public,7.86684,7.46443
+HF00756,Riyjima Health Post,Health Post,Banwama,Nasyotu,Uzojina North,Uzojina State,Public,9.021645,7.982298
+HF00211,Zamlata Health Post,Health Post,Kuktsino,ADENAJA,Kukrima South,Kukrima State,Public,6.985067,10.553885
+HF01087,Riymayi Cottage Hospital,Cottage Hospital,Baubama,Ekedeta-East,Supwasa South,Supwasa State,Public,9.617499,11.658015
+HF01019,Adewata Primary Health Centre,Primary Health Centre,Kukngole,Funkedu,Supwasa Central,Supwasa State,Public,10.173192,11.26131
+HF00343,Funyosa Primary Health Centre,Primary Health Centre,Bannayi,Zamkeri,Agbzatu Central,Agbzatu State,Public,6.763095,8.870277
+HF00265,Okematu Primary Health Centre,Primary Health Centre,Gwoyota,AGBMITA,Agbzatu North,Agbzatu State,Faith-based,8.207244,8.201994
+HF00038,Kadngole Primary Health Centre,Primary Health Centre,Dutmidu,Riylude-North,Kukrima North,Kukrima State,Public,6.54,9.84
+HF00331,Wurtiri Health Post,Health Post,Daidushi,Gwodele-South ,Agbzatu North,Agbzatu State,Public,8.230303,7.48549
+HF00778,Zamjimi Health Post,Health Post,Banlama,Nassako-Central,Uzojina North,Uzojina State,Public,8.327864,7.60835
+HF01064,Kadkeba Health Post,Health Post,Banluwa,Okeyoru-South,Supwasa Central,Supwasa State,Public,9.809516,10.930568
+HF901077,Birdeli PHC,Primary Health Centre,Uzojiri,Ekedeta-East,Supwasa South,Supwasa State,Public,9.329922,11.639774
+HF00972,Banrale Primary Health Centre,Primary Health Centre,Wurkele,Wuryona,Supwasa North,Supwasa State,Public,9.860753,10.506397
+HF00888,Wurnuna Primary Health Centre,Primary Health Centre,Wurzano,Uzorisa,Uzojina South,Uzojina State,Public,8.64188,9.500256
+HF00270,Yobtija General Hospital,General Hospital,Dainani,Agbmita,Agbzatu North,Agbzatu State,Public,-3.871829,7.849982
+HF00758,Tamnuba Health Post,Health Post,Daiyona,TAMLUNI,Uzojina North,Uzojina State,Public,8.272339,7.730002
+HF00958,Enunale Comprehensive Health Centre,Comprehensive Health Centre,Agbshako,Yobmija,Supwasa North,Supwasa State,Public,9.097046,10.324913
+HF01263,Kuknuma Primary Health Centre,Primary Health Centre,Dailutu,Zamjidu,Agbkeko Central,Agbkeko State,Public,9.641493,10.12013
+HF00015,Enumifa Health Post,Health Post,Enunasa,Katmaba,Kukrima North,Kukrima State,Public,5.8,9.14
+HF01109,Baukemi Health Post,Health Post,Lokngode,Oluyofa,Supwasa South,Supwasa State,Public,9.136627,11.416771
+HF01096,Olukosa Health Post,Health Post,Yelngomi,Baumiru,Supwasa South,Supwasa State,Public,8.972945,11.359946
+HF01217,Josmide Primary Health Centre,Primary Health Centre,Birriwa,Yobrifa-West LGA,Agbkeko Central,Agbkeko State,Public,9.041771,9.476063
+HF00857,Dutrini Health Post,Health Post,Olunumi,Wurkota,Uzojina Central,Uzojina State,Public,9.058125,8.672668
+HF01039,Ngebaja Cottage Hospital,Cottage Hospital,Josmadu,Josmiba,Supwasa Central,Supwasa State,Private,10.533387,10.645043
+HF01210,Gwotidu Comprehensive Health Centre,Comprehensive Health Centre,Sokmiwa,Daibewo,Agbkeko Central,Agbkeko State,Private,9.470118,9.360938
+HF01292,Uzomali Health Post,Health Post,Supdesa,Enumija,Agbkeko South,Agbkeko State,Faith-based,10.576886,10.268479
+HF00452,Uzonudu Primary Health Centre,Primary Health Centre,Okelaja,Daishako,Agbzatu South,Agbzatu State,Public,7.60869,8.8218
+HF00643,Enutsina Health Post,Health Post,Ibayoja,Tamlufa-East,Tivbetu South,Tivbetu State,Public,8.643686,10.631172
+HF00520,Kadmatu General Hospital,General Hospital,Supbena,Agbzawa-South LGA,Tivbetu North,Tivbetu State,Private,8.310584,9.836605
+HF00598,Baumita Primary Health Centre,Primary Health Centre,Katlatu,Agblasa,Tivbetu Central,Tivbetu State,Public,7.280791,10.216623
+HF01192,Kukyole Primary Health Centre,Primary Health Centre,Kuknayi,Yeltili,Agbkeko North,Agbkeko State,Public,10.199928,8.977081
+HF01258,Wurrari Comprehensive Health Centre,Comprehensive Health Centre,Birjili,Daibama LGA,Agbkeko Central,Agbkeko State,Public,9.393802,9.979997
+HF00538,Dailana Comprehensive Health Centre,Comprehensive Health Centre,Yelwana,Uzoberi,Tivbetu North,Tivbetu State,Public,8.666693,10.397508
+HF00100,Okewama Health Post,Health Post,Gwosani,Yelkefa,Kukrima Central,Kukrima State,Public,7.586489,9.539469
+HF00113,Tamnuni Health Post,Health Post,Banmashi,Lokbaru,Kukrima Central,Kukrima State,Public,"6°58'01.8""E","10°02'07.3""N"
+HF00005,Yelluko Cottage Hospital,Cottage Hospital,Olumadu,Maltsimi,Kukrima North,Kukrima State,Public,6.219923,9.464022
+HF00042,Yobtiko Primary Health Centre,Primary Health Centre,Ibarija,Riylude-North LGA,Kukrima North,Kukrima State,Public,6.549921,9.746958
+HF00052,Adetija Primary Health Centre,Primary Health Centre,Wurjimi,Irolufa LGA,Kukrima North,Kukrima State,Public,6.104447,9.650465
+HF00363,Nasrimi Primary Health Centre,Primary Health Centre,Tivlana,Lokmata,Agbzatu Central,Agbzatu State,Public,6.327128,8.744952
+HF00896,Malluli Comprehensive Health Centre,Comprehensive Health Centre,Lokyofa,LOKSAYI,Uzojina South,Uzojina State,Public,8.390438,8.815405
+HF00004,Oluyoja Health Post,Health Post,Katzano,Maltsimi,Kukrima North,Kukrima State,Public,6.201218,9.424269
+HF00153,Nasshami Primary Health Centre,Primary Health Centre,Hanluta,Wurmashi,Kukrima Central,Kukrima State,Public,7.39,10.09
+HF01170,Kukdesa Primary Health Centre,Primary Health Centre,Shangodu,Ngenuta-Central,Agbkeko North,Agbkeko State,Public,10.296369,8.727731
+HF00147,Katkoli Primary Health Centre,Primary Health Centre,Banrija,Wurmashi,Kukrima Central,Kukrima State,Public,7.076038,10.222401
+HF00091,Ekemiwa Primary Health Centre,Primary Health Centre,Ekerini,Yelkefa ,Kukrima Central,Kukrima State,Public,7.33846,9.544489
+HF01156,Oluzama Health Post,Health Post,Tivdewo,Jostile ,Agbkeko North,Agbkeko State,Public,9.846378,9.486986
+HF00195,Okeriru Cottage Hospital,Cottage Hospital,Zamkono,Umumitu,Kukrima South,Kukrima State,Private,"6°38'34.7""E","10°54'45.0""N"
+HF01235,Daingowo General Hospital,General Hospital,Gwobeno,Hanjile,Agbkeko Central,Agbkeko State,Public,9.664444,9.539778
+HF01149,Sokyole Primary Health Centre,Primary Health Centre,Riynawa,Lokshasa,Agbkeko North,Agbkeko State,Public,10.454715,9.335704
+HF00862,Dairata Primary Health Centre,Primary Health Centre,Ekebawa,Wurkota,Uzojina Central,Uzojina State,Public,9.257766,8.798446
+HF00536,Enumiri Comprehensive Health Centre,Comprehensive Health Centre,Duttsita,Uzoberi,Tivbetu North,Tivbetu State,Private,8.732364,10.241774
+HF00105,Yelzade Health Post,Health Post,Banluma,Yelkefa,Kukrima Central,Kukrima State,Public,7.560141,9.684515
+HF00550,Hankeko Comprehensive Health Centre,Comprehensive Health Centre,Ekebemi,Malbawo-Central,Tivbetu North,Tivbetu State,Public,7.718681,9.53098
+HF00600,Supnale Primary Health Centre,Primary Health Centre,Daikema,Agblasa,Tivbetu Central,Tivbetu State,Private,7.550657,10.253187
+HF00566,Bantsimi Primary Health Centre,Primary Health Centre,Oluyoko,Ibajija-South,Tivbetu Central,Tivbetu State,Public,7.119101,10.99749
+HF01259,Ekerami Primary Health Centre,Primary Health Centre,Riytsina,Zamjidu ,Agbkeko Central,Agbkeko State,Public,9.555371,10.111013
+HF00644,Enunudu Health Post,Health Post,Ibayoja,Tamlufa-East,Tivbetu South,Tivbetu State,Public,8.719519,10.689064
+HF00649,Enuride Primary Health Centre,Primary Health Centre,Katduba,Tamlufa-East,Tivbetu South,Tivbetu State,Private,8.787756,10.695032
+HF00255,Yobtitu Primary Health Centre,Primary Health Centre,Kadbetu,Agbmita,Agbzatu North,Agbzatu State,Public,7.826075,8.349803
+HF00873,Fundefa Primary Health Centre,Primary Health Centre,Kukmiyi,Olubani-South,Uzojina South,Uzojina State,Public,8.109248,8.406026
+HF00746,Yelberu Primary Health Centre,Primary Health Centre,Bausako,NASYOTU,Uzojina North,Uzojina State,Private,8.682355,8.102501
+HF00311,Shashaba Primary Health Centre,Primary Health Centre,Gwonade,Josduri-South,Agbzatu North,Agbzatu State,Faith-based,7.694136,7.57436
+HF00774,Shakoyi Comprehensive Health Centre,Comprehensive Health Centre,Uzosawo,Tamluni,Uzojina North,Uzojina State,Public,8.572348,7.956988
+HF00749,Ekengona Primary Health Centre,Primary Health Centre,Kuknadu,Nasyotu,Uzojina North,Uzojina State,Public,8.850089,7.919349
+HF01206,Ibatiba Comprehensive Health Centre,Comprehensive Health Centre,Sokbedu,Daibewo,Agbkeko Central,Agbkeko State,Public,9.368564,9.181111
+HF00445,Hanketu Primary Health Centre,Primary Health Centre,Malkori,Agbngoru,Agbzatu South,Agbzatu State,Public,7.716927,8.49926
+HF00879,Shawasa Health Post,Health Post,Wurlutu,Olubani-South ,Uzojina South,Uzojina State,Private,8.458121,8.495552
+HF00930,Wuryoni General Hospital,General Hospital,Tivtsisa,Zamberi-North,Uzojina South,Uzojina State,Public,8.523822,8.910009
+HF00978,Shamaja Health Post,Health Post,Sokdeba,Zambani,Supwasa Central,Supwasa State,Public,9.848304,11.03691
+HF00192,Funnani Primary Health Centre,Primary Health Centre,Tivsawo,Umumitu,Kukrima South,Kukrima State,Public,6.552121,10.794518
+HF00499,Baumima Health Post,Health Post,Kukbeja,Agbtsiko,Tivbetu North,Tivbetu State,Public,7.99139,9.912396
+HF00747,Umutimi Health Post,Health Post,Bausako,Nasyotu,Uzojina North,Uzojina State,Public,8.806199,7.998375
+HF01094,Kadrija Health Post,Health Post,Yelngomi,Baumiru,Supwasa South,Supwasa State,Public,8.998953,11.399235
+HF00534,Olubawa Cottage Hospital,Cottage Hospital,Ekebewa,Uzoberi,Tivbetu North,Tivbetu State,Public,8.498951,10.387755
+HF00313,Ekebesa Health Post,Health Post,Gwonade,Josduri-South LGA,Agbzatu North,Agbzatu State,Public,7.639672,7.535651
+HF01063,Kadnana Cottage Hospital,Cottage Hospital,Banluwa,Okeyoru-South,Supwasa Central,Supwasa State,Public,9.828417,10.937464
+HF00834,Josyori Primary Health Centre,Primary Health Centre,Yobbafa,Yeltsina LGA,Uzojina Central,Uzojina State,Private,9.757267,8.792874
+HF00047,Dainuwo Comprehensive Health Centre,Comprehensive Health Centre,Tamyowa,Irolufa,Kukrima North,Kukrima State,Private,5.913583,9.778972
+HF00845,Uzobesa Primary Health Centre,Primary Health Centre,Gwoyowo,Adelaja North,Uzojina Central,Uzojina State,Public,9.226196,8.565027
+HF00009,Adekoshi Health Post,Health Post,Dutkoko,Maltsimi ,Kukrima North,Kukrima State,Public,6.287578,9.305531
+HF00789,Hanshami Primary Health Centre,Primary Health Centre,Daitisa,Nassako-Central,Uzojina North,Uzojina State,Public,8.5302,7.653698
+HF00839,Irodule Primary Health Centre,Primary Health Centre,Funwashi,Dutkeni,Uzojina Central,Uzojina State,Public,9.750554,8.734666
+HF00090,Lokkeli Health Post,Health Post,Ekerini,Yelkefa,Kukrima Central,Kukrima State,Public,7.301828,9.47408
+HF00128,Dutshari Health Post,Health Post,Jostsili,Tambemi,Kukrima Central,Kukrima State,Private,6.874655,9.673279
+HF00276,Oketside Health Post,Health Post,Kukyoba,Malmaba,Agbzatu North,Agbzatu State,Public,7.544852,8.118132
+HF00477,Supjisa Primary Health Centre,Primary Health Centre,Yobbeko,Ngetija,Agbzatu South,Agbzatu State,Public,7.72612,9.239025
+HF00288,Kuklade General Hospital,General Hospital,Daisale,Supyoshi-East,Agbzatu North,Agbzatu State,Public,7.662236,7.486589
+HF00519,Olurashi Primary Health Centre,Primary Health Centre,Supbena,Agbzawa-South,Tivbetu North,Tivbetu State,Public,8.357055,9.828162
+HF00613,Irozako Health Post,Health Post,Riyshawa,Ironama,Tivbetu Central,Tivbetu State,Public,7.550008,10.72978
+HF00501,Ademasa Primary Health Centre,Primary Health Centre,Zamlama,Agbtsiko,Tivbetu North,Tivbetu State,Public,7.94622,10.19662
+HF00595,Yelrawo Primary Health Centre,Primary Health Centre,Riyjiwo,Okerano-Central,Tivbetu Central,Tivbetu State,Public,-4.374758,11.376683
+HF00694,Yelkele Health Post,Health Post,Dutrama,Adekowo,Tivbetu South,Tivbetu State,Public,8.459204,11.615395
+HF00316,Adedema Health Post,Health Post,Sokshayi,Josduri-South,Agbzatu North,Agbzatu State,Public,7.621859,7.423601
+HF00904,Agbludu Health Post,Health Post,Uzowadu,Hansatu,Uzojina South,Uzojina State,Public,9.34602,8.974446
+HF00384,Adenuyi Primary Health Centre,Primary Health Centre,Kadjino,Enutifa,Agbzatu Central,Agbzatu State,Private,7.035096,7.921151
+HF00360,Katkewa Health Post,Health Post,Funzako,IROSAJA,Agbzatu Central,Agbzatu State,Public,"6°39'58.4""E","8°02'24.0""N"
+HF900899,Maltita Health Post,Health Post,Funkotu,Hansatu,Uzojina South,Uzojina State,Private,8.694335,9.05162
+HF01236,Nasjile Comprehensive Health Centre,Comprehensive Health Centre,Gwobeno,Hanjile,Agbkeko Central,Agbkeko State,Public,9.687848,9.563436
+HF00700,Ibayona Primary Health Centre,Primary Health Centre,Sokshano,Adekowo,Tivbetu South,Tivbetu State,Private,8.704254,11.603649
+HF01227,Adesata Primary Health Centre,Primary Health Centre,Sharishi,Yobrifa-West,Agbkeko Central,Agbkeko State,Public,9.261461,9.688894
+HF00763,Birbeta Health Post,Health Post,Riylale,Tamluni,Uzojina North,Uzojina State,Public,8.428366,7.816138
+HF00012,Daiyode Health Post,Health Post,Maltsisa,Katmaba,Kukrima North,Kukrima State,Public,5.755545,9.381572
+HF00075,Yelwadu Primary Health Centre,Primary Health Centre,Supnami,Ibabani,Kukrima North,Kukrima State,Public,6.385216,9.256285
+HF00193,Shayowo Health Post,Health Post,Zamkono,Umumitu,Kukrima South,Kukrima State,Public,6.669691,10.941114
+HF00177,Okeyotu Health Post,Health Post,Baujina,DAIZADE,Kukrima South,Kukrima State,Public,6.184442,10.395017
+HF01057,Ngezashi Health Post,Health Post,Wurtsiwa,KATDUDU,Supwasa Central,Supwasa State,Private,10.01078,10.418029
+HF00071,Irolali Primary Health Centre,Primary Health Centre,Sokdema,Shajima,Kukrima North,Kukrima State,Public,6.013656,9.452195
+HF01209,Shatsiwa Health Post,Health Post,Shayoshi,Daibewo,Agbkeko Central,Agbkeko State,Public,9.397927,9.548282
+HF00175,Uzokodu Primary Health Centre,Primary Health Centre,Yobzasa,Zamnuni-North,Kukrima South,Kukrima State,Public,6.9515,10.128821
+HF00918,Oluladu Primary Health Centre,Primary Health Centre,Josmako,Banluwo,Uzojina South,Uzojina State,Public,8.776158,8.561835
+HF01314,Joskode Primary Health Centre,Primary Health Centre,Oluzana,Zammiyi,Agbkeko South,Agbkeko State,Public,10.3036,10.09922
+HF01086,Katrishi Primary Health Centre,Primary Health Centre,Baubama,Ekedeta-East,Supwasa South,Supwasa State,Public,9.553317,11.586868
+HF00440,Birmide Primary Health Centre,Primary Health Centre,Enurita,Agbngoru,Agbzatu South,Agbzatu State,Public,,
+HF01202,Lokjita Primary Health Centre,Primary Health Centre,Suptini,Daibewo,Agbkeko Central,Agbkeko State,Faith-based,9.335028,9.41156
+HF01221,Tivjino General Hospital,General Hospital,Shaluja,Yobrifa-West,Agbkeko Central,Agbkeko State,Private,9.132241,9.639112
+HF01298,Sokrishi Health Post,Health Post,Malludu,Enumija,Agbkeko South,Agbkeko State,Public,10.814573,10.149264
+HF00008,Zamrili Health Post,Health Post,Dutkoko,Maltsimi,Kukrima North,Kukrima State,Public,6.31174,9.306027
+HF00185,Irozaja Health Post,Health Post,Dainali,Daizade,Kukrima South,Kukrima State,Public,6.532454,10.528277
+HF00387,Gworifa Primary Health Centre,Primary Health Centre,Birnushi,Enutifa ,Agbzatu Central,Agbzatu State,Public,7.121138,8.161883
+HF00847,Uzotsisa Primary Health Centre,Primary Health Centre,Tambawa,Adelaja-North,Uzojina Central,Uzojina State,Public,9.411792,8.428875
+HF00021,Joskowa Primary Health Centre,Primary Health Centre,Loklude,Uzoluni,Kukrima North,Kukrima State,Public,6.302085,8.752193
+HF01315,Hannana Primary Health Centre,Primary Health Centre,Okewari,Zammiyi,Agbkeko South,Agbkeko State,Public,10.412017,10.296785
+HF01040,Katnuna Primary Health Centre,Primary Health Centre,Josmadu,Josmiba,Supwasa Central,Supwasa State,Public,10.598331,10.657604
+HF01140,Birmayi Primary Health Centre,Primary Health Centre,Ekeriri,Sokmiri,Agbkeko North,Agbkeko State,Public,9.654445,8.904026
+HF01226,Riytima Primary Health Centre,Primary Health Centre,Sharishi,Yobrifa-West,Agbkeko Central,Agbkeko State,Public,9.324263,9.671112
+HF00556,Gwokomi Health Post,Health Post,Sokdushi,Soktimi,Tivbetu North,Tivbetu State,Public,7.678294,10.061189
+HF00179,Bantiwa Primary Health Centre,Primary Health Centre,Baujina,Daizade,Kukrima South,Kukrima State,Private,6.1876,10.385132
+HF00176,Dutyona Health Post,Health Post,Riynushi,Zamnuni North,Kukrima South,Kukrima State,Private,6.94361,10.311698
+HF01041,Katnuja Comprehensive Health Centre,Comprehensive Health Centre,Daiwana,Josmiba,Supwasa Central,Supwasa State,Faith-based,10.65345,10.460045
+HF00138,Shasashi Primary Health Centre,Primary Health Centre,Malsana,Gwolama,Kukrima Central,Kukrima State,Public,7.003928,9.546265
+HF00559,Tamjima Health Post,Health Post,Birtima,Soktimi,Tivbetu North,Tivbetu State,Public,7.562021,10.015408
+HF00152,Yeljimi Comprehensive Health Centre,Comprehensive Health Centre,Hanluta,Wurmashi,Kukrima Central,Kukrima State,Public,7.327791,10.127443
+HF00381,Ekeduna Primary Health Centre,Primary Health Centre,Soktiri,Dutzama,Agbzatu Central,Agbzatu State,Public,6.913649,7.926184
+HF00526,Kuklata Health Post,Health Post,Kukmatu,Hansaba ,Tivbetu North,Tivbetu State,Private,8.473404,9.812121
+HF00993,Kadmiba Primary Health Centre,Primary Health Centre,Irokoni,Zambani,Supwasa Central,Supwasa State,Public,10.183303,10.922474
+HF00796,Maljiko Primary Health Centre,Primary Health Centre,Yelbeba,Tamwata-South,Uzojina Central,Uzojina State,Public,10.013204,8.337604
+HF00812,Ngetifa Primary Health Centre,Primary Health Centre,Daizana,DAISHALI-CENTRAL,Uzojina Central,Uzojina State,Public,8.965216,8.403839
+HF00222,Zamshana Primary Health Centre,Primary Health Centre,Nastili,Enumade-West,Kukrima South,Kukrima State,Public,6.510914,10.437259
+HF00411,Ekeshari Cottage Hospital,Cottage Hospital,Zamlani,Iromashi,Agbzatu Central,Agbzatu State,Public,7.12557,8.411782
+HF00072,Uzongotu Primary Health Centre,Primary Health Centre,Supnami,Ibabani,Kukrima North,Kukrima State,Public,6.377367,9.346238
+HF00020,Tammile Primary Health Centre,Primary Health Centre,Loklude,Uzoluni,Kukrima North,Kukrima State,Public,6.299295,8.742118
+HF00278,Shaluna Primary Health Centre,Primary Health Centre,Wurngowo,Malmaba,Agbzatu North,Agbzatu State,Public,7.726362,8.360954
+HF00289,Wurkefa Health Post,Health Post,Daisale,Supyoshi-East,Agbzatu North,Agbzatu State,Public,7.727978,7.426917
+HF00467,Funmita Health Post,Health Post,Kuklasa,UMUMAYI,Agbzatu South,Agbzatu State,Public,8.005198,9.242279
+HF01113,Ngejiko Primary Health Centre,Primary Health Centre,Agbngode,Oluyofa,Supwasa South,Supwasa State,Public,9.1918,11.295959
+HF00859,Adenaja Health Post,Health Post,Shaduni,Wurkota ,Uzojina Central,Uzojina State,Public,9.077686,8.660756
+HF00417,Gwotimi Health Post,Health Post,Lokngoko,Oketsifa,Agbzatu South,Agbzatu State,Public,7.888151,8.462873
+HF00037,Riytiwo Primary Health Centre,Primary Health Centre,Dutmidu,Riylude-North,Kukrima North,Kukrima State,Public,6.450128,9.845145
+HF900052,Adetija PHC,Primary Health Centre,Wurjimi,Irolufa,Kukrima North,Kukrima State,Public,6.104447,9.650465
+HF00367,Malmide Cottage Hospital,Cottage Hospital,Okewako,Lokmata,Agbzatu Central,Agbzatu State,Public,6.520543,8.651852
+HF00095,Naskowa Health Post,Health Post,Hanlana,Yelkefa LGA,Kukrima Central,Kukrima State,Public,7.438632,9.50402
+HF01166,Malwawa Primary Health Centre,Primary Health Centre,Agbmama,NGENUTA-CENTRAL,Agbkeko North,Agbkeko State,Public,10.21,8.57
+HF00584,Shakena Health Post,Health Post,Tivzana,Irongori,Tivbetu Central,Tivbetu State,Public,7.802094,10.868916
+HF01294,Wurmade Health Post,Health Post,Ekejini,Enumija,Agbkeko South,Agbkeko State,Public,10.698088,10.233503
+HF01304,Iroriwa Health Post,Health Post,Gwodeja,Ngemidu,Agbkeko South,Agbkeko State,Faith-based,"10°09'18.7""E","9°46'15.6""N"
+HF00771,Irolata Health Post,Health Post,Uzosawo,Tamluni,Uzojina North,Uzojina State,Public,8.484971,7.928792
+HF00691,Zamrayi Comprehensive Health Centre,Comprehensive Health Centre,Shawaba,Nasdudu-North,Tivbetu South,Tivbetu State,Public,7.9556,11.535905
+HF01035,Yobduru Health Post,Health Post,Gwonashi,Josmiba,Supwasa Central,Supwasa State,Private,10.405017,10.446018
+HF01324,Supyoyi Primary Health Centre,Primary Health Centre,Yelshama,Gwodewo,Agbkeko South,Agbkeko State,Public,10.471842,9.915541
+HF01095,Lokmisa Primary Health Centre,Primary Health Centre,Yelngomi,Baumiru,Supwasa South,Supwasa State,Public,8.932769,11.36894
+HF00823,Wurjiwo Primary Health Centre,Primary Health Centre,Adetsidu,DaishaliCentral,Uzojina Central,Uzojina State,Public,9.305609,8.138822
+HF00067,Josnuma Health Post,Health Post,Sokdema,Shajima,Kukrima North,Kukrima State,Public,5.961923,9.414439
+HF00887,Hannuri Health Post,Health Post,Wurzano,Uzorisa,Uzojina South,Uzojina State,Public,8.604787,9.504081
+HF00655,Josriyi Primary Health Centre,Primary Health Centre,Tivtimi,Ibamide LGA,Tivbetu South,Tivbetu State,Public,8.158438,11.213725
+HF00422,Kuknuwo Cottage Hospital,Cottage Hospital,Kadmaja,Oketsifa,Agbzatu South,Agbzatu State,Public,-3.607123,8.644565
+HF01320,Ibaludu Primary Health Centre,Primary Health Centre,Ngetsiko,Zammiyi,Agbkeko South,Agbkeko State,Private,10.540791,9.970152
+HF01042,Yelnashi Health Post,Health Post,Wurngomi,Josmiba,Supwasa Central,Supwasa State,Public,10.733492,10.628218
+HF00625,Riynayi Cottage Hospital,Cottage Hospital,Supsani,Daidefa,Tivbetu Central,Tivbetu State,Public,6.871031,10.936763
+HF00321,Tivwayi Comprehensive Health Centre,Comprehensive Health Centre,Josbesa,Gwodele-South,Agbzatu North,Agbzatu State,Faith-based,7.979697,7.433514
+HF00064,Oludule Health Post,Health Post,Aderita,Shajima,Kukrima North,Kukrima State,Private,5.922543,9.067566
+HF00708,Ibanali Health Post,Health Post,Katdeno,Tivrafa-West,Uzojina North,Uzojina State,Faith-based,9.117929,7.780579
+HF00908,Hanbani Primary Health Centre,Primary Health Centre,Hanwano,Agbridu West,Uzojina South,Uzojina State,Public,"8,224397","9,069231"
+HF01125,Katngoni Health Post,Health Post,Naslawa,Tivmama,Supwasa South,Supwasa State,Private,9.468348,11.056699
+HF01145,Umushawo Health Post,Health Post,Zamriru,Lokshasa,Agbkeko North,Agbkeko State,Public,10.421867,9.195991
+HF00820,Naswatu Comprehensive Health Centre,Comprehensive Health Centre,Adewano,Daishali-Central,Uzojina Central,Uzojina State,Public,9.181705,8.385834
+HF00198,Agbsama Health Post,Health Post,Banrana,Umumitu,Kukrima South,Kukrima State,Public,6.793319,11.020406
+HF01219,Baukoyi Primary Health Centre,Primary Health Centre,Birriwa,YOBRIFA-WEST,Agbkeko Central,Agbkeko State,Public,9.104586,9.573868
+HF00535,Uzoluwo Primary Health Centre,Primary Health Centre,Duttsita,Uzoberi,Tivbetu North,Tivbetu State,Public,8.674514,10.124574
+HF00866,Lokriwo Primary Health Centre,Primary Health Centre,Lokkode,Tivngoba,Uzojina South,Uzojina State,Private,8.940091,8.94883
+HF00139,Ekeyoma Health Post,Health Post,Ekeluwa,Gwolama,Kukrima Central,Kukrima State,Public,6.992913,9.328799
+HF01200,Nasmili Health Post,Health Post,Adeketu,Daibewo,Agbkeko Central,Agbkeko State,Faith-based,9.307533,9.410747
+HF00124,Shakeyi Primary Health Centre,Primary Health Centre,Wurdesa,Agbjide,Kukrima Central,Kukrima State,Public,6.850823,9.297858
+HF00868,Olushawo Health Post,Health Post,Bantsitu,Tivngoba,Uzojina South,Uzojina State,Faith-based,9.031458,9.058523
+HF00266,Kadlude Health Post,Health Post,Gwoyota,Agbmita,Agbzatu North,Agbzatu State,Public,8.122144,8.269106
+HF01242,Zamkeni Health Post,Health Post,Irowani,Hanjile,Agbkeko Central,Agbkeko State,Public,9.89431,9.649259
+HF00653,Dutbano General Hospital,General Hospital,Katnule,Ibamide,Tivbetu South,Tivbetu State,Public,8.08452,11.39746
+HF00374,Shatina Cottage Hospital,Cottage Hospital,Uzotishi,Lokmata,Agbzatu Central,Agbzatu State,Public,6.716886,8.756201
+HF00678,Tivshade Primary Health Centre,Primary Health Centre,Okemishi,Olujiwa ,Tivbetu South,Tivbetu State,Public,8.121102,10.705155
+HF900565,Uzokele Health Post,Health Post,Ngemima,Ibajija-South,Tivbetu Central,Tivbetu State,Public,6.95688,10.872176
+HF00555,Josritu Health Post,Health Post,Hanbafa,Malbawo-Central,Tivbetu North,Tivbetu State,Public,7.848479,9.616096
+HF00658,Zamkedu General Hospital,General Hospital,Banrani,Ibamide,Tivbetu South,Tivbetu State,Public,8.1823,11.337864
+HF00802,Wurmiko Health Post,Health Post,Uzoyodu,Tamwata-South,Uzojina Central,Uzojina State,Public,10.158177,8.413279
+HF01268,Malrini Primary Health Centre,Primary Health Centre,Funzata,Zamjidu,Agbkeko Central,Agbkeko State,Public,9.853549,10.032682
+HF00455,Katnuma Primary Health Centre,Primary Health Centre,Uzosafa,Banngono,Agbzatu South,Agbzatu State,Public,7.224104,9.034429
+HF00871,Oluzasa Primary Health Centre,Primary Health Centre,Agbtiba,Olubani-South,Uzojina South,Uzojina State,Public,8.156597,8.566049
+HF01003,Iroshafa Primary Health Centre,Primary Health Centre,Tivsana,BAUTIRU-WEST,Supwasa Central,Supwasa State,Public,10.672758,10.828111
+HF00601,Shayomi Primary Health Centre,Primary Health Centre,Duttsija,Agblasa LGA,Tivbetu Central,Tivbetu State,Public,7.411315,10.269159
+HF00790,Ngekoru Primary Health Centre,Primary Health Centre,Ekesasa,NASSAKO-CENTRAL,Uzojina North,Uzojina State,Public,8.744614,7.450122
+HF00577,Jostsiru Health Post,Health Post,Josmita,Dutwano,Tivbetu Central,Tivbetu State,Public,7.685792,11.399495
+HF00141,Riybade Comprehensive Health Centre,Comprehensive Health Centre,Lokngowa,Gwolama,Kukrima Central,Kukrima State,Public,7.008371,9.245351
+HF01139,Hanrile Health Post,Health Post,Ekeriri,Sokmiri LGA,Agbkeko North,Agbkeko State,Public,9.749804,8.96697
+HF00561,Oluduma Comprehensive Health Centre,Comprehensive Health Centre,Kukngowa,Soktimi,Tivbetu North,Tivbetu State,Public,7.688186,9.845039
+HF00043,Lokdeko Primary Health Centre,Primary Health Centre,Ibarija,Riylude-North,Kukrima North,Kukrima State,Public,6.528414,9.726784
+HF00174,Riymasa Primary Health Centre,Primary Health Centre,Yobzasa,ZamnuniNorth,Kukrima South,Kukrima State,Public,7.005231,10.117496
+HF00108,Katsaja Primary Health Centre,Primary Health Centre,Banluma,Yelkefa LGA,Kukrima Central,Kukrima State,Public,7.506259,9.747259
+HF00253,Ngemiba Health Post,Health Post,Kadbetu,Agbmita,Agbzatu North,Agbzatu State,Public,8.394384,7.88658
+HF01137,Enuyowa Comprehensive Health Centre,Comprehensive Health Centre,Zamnuno,Sokmiri,Agbkeko North,Agbkeko State,Public,9.573365,9.108368
+HF00051,Lokdusa Primary Health Centre,Primary Health Centre,Oluwasa,Irolufa,Kukrima North,Kukrima State,Private,5.921303,10.002064
+HF00234,Irokeshi Comprehensive Health Centre,Comprehensive Health Centre,Hanzami,Enumade-West,Kukrima South,Kukrima State,Public,6.663104,10.463394
+HF00269,Oluduba Primary Health Centre,Primary Health Centre,Dainani,Agbmita,Agbzatu North,Agbzatu State,Faith-based,8.142656,7.957894
+HF00403,Katkosa Primary Health Centre,Primary Health Centre,Kuktsija,Supsama-South,Agbzatu Central,Agbzatu State,Private,6.317395,8.68685
+HF01062,Shanuma Health Post,Health Post,Daibefa,Katdudu,Supwasa Central,Supwasa State,Public,10.21287,10.523734
+HF00549,Soknawa Primary Health Centre,Primary Health Centre,Ekebemi,Malbawo-Central LGA,Tivbetu North,Tivbetu State,Public,7.737099,9.584049
+HF00398,Hanbena Primary Health Centre,Primary Health Centre,Maldefa,Katrini,Agbzatu Central,Agbzatu State,Public,7.048843,8.333614
+HF00274,Yeltsitu Health Post,Health Post,Katlano,Malmaba,Agbzatu North,Agbzatu State,Public,7.57,8.05
+HF01187,Riyriwa Primary Health Centre,Primary Health Centre,Nasmitu,Yeltili ,Agbkeko North,Agbkeko State,Public,9.888077,8.712628
+HF01112,Kukyodu Primary Health Centre,Primary Health Centre,Agbngode,Oluyofa,Supwasa South,Supwasa State,Public,9.298757,11.303614
+HF00498,Yelnaja Primary Health Centre,Primary Health Centre,Kukbeja,Agbtsiko,Tivbetu North,Tivbetu State,Public,8.059468,9.852051
+HF00087,Umujiri Comprehensive Health Centre,Comprehensive Health Centre,Sokjitu,Ekejisa-North,Kukrima North,Kukrima State,Public,5.693857,9.785948
+HF01255,Hanwama Primary Health Centre,Primary Health Centre,Birjili,Daibama,Agbkeko Central,Agbkeko State,Public,9.385171,9.944942
+HF01325,Bantsina Health Post,Health Post,Yelshama,Gwodewo,Agbkeko South,Agbkeko State,Public,10.638319,9.901975
+HF01261,Olujisa Health Post,Health Post,Riytsina,Zamjidu,Agbkeko Central,Agbkeko State,Public,9.516427,10.079886
+HF01005,Uzoyoko Health Post,Health Post,Ekekode,Bautiru-West,Supwasa Central,Supwasa State,Public,"10°35'15.9""E","11°04'27.4""N"
+HF00415,Oluyowa Comprehensive Health Centre,Comprehensive Health Centre,Adenuru,IROMASHI,Agbzatu Central,Agbzatu State,Public,7.129634,8.252513
+HF00483,Hankoru Primary Health Centre,Primary Health Centre,Shabafa,Tivsano-North,Tivbetu North,Tivbetu State,Faith-based,8.258281,10.403605
+HF00564,Okelufa Primary Health Centre,Primary Health Centre,Ngemima,Ibajija-South,Tivbetu Central,Tivbetu State,Public,6.957632,10.805009
+HF01274,Olumana Primary Health Centre,Primary Health Centre,Uzodushi,Nasnadu,Agbkeko South,Agbkeko State,Public,9.84058,9.882078
+HF00693,Adewafa Health Post,Health Post,Okenatu,Nasdudu-North,Tivbetu South,Tivbetu State,Public,8.06598,11.13844
+HF00366,Tivkewa Comprehensive Health Centre,Comprehensive Health Centre,Okewako,Lokmata,Agbzatu Central,Agbzatu State,Public,6.615772,8.634457
+HF00525,Katbeshi Comprehensive Health Centre,Comprehensive Health Centre,Ibarima,AGBZAWA-SOUTH,Tivbetu North,Tivbetu State,Public,8.369306,9.587759
+HF00303,Zamngofa Health Post,Health Post,Dutkota,Hanraja,Agbzatu North,Agbzatu State,Public,7.45,7.87
+HF01309,Yobrade Primary Health Centre,Primary Health Centre,Malsharu,Ngemidu,Agbkeko South,Agbkeko State,Public,10.349002,9.781313
+HF00736,Bantsini Health Post,Health Post,Enumitu,Agbkotu-South,Uzojina North,Uzojina State,Public,8.336858,8.064907
+HF00340,Tivkoli Comprehensive Health Centre,Comprehensive Health Centre,Bannayi,Zamkeri,Agbzatu Central,Agbzatu State,Public,6.84398,8.905034
+HF00579,Nasnuno Health Post,Health Post,Soknari,Dutwano,Tivbetu Central,Tivbetu State,Public,7.76356,11.402001
+HF00039,Adewale Health Post,Health Post,Dutmidu,Riylude-North,Kukrima North,Kukrima State,Faith-based,6.3978,9.844214
+HF00609,Kadshafa Comprehensive Health Centre,Comprehensive Health Centre,Ekekena,Ironama,Tivbetu Central,Tivbetu State,Public,7.494114,10.77238
+HF00380,Ekeshade Primary Health Centre,Primary Health Centre,Sharashi,DUTZAMA,Agbzatu Central,Agbzatu State,Public,6.782301,7.870861
+HF00491,Lokngota Primary Health Centre,Primary Health Centre,Umunuta,Tivsano-North,Tivbetu North,Tivbetu State,Private,8.463899,10.251886
+HF00636,Agbbata Comprehensive Health Centre,Comprehensive Health Centre,Wurzafa,Joskeru,Tivbetu South,Tivbetu State,Private,8.612233,11.264857
+HF00769,Baubali Primary Health Centre,Primary Health Centre,Uzosawo,Tamluni,Uzojina North,Uzojina State,Public,8.533387,7.987262
+HF01097,Birjija Comprehensive Health Centre,Comprehensive Health Centre,Katluko,Baumiru,Supwasa South,Supwasa State,Public,9.0,11.2
+HF00049,Tivbewa Primary Health Centre,Primary Health Centre,Oluwasa,Irolufa,Kukrima North,Kukrima State,Public,5.954722,10.033424
+HF00932,Funmide Health Post,Health Post,Tivtsisa,Zamberi-North,Uzojina South,Uzojina State,Public,8.577357,8.900812
+HF00720,Funbani Health Post,Health Post,Tivyoyi,Dutjiri,Uzojina North,Uzojina State,Public,8.627528,8.360639
+HF00874,Adeluna Health Post,Health Post,Tamduri,Olubani-South,Uzojina South,Uzojina State,Public,8.26993,8.632786
+HF00901,Banyoma Primary Health Centre,Primary Health Centre,Supyomi,Hansatu,Uzojina South,Uzojina State,Public,8.811091,9.348975
+HF00682,Uzotside Primary Health Centre,Primary Health Centre,Kukrali,Olujiwa,Tivbetu South,Tivbetu State,Public,8.094521,11.022761
+HF00528,Irongoli Comprehensive Health Centre,Comprehensive Health Centre,Kukmatu,Hansaba,Tivbetu North,Tivbetu State,Public,8.56882,9.940451
+HF00648,Oluzawo Comprehensive Health Centre,Comprehensive Health Centre,Hanraru,Tamlufa-East,Tivbetu South,Tivbetu State,Private,8.814164,10.592617
+HF00397,Uzokowa Health Post,Health Post,Irotsifa,Katrini,Agbzatu Central,Agbzatu State,Public,6.878779,8.16498
+HF00074,Riyshaba Primary Health Centre,Primary Health Centre,Supnami,Ibabani,Kukrima North,Kukrima State,Private,6.345406,9.475665
+HF00251,Banrisa Health Post,Health Post,Daizaru,Agbmita,Agbzatu North,Agbzatu State,Public,7.849626,8.017297
+HF00628,Nasshafa Comprehensive Health Centre,Comprehensive Health Centre,Gwokemi,Daidefa,Tivbetu Central,Tivbetu State,Public,7.107582,11.147235
+HF900541,Iroyoshi Health Post,Health Post,Yelnuba,Uzoberi,Tivbetu North,Tivbetu State,Public,8.758937,10.43891
+HF00263,Enuzayi Primary Health Centre,Primary Health Centre,Uzowana,Agbmita,Agbzatu North,Agbzatu State,Public,8.023887,8.17409
+HF00014,Yellali Primary Health Centre,Primary Health Centre,Maltsisa,Katmaba,Kukrima North,Kukrima State,Public,"5,698752","9,381432"
+HF01281,Tambemi Primary Health Centre,Primary Health Centre,Adetsita,Nasnadu,Agbkeko South,Agbkeko State,Private,10.043838,10.184815
+HF01241,Wurshawo Primary Health Centre,Primary Health Centre,Irowani,HANJILE,Agbkeko Central,Agbkeko State,Public,9.912945,9.626453
+HF00925,Kadsasa Cottage Hospital,Cottage Hospital,Nastino,Zamberi-North,Uzojina South,Uzojina State,Public,8.561178,8.811937
+HF00803,Olutsili Cottage Hospital,Cottage Hospital,Uzoyodu,Tamwata-South,Uzojina Central,Uzojina State,Public,10.028566,8.355887
+HF01050,Kaddewo Health Post,Health Post,Bandema,KATDUDU,Supwasa Central,Supwasa State,Public,10.142413,10.700895
+HF00940,Enusaja Health Post,Health Post,Funngoru,Adekeni,Supwasa North,Supwasa State,Public,9.37969,10.989921
+HF01017,Bauyoyi Health Post,Health Post,Soktiba,Funkedu,Supwasa Central,Supwasa State,Public,10.410072,11.361348
+HF00938,Dailuyi Health Post,Health Post,Funngoru,Adekeni,Supwasa North,Supwasa State,Public,9.349977,10.884026
+HF00688,Wurkewa Primary Health Centre,Primary Health Centre,Yeldule,Nasdudu-North,Tivbetu South,Tivbetu State,Public,7.953908,11.569309
+HF00309,Riytiko Primary Health Centre,Primary Health Centre,Riyriru,Josduri-South ,Agbzatu North,Agbzatu State,Public,7.574104,7.510472
+HF01108,Gwokoni Health Post,Health Post,Shangoru,Loknaba,Supwasa South,Supwasa State,Public,9.027383,11.655609
+HF00913,Bausaja Health Post,Health Post,Gwojishi,Agbridu-West,Uzojina South,Uzojina State,Public,8.437296,9.068528
+HF00923,Tamlude Primary Health Centre,Primary Health Centre,Nastino,ZAMBERI-NORTH,Uzojina South,Uzojina State,Public,8.55411,8.719858
+HF00821,Banduko Health Post,Health Post,Adewano,Daishali Central,Uzojina Central,Uzojina State,Public,9.219424,8.284518
+HF00651,Zamshawo Primary Health Centre,Primary Health Centre,Ekemiwa,Ibamide,Tivbetu South,Tivbetu State,Public,8.04,11.55
+HF00580,Josmishi Cottage Hospital,Cottage Hospital,Ngemafa,Dutwano,Tivbetu Central,Tivbetu State,Private,7.891742,11.207827
+HF00576,Nasbayi Primary Health Centre,Primary Health Centre,Fundeko,Dutwano,Tivbetu Central,Tivbetu State,Public,7.54,11.45
+HF01172,Tamdeta Comprehensive Health Centre,Comprehensive Health Centre,Malnumi,Maljiwo,Agbkeko North,Agbkeko State,Public,,
+HF01059,Bannuru Cottage Hospital,Cottage Hospital,Kadtini,Katdudu,Supwasa Central,Supwasa State,Public,10.193241,10.405481
+HF00186,Wursari Comprehensive Health Centre,Comprehensive Health Centre,Kadbemi,Daizade,Kukrima South,Kukrima State,Public,6.367893,10.575492
+HF00085,Ngezana Primary Health Centre,Primary Health Centre,Sokjitu,Ekejisa-North,Kukrima North,Kukrima State,Private,5.792405,9.699518
+HF00148,Enujini General Hospital,General Hospital,Banrija,Wurmashi,Kukrima Central,Kukrima State,Public,7.096931,10.250366
+HF00755,Ngenuwa Health Post,Health Post,Banwama,Nasyotu,Uzojina North,Uzojina State,Public,9.055201,7.967541
+HF00744,Riynuko Health Post,Health Post,Daitsitu,Agbkotu-South,Uzojina North,Uzojina State,Public,8.388348,8.254835
+HF01290,Ibajita Health Post,Health Post,Dairiwo,Enumija,Agbkeko South,Agbkeko State,Public,10.634276,10.10173
+HF00362,Daizata Primary Health Centre,Primary Health Centre,Mallufa,Irosaja,Agbzatu Central,Agbzatu State,Public,6.610718,7.975798
+HF00965,Adeluru Health Post,Health Post,Kattino,Ibangosa,Supwasa North,Supwasa State,Public,9.395978,10.287542
+HF01119,Zamtiwa Comprehensive Health Centre,Comprehensive Health Centre,Ekenuno,Oluyofa,Supwasa South,Supwasa State,Public,9.254836,11.223359
+HF01136,Tamnuna Health Post,Health Post,Zamnuno,Sokmiri,Agbkeko North,Agbkeko State,Faith-based,9.574423,9.093929
+HF00407,Okemashi Primary Health Centre,Primary Health Centre,Malrama,Supsama-South,Agbzatu Central,Agbzatu State,Public,6.406447,8.389587
+HF00652,Tivmari Primary Health Centre,Primary Health Centre,Katnule,Ibamide,Tivbetu South,Tivbetu State,Public,8.063028,11.427013
+HF00587,Funngowo Primary Health Centre,Primary Health Centre,Soksani,Irongori,Tivbetu Central,Tivbetu State,Private,7.764898,10.616426
+HF00679,Gwodede Primary Health Centre,Primary Health Centre,Okemishi,Olujiwa,Tivbetu South,Tivbetu State,Private,8.084209,10.7198
+HF00488,Uzorano Health Post,Health Post,Riyzama,Tivsano-North,Tivbetu North,Tivbetu State,Public,8.413854,10.041296
+HF01083,Gwoyowo Health Post,Health Post,Funjiyi,Ekedeta-East,Supwasa South,Supwasa State,Public,9.40919,11.445907
+HF00217,Yelyoyi Primary Health Centre,Primary Health Centre,Adenutu,Banluta,Kukrima South,Kukrima State,Public,6.032417,10.123064
+HF00632,Supkowo Primary Health Centre,Primary Health Centre,Hanluri,Joskeru,Tivbetu South,Tivbetu State,Public,8.343724,10.969225
+HF00903,Kadkotu Primary Health Centre,Primary Health Centre,Uzowadu,Hansatu,Uzojina South,Uzojina State,Public,9.006057,9.315658
+HF01318,Loklami Health Post,Health Post,Ngetsiko,ZAMMIYI,Agbkeko South,Agbkeko State,Public,10.491615,9.973942
+HF00156,Ibadushi Primary Health Centre,Primary Health Centre,Birwari,Wurmashi,Kukrima Central,Kukrima State,Public,7.220702,10.013517
+HF00614,Tivngoshi Primary Health Centre,Primary Health Centre,Shabani,Ironama,Tivbetu Central,Tivbetu State,Public,7.635528,10.87375
+HF01028,Supberi General Hospital,General Hospital,Wurbasa,Funkedu,Supwasa Central,Supwasa State,Public,10.601456,11.238738
+HF00298,Kadjisa Primary Health Centre,Primary Health Centre,Loknuri,Hanraja,Agbzatu North,Agbzatu State,Public,7.420777,8.011711
+HF01220,Yobkeli Primary Health Centre,Primary Health Centre,Birriwa,Yobrifa-West,Agbkeko Central,Agbkeko State,Faith-based,8.981233,9.572757
+HF00986,Agbmifa Primary Health Centre,Primary Health Centre,Lokrana,Zambani,Supwasa Central,Supwasa State,Faith-based,10.099949,11.433938
+HF00233,Umudeyi Health Post,Health Post,Hanzami,Enumade West,Kukrima South,Kukrima State,Public,6.638614,10.448883
+HF00379,Gwosata Health Post,Health Post,Sharashi,Dutzama,Agbzatu Central,Agbzatu State,Public,6.808917,7.764147
+HF00318,Riynuba Primary Health Centre,Primary Health Centre,Joskoko,Gwodele-South,Agbzatu North,Agbzatu State,Public,8.191681,7.2695
+HF00428,Uzoluja Health Post,Health Post,Oludude,Oketsifa,Agbzatu South,Agbzatu State,Public,7.96805,8.416047
+HF00570,Tivshasa Primary Health Centre,Primary Health Centre,Dutsaba,Ibajija-South,Tivbetu Central,Tivbetu State,Public,7.372115,10.898618
+HF00277,Sokmawo Primary Health Centre,Primary Health Centre,Wurngowo,Malmaba,Agbzatu North,Agbzatu State,Private,7.742389,8.229237
+HF00068,Kaddeshi Primary Health Centre,Primary Health Centre,Sokdema,Shajima,Kukrima North,Kukrima State,Public,5.947112,9.470632
+HF00981,Riylufa Primary Health Centre,Primary Health Centre,Adesale,Zambani,Supwasa Central,Supwasa State,Public,10.001704,11.135483
+HF00731,Gwomini Primary Health Centre,Primary Health Centre,Uzodumi,Agbkotu-South,Uzojina North,Uzojina State,Public,8.325049,8.370509
+HF00027,Ngezata Health Post,Health Post,Banshali,Uzoluni,Kukrima North,Kukrima State,Private,6.421896,8.900539
+HF00115,Katduko Primary Health Centre,Primary Health Centre,Okenami,Agbnumi,Kukrima Central,Kukrima State,Public,7.188433,9.172574
+HF00663,Zamduwo Health Post,Health Post,Tivdeli,Hanjiko,Tivbetu South,Tivbetu State,Public,8.50209,10.793922
+HF00811,Dutshako Cottage Hospital,Cottage Hospital,Adetsiko,Ekedewo,Uzojina Central,Uzojina State,Public,9.606225,8.221645
+HF01205,Uzoyoyi Health Post,Health Post,Sokbedu,Daibewo,Agbkeko Central,Agbkeko State,Public,9.416492,9.247613
+HF00204,Kadlule Primary Health Centre,Primary Health Centre,Ibabewo,Adenaja,Kukrima South,Kukrima State,Public,6.79551,10.429899
+HF01173,Birdeta Cottage Hospital,Cottage Hospital,Malnumi,Maljiwo LGA,Agbkeko North,Agbkeko State,Public,9.508112,9.189691
+HF00546,Ekeyona Comprehensive Health Centre,Comprehensive Health Centre,Joskodu,Bandede-North,Tivbetu North,Tivbetu State,Public,8.055006,9.75661
+HF00161,Uzozama Primary Health Centre,Primary Health Centre,Birwari,Wurmashi,Kukrima Central,Kukrima State,Public,7.2496,10.079692
+HF00350,Shalushi Health Post,Health Post,Umuwata,Zamkeri,Agbzatu Central,Agbzatu State,Public,6.808364,9.050639
+HF00216,Malmishi Health Post,Health Post,Kadyodu,Banluta,Kukrima South,Kukrima State,Public,6.077736,10.403584
+HF00405,Bandeshi Health Post,Health Post,Tivjidu,SUPSAMA-SOUTH,Agbzatu Central,Agbzatu State,Public,6.424085,8.53411
+HF00106,Dutkoli Health Post,Health Post,Banluma,Yelkefa,Kukrima Central,Kukrima State,Public,7.442582,9.700669
+HF01000,Duttide Cottage Hospital,Cottage Hospital,Uzomisa,Bautiru-West,Supwasa Central,Supwasa State,Private,10.493156,10.754548
+HF00798,Adezawa Comprehensive Health Centre,Comprehensive Health Centre,Riynaja,Tamwata-South,Uzojina Central,Uzojina State,Public,9.686997,8.173974
+HF01262,Ibatside Primary Health Centre,Primary Health Centre,Riywashi,Zamjidu,Agbkeko Central,Agbkeko State,Public,9.763771,9.938692
+HF00844,Hanbetu Primary Health Centre,Primary Health Centre,Gwoyowo,Adelaja-North,Uzojina Central,Uzojina State,Public,9.290389,8.464223
+HF00119,Oluduwo Primary Health Centre,Primary Health Centre,Kadjisa,Agbjide,Kukrima Central,Kukrima State,Public,6.733361,9.425632
+HF01079,Dairili Comprehensive Health Centre,Comprehensive Health Centre,Tivnuta,Ekedeta-East ,Supwasa South,Supwasa State,Public,9.482863,11.621839
+HF00909,Ngejini Primary Health Centre,Primary Health Centre,Hanwano,AGBRIDU-WEST,Uzojina South,Uzojina State,Public,8.16768,9.122585
+HF00330,Ibanayi Primary Health Centre,Primary Health Centre,Olukoyi,Gwodele-South,Agbzatu North,Agbzatu State,Public,8.069302,7.431189
+HF00594,Wurtiwo Primary Health Centre,Primary Health Centre,Riyjiwo,Okerano-Central,Tivbetu Central,Tivbetu State,Public,7.301035,11.302627
+HF00094,Sokrari Primary Health Centre,Primary Health Centre,Hanlana,Yelkefa ,Kukrima Central,Kukrima State,Public,7.424451,9.463961
+HF00943,Adeshale Primary Health Centre,Primary Health Centre,Wurshani,Adekeni,Supwasa North,Supwasa State,Public,9.324961,10.644653
+HF00514,Shaduwo Primary Health Centre,Primary Health Centre,Nasbayi,Agbzawa-South,Tivbetu North,Tivbetu State,Public,8.323831,9.778981
+HF00029,Malduli Health Post,Health Post,Baukeshi,Riylude-North,Kukrima North,Kukrima State,Public,6.248834,9.756682
+HF00191,Yelluba Primary Health Centre,Primary Health Centre,Tivsawo,Umumitu,Kukrima South,Kukrima State,Public,6.582052,10.778957
+HF00388,Umubata Health Post,Health Post,Birnushi,Enutifa,Agbzatu Central,Agbzatu State,Public,7.126142,8.133481
+HF00332,Supluma Health Post,Health Post,Daidushi,Gwodele-South,Agbzatu North,Agbzatu State,Public,8.177324,7.546386
+HF00293,Shamishi General Hospital,General Hospital,Suplali,Supyoshi-East,Agbzatu North,Agbzatu State,Public,7.996485,7.360402
+HF00243,Kukkoru Primary Health Centre,Primary Health Centre,Zamngono,Yobkosa-South,Agbzatu North,Agbzatu State,Public,7.256911,7.849374
+HF00531,Ibaluri Primary Health Centre,Primary Health Centre,Duttiri,HANSABA,Tivbetu North,Tivbetu State,Public,8.791897,10.052547
+HF00664,Malzami Cottage Hospital,Cottage Hospital,Tivdeli,Hanjiko,Tivbetu South,Tivbetu State,Public,,
+HF00735,Sokmaja Health Post,Health Post,Uzotsiru,Agbkotu-South,Uzojina North,Uzojina State,Public,8.210416,8.178031
+HF00084,Enuwaja Health Post,Health Post,Lokdushi,Ekejisa-North,Kukrima North,Kukrima State,Public,5.600045,9.591785
+HF00605,Umujitu Cottage Hospital,Cottage Hospital,Shatsiru,Ironama,Tivbetu Central,Tivbetu State,Public,7.50992,10.612509
+HF00475,Katzama Health Post,Health Post,Enuyona,Ngetija,Agbzatu South,Agbzatu State,Public,7.748684,9.013615
+HF00905,Tivritu Health Post,Health Post,Okeriyi,HANSATU,Uzojina South,Uzojina State,Public,9.051375,9.211033
+HF00547,Malrafa Primary Health Centre,Primary Health Centre,Tivbata,Bandede-North,Tivbetu North,Tivbetu State,Public,8.030499,9.580669
+HF00751,Uzoluno Primary Health Centre,Primary Health Centre,Kuknadu,Nasyotu,Uzojina North,Uzojina State,Private,7.834249,8.90828
+HF00461,Supbele Primary Health Centre,Primary Health Centre,Banlumi,Umumayi,Agbzatu South,Agbzatu State,Public,7.748328,9.154166
+HF00096,Dutwata Comprehensive Health Centre,Comprehensive Health Centre,Hanlana,Yelkefa,Kukrima Central,Kukrima State,Public,7.375313,9.39139
+HF00213,Katrija Primary Health Centre,Primary Health Centre,Okenawa,Adenaja,Kukrima South,Kukrima State,Public,7.099791,10.73505
+HF01225,Eketsiwo Primary Health Centre,Primary Health Centre,Birnuwa,Yobrifa-West,Agbkeko Central,Agbkeko State,Public,9.175806,9.60965
+HF00429,Zammino Primary Health Centre,Primary Health Centre,Oludude,Oketsifa ,Agbzatu South,Agbzatu State,Public,8.002916,8.452436
+HF01265,Oludewa Health Post,Health Post,Dailutu,Zamjidu,Agbkeko Central,Agbkeko State,Public,17.762571,10.127099
+HF00016,Agbrari Comprehensive Health Centre,Comprehensive Health Centre,Enunasa,Katmaba,Kukrima North,Kukrima State,Private,5.780191,9.163391
+HF01252,Joszaru Primary Health Centre,Primary Health Centre,Uzozafa,Daibama,Agbkeko Central,Agbkeko State,Public,9.402006,10.119449
+HF01288,Irotishi Primary Health Centre,Primary Health Centre,Dairiwo,Enumija,Agbkeko South,Agbkeko State,Public,10.694512,10.141298
+HF00588,Tivngodu Health Post,Health Post,Soksani,Irongori,Tivbetu Central,Tivbetu State,Public,7.838577,10.564167
+HF00172,Josnale Comprehensive Health Centre,Comprehensive Health Centre,Riysano,Zamtsiru,Kukrima South,Kukrima State,Public,6.65,10.03
+HF00889,Nasderi Health Post,Health Post,Nasrari,Loksayi,Uzojina South,Uzojina State,Faith-based,8.061199,8.80266
+HF00302,Adetino Health Post,Health Post,Dutkota,Hanraja,Agbzatu North,Agbzatu State,Public,7.486105,7.814608
+HF00024,Birwawo Health Post,Health Post,Funngoli,Uzoluni,Kukrima North,Kukrima State,Public,6.305039,8.870696
+HF01124,Banduwa Primary Health Centre,Primary Health Centre,Naslawa,Tivmama,Supwasa South,Supwasa State,Public,9.51344,11.056956
+HF00425,Maltsita Health Post,Health Post,Okekede,Oketsifa,Agbzatu South,Agbzatu State,Private,8.029812,8.554622
+HF01070,Irojiyi Primary Health Centre,Primary Health Centre,Hantsishi,Okeyoru-South,Supwasa Central,Supwasa State,Public,9.841221,10.915231
+HF01038,Yelkeyi General Hospital,General Hospital,Shalule,Josmiba ,Supwasa Central,Supwasa State,Public,10.464824,10.631041
+HF01011,Josdedu Health Post,Health Post,Irozari,Funkedu ,Supwasa Central,Supwasa State,Public,10.203274,11.501999
+HF00466,Birnule Health Post,Health Post,Olulusa,Umumayi,Agbzatu South,Agbzatu State,Private,7.897318,9.088863
+HF00157,Riyzali Primary Health Centre,Primary Health Centre,Birwari,Wurmashi,Kukrima Central,Kukrima State,Private,7.272776,9.923672
+HF00168,Irolutu Health Post,Health Post,Aderimi,Zamtsiru,Kukrima South,Kukrima State,Public,6.454144,9.947783
+HF01312,Agbbeja Health Post,Health Post,Oluzana,Zammiyi,Agbkeko South,Agbkeko State,Public,10.324519,10.185934
+HF00421,Hannufa Primary Health Centre,Primary Health Centre,Kadmaja,Oketsifa,Agbzatu South,Agbzatu State,Public,7.959924,8.695468
+HF00730,Tamtino Primary Health Centre,Primary Health Centre,Uzodumi,Agbkotu-South,Uzojina North,Uzojina State,Public,8.216102,8.377509
+HF00826,Ekederu Primary Health Centre,Primary Health Centre,Tivlano,Yeltsina,Uzojina Central,Uzojina State,Public,"9°26'31.0""E","9°01'43.6""N"
+HF00489,Zamnuna Health Post,Health Post,Riyzama,Tivsano-North,Tivbetu North,Tivbetu State,Public,8.478877,10.090239
+HF01002,Gwongole Primary Health Centre,Primary Health Centre,Zamkoja,BautiruWest,Supwasa Central,Supwasa State,Public,10.463872,11.098764
+HF00271,Kadduyi Cottage Hospital,Cottage Hospital,Katlano,Malmaba,Agbzatu North,Agbzatu State,Public,7.527895,8.048385
+HF01195,Tamlale Comprehensive Health Centre,Comprehensive Health Centre,Kuknayi,Yeltili,Agbkeko North,Agbkeko State,Faith-based,10.15565,9.04268
+HF01273,Katshade Primary Health Centre,Primary Health Centre,Ngeriba,Nasnadu,Agbkeko South,Agbkeko State,Public,9.913511,10.144665
+HF00468,Birrami Health Post,Health Post,Yelrari,Ngetija,Agbzatu South,Agbzatu State,Public,7.472585,8.988882
+HF00840,Ngeketa General Hospital,General Hospital,Dutluko,Dutkeni,Uzojina Central,Uzojina State,Public,9.648745,8.526352
+HF01128,Funmiru Primary Health Centre,Primary Health Centre,Yobdede,Tivmama,Supwasa South,Supwasa State,Faith-based,9.760496,11.026762
+HF00912,Gwomari Primary Health Centre,Primary Health Centre,Yobnushi,Agbridu-West,Uzojina South,Uzojina State,Public,8.251791,9.262009
+HF00822,Kuktile Primary Health Centre,Primary Health Centre,Adewano,Daishali-Central,Uzojina Central,Uzojina State,Public,9.238341,8.444037
+HF00916,Baungoyi Primary Health Centre,Primary Health Centre,Josmako,Banluwo,Uzojina South,Uzojina State,Faith-based,8.656789,8.641654
+HF00337,Maldeba Primary Health Centre,Primary Health Centre,Umubeli,GwodeleSouth,Agbzatu North,Agbzatu State,Public,,
+HF00077,Hanluni Comprehensive Health Centre,Comprehensive Health Centre,Hantside,Ibabani,Kukrima North,Kukrima State,Public,6.538537,9.381455
+HF01276,Kukduyi Cottage Hospital,Cottage Hospital,Uzodushi,Nasnadu,Agbkeko South,Agbkeko State,Private,9.822889,9.914023
+HF00797,Yelnufa Comprehensive Health Centre,Comprehensive Health Centre,Yelbeba,Tamwata-South,Uzojina Central,Uzojina State,Public,10.014904,8.257483
+HF00850,Tivrafa Health Post,Health Post,Loktsifa,Adelaja-North,Uzojina Central,Uzojina State,Public,9.574008,8.497804
+HF900035,Shayosa PHC,Primary Health Centre,Baulako,Riylude-North,Kukrima North,Kukrima State,Public,6.30289,9.608775
+HF00966,Enubeko Primary Health Centre,Primary Health Centre,Hanwani,IBANGOSA,Supwasa North,Supwasa State,Public,9.562662,10.376776
+HF01048,Nastide Health Post,Health Post,Hanbeko,Katdudu,Supwasa Central,Supwasa State,Public,10.001199,10.604913
+HF00849,Bautsiyi Health Post,Health Post,Uzolaba,Adelaja-North,Uzojina Central,Uzojina State,Public,9.376616,8.598739
+HF01191,Birbaja General Hospital,General Hospital,Okedefa,Yeltili,Agbkeko North,Agbkeko State,Public,10.071297,8.936743
+HF01014,Naslani Health Post,Health Post,Soktiba,Funkedu LGA,Supwasa Central,Supwasa State,Public,10.378728,11.445765
+HF00093,Katyoru Health Post,Health Post,Adelawa,Yelkefa,Kukrima Central,Kukrima State,Public,"7,256004","9,771679"
+HF00111,Banlawo Primary Health Centre,Primary Health Centre,Ekebako,Lokbaru,Kukrima Central,Kukrima State,Public,6.958013,9.850584
+HF00236,Funmari Health Post,Health Post,Irodefa,Yobkosa-South,Agbzatu North,Agbzatu State,Public,7.335736,7.478305
+HF00308,Kadkoni Comprehensive Health Centre,Comprehensive Health Centre,Tivjija,Hanraja,Agbzatu North,Agbzatu State,Private,7.480383,7.786838
+HF00870,Birraru Primary Health Centre,Primary Health Centre,Daikowa,Tivngoba,Uzojina South,Uzojina State,Public,9.113861,9.046058
+HF00962,Enukoshi Primary Health Centre,Primary Health Centre,Baulasa,Yobmija,Supwasa North,Supwasa State,Private,9.204642,10.215874
+HF00974,Kukduta Health Post,Health Post,Wurkele,Wuryona,Supwasa North,Supwasa State,Private,9.867766,10.597033
+HF01022,Supyoja Primary Health Centre,Primary Health Centre,Gwonale,Funkedu,Supwasa Central,Supwasa State,Public,10.305186,11.051673
+HF01034,Yelnude Health Post,Health Post,Gwonashi,Josmiba,Supwasa Central,Supwasa State,Public,10.354531,10.374949
+HF00718,Yobnuyi Health Post,Health Post,Ibalana,Dutjiri,Uzojina North,Uzojina State,Public,8.667394,8.173917
+HF01198,Agbjiyi Primary Health Centre,Primary Health Centre,Kuknayi,Yeltili,Agbkeko North,Agbkeko State,Faith-based,10.166476,9.118339
+HF00548,Malkowo Primary Health Centre,Primary Health Centre,Ekebemi,Malbawo Central,Tivbetu North,Tivbetu State,Faith-based,7.671103,9.642942
+HF01157,Birnade Health Post,Health Post,Tivdewo,Jostile,Agbkeko North,Agbkeko State,Public,9.82279,9.509212
+HF00884,Umunufa Health Post,Health Post,Umurifa,Uzorisa,Uzojina South,Uzojina State,Public,8.46022,9.251456
+HF00365,Shaluba Health Post,Health Post,Josmasa,Lokmata,Agbzatu Central,Agbzatu State,Private,6.529803,8.777148
+HF00378,Lokmishi Health Post,Health Post,Sharashi,Dutzama,Agbzatu Central,Agbzatu State,Public,6.806389,7.752265
+HF00813,Okeduni Primary Health Centre,Primary Health Centre,Daizana,Daishali-Central,Uzojina Central,Uzojina State,Public,9.025526,8.311861
+HF01009,Umulude Health Post,Health Post,Irozari,Funkedu,Supwasa Central,Supwasa State,Public,10.281216,11.489221
+HF00704,Yobdesa Health Post,Health Post,Ngeluli,Adekowo ,Tivbetu South,Tivbetu State,Public,8.706928,11.336231
+HF00102,Okekesa Health Post,Health Post,Naslama,Yelkefa,Kukrima Central,Kukrima State,Public,7.531738,9.846981
+HF01069,Tivkodu Primary Health Centre,Primary Health Centre,Hantsishi,Okeyoru-South,Supwasa Central,Supwasa State,Public,9.841191,10.908481
+HF00782,Naskeja Primary Health Centre,Primary Health Centre,Riymano,Nassako-Central,Uzojina North,Uzojina State,Public,8.36865,7.40962
+HF00221,Birjiba Health Post,Health Post,Nastili,Enumade-West,Kukrima South,Kukrima State,Public,6.432695,10.360968
+HF00669,Enungoko Comprehensive Health Centre,Comprehensive Health Centre,Zamwari,Hanjiko,Tivbetu South,Tivbetu State,Public,8.665795,11.147041
+HF00626,Kadzaja Health Post,Health Post,Hanradu,Daidefa,Tivbetu Central,Tivbetu State,Public,7.039971,10.97655
+HF00933,Shashano Health Post,Health Post,Nasjidu,Zamberi-North,Uzojina South,Uzojina State,Public,8.613455,8.853192
+HF01130,Kadluko Primary Health Centre,Primary Health Centre,Supdushi,Tivmama,Supwasa South,Supwasa State,Public,9.879404,11.594656
+HF01146,Malnuba Primary Health Centre,Primary Health Centre,Zamriru,Lokshasa,Agbkeko North,Agbkeko State,Public,10.312119,9.259469
+HF00070,Tambani Health Post,Health Post,Sokdema,Shajima,Kukrima North,Kukrima State,Public,5.915863,9.409864
+HF00173,Enuridu Health Post,Health Post,Lokderi,Zamnuni-North,Kukrima South,Kukrima State,Public,6.829183,10.168736
+HF00433,Fundule Primary Health Centre,Primary Health Centre,Joszayi,Baungoshi,Agbzatu South,Agbzatu State,Public,7.046457,8.808469
+HF00150,Umurita Health Post,Health Post,Katshale,WURMASHI,Kukrima Central,Kukrima State,Public,7.224394,10.08792
+HF00482,Ironule Primary Health Centre,Primary Health Centre,Uzojili,Tivsano-North,Tivbetu North,Tivbetu State,Public,8.305827,10.159217
+HF00283,Ekerafa Health Post,Health Post,Jossafa,Malmaba,Agbzatu North,Agbzatu State,Public,7.641555,8.077032
+HF00386,Kukbaru Primary Health Centre,Primary Health Centre,Kadjino,Enutifa ,Agbzatu Central,Agbzatu State,Public,7.099591,8.034591
+HF01313,Supkoja Primary Health Centre,Primary Health Centre,Oluzana,Zammiyi,Agbkeko South,Agbkeko State,Private,10.335641,10.072283
+HF00210,Ibanufa Primary Health Centre,Primary Health Centre,Kuktsino,Adenaja,Kukrima South,Kukrima State,Faith-based,7.023242,10.508789
+HF00341,Enulude Primary Health Centre,Primary Health Centre,Bannayi,Zamkeri,Agbzatu Central,Agbzatu State,Private,8.956983,6.803892
+HF00599,Irongoni Comprehensive Health Centre,Comprehensive Health Centre,Daikema,Agblasa,Tivbetu Central,Tivbetu State,Public,"7,491998","10,341278"
+HF01180,Loknami Comprehensive Health Centre,Comprehensive Health Centre,Maljini,Maljiwo,Agbkeko North,Agbkeko State,Public,9.670313,9.203031
+HF00339,Agbdena Primary Health Centre,Primary Health Centre,Umubeli,Gwodele-South,Agbzatu North,Agbzatu State,Public,8.22584,7.654272
+HF00522,Lokbani Health Post,Health Post,Supbena,Agbzawa-South,Tivbetu North,Tivbetu State,Public,8.366415,9.790939
+HF00390,Yobwawo Primary Health Centre,Primary Health Centre,Oluketa,ENUTIFA,Agbzatu Central,Agbzatu State,Private,7.20362,7.951939
+HF00036,Kadnatu Primary Health Centre,Primary Health Centre,Baulako,Riylude-North,Kukrima North,Kukrima State,Public,6.338552,9.581223
+HF00287,Hanlutu Primary Health Centre,Primary Health Centre,Riysafa,Supyoshi-East ,Agbzatu North,Agbzatu State,Public,7.813168,7.272497
+HF00623,Zamkewo Comprehensive Health Centre,Comprehensive Health Centre,Supsani,Daidefa ,Tivbetu Central,Tivbetu State,Public,6.946914,11.012054
+HF00315,Enubata Health Post,Health Post,Gwonade,Josduri-South,Agbzatu North,Agbzatu State,Public,7.691968,7.631296
+HF01032,Zamlushi Health Post,Health Post,Gwonashi,Josmiba,Supwasa Central,Supwasa State,Faith-based,10.446583,10.531729
+HF00319,Wurngoma Cottage Hospital,Cottage Hospital,Joskoko,GwodeleSouth,Agbzatu North,Agbzatu State,Faith-based,8.125017,7.265829
+HF00775,Daimashi Comprehensive Health Centre,Comprehensive Health Centre,Agbnana,Tamluni,Uzojina North,Uzojina State,Public,8.608941,7.964657
+HF01114,Irolule Primary Health Centre,Primary Health Centre,Agbmile,Oluyofa,Supwasa South,Supwasa State,Public,9.331458,11.496599
+HF01118,Nasriru Health Post,Health Post,Ekenuno,Oluyofa LGA,Supwasa South,Supwasa State,Public,9.271003,11.204682
+HF00716,Supmiwa Comprehensive Health Centre,Comprehensive Health Centre,Zambema,Tivrafa-West,Uzojina North,Uzojina State,Private,9.162223,7.853431
+HF01307,Sokritu Health Post,Health Post,Malsharu,Ngemidu,Agbkeko South,Agbkeko State,Private,10.331032,9.767527
+HF00062,Ekenafa Primary Health Centre,Primary Health Centre,Aderita,Shajima,Kukrima North,Kukrima State,Public,5.847472,9.075516
+HF00453,Daisari Primary Health Centre,Primary Health Centre,Okelaja,Daishako,Agbzatu South,Agbzatu State,Public,,
+HF00631,Kadmawo Primary Health Centre,Primary Health Centre,Hanluri,Joskeru,Tivbetu South,Tivbetu State,Private,8.297274,10.988237
+HF00163,Ngeduma General Hospital,General Hospital,Olubewo,Wurmashi,Kukrima Central,Kukrima State,Private,7.372612,9.825712
+HF01010,Tamduni Cottage Hospital,Cottage Hospital,Irozari,Funkedu,Supwasa Central,Supwasa State,Public,10.308312,11.50089
+HF00729,Umukemi Comprehensive Health Centre,Comprehensive Health Centre,Uzodumi,Agbkotu-South LGA,Uzojina North,Uzojina State,Public,8.217868,8.365974
+HF00876,Irokoli Health Post,Health Post,Tamduri,Olubani-South,Uzojina South,Uzojina State,Public,8.297465,8.620468
+HF00358,Riymini Primary Health Centre,Primary Health Centre,Funzako,Irosaja,Agbzatu Central,Agbzatu State,Public,"6°38'05.0""E","8°02'47.4""N"
+HF00254,Agbmade Primary Health Centre,Primary Health Centre,Kadbetu,Agbmita ,Agbzatu North,Agbzatu State,Private,7.863119,8.300637
+HF00097,Tamnayi Health Post,Health Post,Hanlana,Yelkefa ,Kukrima Central,Kukrima State,Public,7.321908,9.436841
+HF00245,Tamlasa Comprehensive Health Centre,Comprehensive Health Centre,Ekezali,Yobkosa-South ,Agbzatu North,Agbzatu State,Public,7.396388,7.52661
+HF00114,Nasshade Primary Health Centre,Primary Health Centre,Eketsino,Agbnumi,Kukrima Central,Kukrima State,Public,7.073944,9.378171
+HF01264,Yelzawo Primary Health Centre,Primary Health Centre,Dailutu,Zamjidu,Agbkeko Central,Agbkeko State,Private,9.631287,10.053679
+HF00745,Olunusa Primary Health Centre,Primary Health Centre,Daitsitu,Agbkotu-South,Uzojina North,Uzojina State,Public,8.429242,8.148335
+HF00137,Zambawo Comprehensive Health Centre,Comprehensive Health Centre,Malsana,Gwolama,Kukrima Central,Kukrima State,Public,6.875789,9.464973
+HF00013,Funnuba Primary Health Centre,Primary Health Centre,Maltsisa,Katmaba,Kukrima North,Kukrima State,Public,5.787011,9.350461
+HF00392,Yelngotu Primary Health Centre,Primary Health Centre,Fundudu,Enutifa,Agbzatu Central,Agbzatu State,Public,7.220875,8.156061
+HF01194,Uzonumi General Hospital,General Hospital,Kuknayi,Yeltili,Agbkeko North,Agbkeko State,Public,10.236493,9.088785
+HF00506,Ekelali Health Post,Health Post,Banluba,Bauzani,Tivbetu North,Tivbetu State,Private,7.881317,10.393352
+HF00493,Tamyofa Health Post,Health Post,Birngoko,Agbtsiko,Tivbetu North,Tivbetu State,Public,7.904155,9.88681
+HF00294,Wurtiko Primary Health Centre,Primary Health Centre,Adejisa,Supyoshi East,Agbzatu North,Agbzatu State,Public,7.846969,7.523123
+HF00207,Malkotu Health Post,Health Post,Tamdule,Adenaja,Kukrima South,Kukrima State,Public,6.91537,10.657512
+HF00807,Enunama Comprehensive Health Centre,Comprehensive Health Centre,Uzoyodu,Tamwata-South,Uzojina Central,Uzojina State,Public,10.088412,8.380318
+HF01280,Funzako Primary Health Centre,Primary Health Centre,Adetsita,Nasnadu,Agbkeko South,Agbkeko State,Public,9.983622,10.245049
+HF00714,Ekezari Health Post,Health Post,Maldule,Tivrafa-West,Uzojina North,Uzojina State,Public,9.253637,7.75297
+HF00817,Enudema Primary Health Centre,Primary Health Centre,Supngotu,Daishali-Central,Uzojina Central,Uzojina State,Private,9.194847,8.295374
+HF00080,Katshadu Comprehensive Health Centre,Comprehensive Health Centre,Fundeyi,Ibabani,Kukrima North,Kukrima State,Public,6.551028,9.23757
+HF00883,Josduli Comprehensive Health Centre,Comprehensive Health Centre,Olulale,Uzorisa,Uzojina South,Uzojina State,Public,8.61,9.3
+HF01026,Ekeshatu Health Post,Health Post,Ngetiba,Funkedu,Supwasa Central,Supwasa State,Public,10.386903,11.274294
+HF00401,Riykoshi Primary Health Centre,Primary Health Centre,Zammasa,Supsama-South,Agbzatu Central,Agbzatu State,Public,6.329248,8.35941
+HF00158,Funkoyi Primary Health Centre,Primary Health Centre,Birwari,WURMASHI,Kukrima Central,Kukrima State,Public,"7,32801","10,01993"
+HF00492,Irokono Health Post,Health Post,Birngoko,Agbtsiko,Tivbetu North,Tivbetu State,Public,7.896897,9.957972
+HF01223,Yobmasa Comprehensive Health Centre,Comprehensive Health Centre,Birnuwa,Yobrifa-West,Agbkeko Central,Agbkeko State,Faith-based,9.208669,9.582208
+HF00726,Enuradu Primary Health Centre,Primary Health Centre,Katmana,Dutjiri,Uzojina North,Uzojina State,Public,8.768756,8.107688
+HF00681,Jossari Health Post,Health Post,Kukrali,Olujiwa,Tivbetu South,Tivbetu State,Public,8.133588,11.010768
+HF00402,Tivlude Primary Health Centre,Primary Health Centre,Zammasa,Supsama-South,Agbzatu Central,Agbzatu State,Public,6.331815,8.476892
+HF00180,Nastile Primary Health Centre,Primary Health Centre,Baujina,Daizade,Kukrima South,Kukrima State,Public,6.180701,10.398511
+HF00922,Tivnatu Primary Health Centre,Primary Health Centre,Nastino,Zamberi-North,Uzojina South,Uzojina State,Public,,
+HF00079,Nasngode Health Post,Health Post,Fundeyi,Ibabani,Kukrima North,Kukrima State,Public,6.647426,9.207911
+HF00987,Funngole Cottage Hospital,Cottage Hospital,Lokrana,Zambani,Supwasa Central,Supwasa State,Public,10.051964,11.442163
+HF01266,Okebede Health Post,Health Post,Wurbali,ZAMJIDU,Agbkeko Central,Agbkeko State,Public,9.721704,10.285211
+HF01117,Enumitu General Hospital,General Hospital,Ekenuno,Oluyofa,Supwasa South,Supwasa State,Public,9.240381,11.194036
+HF00737,Okenana Cottage Hospital,Cottage Hospital,Enumitu,Agbkotu-South,Uzojina North,Uzojina State,Public,8.408827,7.977742
+HF00695,Sokmiru Primary Health Centre,Primary Health Centre,Dutrama,Adekowo,Tivbetu South,Tivbetu State,Public,8.427249,11.443271
+HF00320,Jostile Primary Health Centre,Primary Health Centre,Josbesa,Gwodele South,Agbzatu North,Agbzatu State,Public,8.037996,7.485179
+HF00485,Tivkeko Health Post,Health Post,Funbayi,Tivsano-North,Tivbetu North,Tivbetu State,Public,8.322352,10.370432
+HF00199,Uzowaja Health Post,Health Post,Kukjimi,UMUMITU,Kukrima South,Kukrima State,Public,6.850184,10.934481
+HF00818,Supride Health Post,Health Post,Supngotu,Daishali-Central,Uzojina Central,Uzojina State,Faith-based,9.064413,8.370969
+HF00712,Dutmino Primary Health Centre,Primary Health Centre,Maldule,Tivrafa-West,Uzojina North,Uzojina State,Public,9.195903,7.733946
+HF00621,Bautimi Primary Health Centre,Primary Health Centre,Yobzade,Daidefa,Tivbetu Central,Tivbetu State,Public,6.962039,11.197645
+HF01047,Olurade Primary Health Centre,Primary Health Centre,Hanbeko,KATDUDU,Supwasa Central,Supwasa State,Public,9.903174,10.47537
+HF00439,Adezano Primary Health Centre,Primary Health Centre,Daijiwa,Agbngoru,Agbzatu South,Agbzatu State,Public,7.451157,8.365148
+HF01303,Umutsini Primary Health Centre,Primary Health Centre,Adenashi,Ngemidu,Agbkeko South,Agbkeko State,Public,10.108152,9.834896
+HF00134,Enungowa Comprehensive Health Centre,Comprehensive Health Centre,Adetidu,Gwolama,Kukrima Central,Kukrima State,Public,6.720903,9.69918
+HF00815,Hanlaba Comprehensive Health Centre,Comprehensive Health Centre,Daideli,Daishali-Central,Uzojina Central,Uzojina State,Public,9.016716,8.172384
+HF00647,Kukrawo Health Post,Health Post,Hanraru,Tamlufa-East,Tivbetu South,Tivbetu State,Private,8.762285,10.494411
+HF00863,Tivbana Primary Health Centre,Primary Health Centre,Kadbana,Tivngoba,Uzojina South,Uzojina State,Public,8.877169,8.876026
+HF00900,Irozawa Primary Health Centre,Primary Health Centre,Funkotu,Hansatu,Uzojina South,Uzojina State,Public,8.739818,9.235174
+HF00408,Kadtija General Hospital,General Hospital,Malrama,Supsama-South,Agbzatu Central,Agbzatu State,Public,6.458664,8.339632
+HF00155,Adebetu Comprehensive Health Centre,Comprehensive Health Centre,Hanluta,Wurmashi,Kukrima Central,Kukrima State,Public,7.328893,10.089911
+HF01030,Umungole Health Post,Health Post,Wurbasa,Funkedu,Supwasa Central,Supwasa State,Public,10.557672,11.275906
+HF00279,Tamkosa Primary Health Centre,Primary Health Centre,Wurngowo,Malmaba,Agbzatu North,Agbzatu State,Public,7.687308,8.172457
+HF00795,Enutija Primary Health Centre,Primary Health Centre,Yelbeba,Tamwata-South,Uzojina Central,Uzojina State,Private,9.969188,8.285255
+HF00116,Gwoderi Primary Health Centre,Primary Health Centre,Wurshama,Agbnumi,Kukrima Central,Kukrima State,Public,,
+HF00597,Kadmiru Cottage Hospital,Cottage Hospital,Hanlashi,Agblasa,Tivbetu Central,Tivbetu State,Public,7.289865,10.438936
+HF00209,Ibabawo Primary Health Centre,Primary Health Centre,Kuktsino,Adenaja,Kukrima South,Kukrima State,Public,7.064385,10.437278
+HF00719,Agbshaja Comprehensive Health Centre,Comprehensive Health Centre,Ibalana,Dutjiri,Uzojina North,Uzojina State,Private,8.632798,8.112821
+HF00586,Tivngoko Primary Health Centre,Primary Health Centre,Tivzana,Irongori,Tivbetu Central,Tivbetu State,Public,7.802457,10.892201
+HF01033,Irozari Comprehensive Health Centre,Comprehensive Health Centre,Gwonashi,Josmiba,Supwasa Central,Supwasa State,Public,10.424916,10.374908
+HF00469,Olutsini Health Post,Health Post,Sokmimi,NGETIJA,Agbzatu South,Agbzatu State,Public,7.397743,9.157751
+HF00540,Josrishi Health Post,Health Post,Yelnuba,Uzoberi,Tivbetu North,Tivbetu State,Public,8.812666,10.40768
+HF00836,Lokkoma Primary Health Centre,Primary Health Centre,Dairili,Dutkeni,Uzojina Central,Uzojina State,Private,9.633994,8.617211
+HF00529,Okeludu Primary Health Centre,Primary Health Centre,Ngebana,Hansaba,Tivbetu North,Tivbetu State,Public,8.617094,9.942694
+HF00240,Tamsali Comprehensive Health Centre,Comprehensive Health Centre,Zammiwa,Yobkosa-South,Agbzatu North,Agbzatu State,Public,7.152962,7.587244
+HF01270,Gwolani Primary Health Centre,Primary Health Centre,Bantsile,Nasnadu,Agbkeko South,Agbkeko State,Public,9.777677,10.31171
+HF901045,Uzotsiru Cottage Hospital,Cottage Hospital,Funnuta,Josmiba,Supwasa Central,Supwasa State,Public,10.763168,10.409072
+HF00458,Hankemi Primary Health Centre,Primary Health Centre,Agbkota,BANNGONO,Agbzatu South,Agbzatu State,Faith-based,7.341541,8.963465
+HF00420,Irodesa Primary Health Centre,Primary Health Centre,Kadmaja,Oketsifa,Agbzatu South,Agbzatu State,Public,,
+HF00264,Ademawo Primary Health Centre,Primary Health Centre,Tivlawa,Agbmita,Agbzatu North,Agbzatu State,Private,7.967791,7.894853
+HF01104,Tamwani Comprehensive Health Centre,Comprehensive Health Centre,Agbdeni,Loknaba,Supwasa South,Supwasa State,Private,8.916813,11.497722
+HF00920,Eketsiyi Health Post,Health Post,Yobkono,Banluwo,Uzojina South,Uzojina State,Public,8.746025,8.414476
+HF01084,Katkele Primary Health Centre,Primary Health Centre,Shaketa,Ekedeta-East ,Supwasa South,Supwasa State,Public,9.735351,11.534799
+HF00947,Adelani Health Post,Health Post,Uzotsija,Adekeni ,Supwasa North,Supwasa State,Public,9.572284,10.990339
+HF00906,Birmaba General Hospital,General Hospital,Katlale,Hansatu,Uzojina South,Uzojina State,Public,9.11739,9.237454
+HF00431,Yobtifa Cottage Hospital,Cottage Hospital,Oludude,Oketsifa ,Agbzatu South,Agbzatu State,Faith-based,7.906886,8.425708
+HF00203,Funkota Health Post,Health Post,Ibanana,Adenaja,Kukrima South,Kukrima State,Public,6.759104,10.578527
+HF00184,Bantsiyi Primary Health Centre,Primary Health Centre,Dainali,Daizade LGA,Kukrima South,Kukrima State,Public,6.523993,10.49626
+HF00178,Adekoja Comprehensive Health Centre,Comprehensive Health Centre,Baujina,Daizade,Kukrima South,Kukrima State,Private,6.17052,10.410985
+HF00937,Maltsiyi Primary Health Centre,Primary Health Centre,Josmatu,Zamberi-North,Uzojina South,Uzojina State,Public,8.729747,8.717338
+HF01271,Shaduna Comprehensive Health Centre,Comprehensive Health Centre,Bantsile,Nasnadu,Agbkeko South,Agbkeko State,Private,19.692101,10.283345
+HF01293,Riyyoyi General Hospital,General Hospital,Ekejini,ENUMIJA,Agbkeko South,Agbkeko State,Public,10.706274,10.240565
+HF00083,Hantisa Comprehensive Health Centre,Comprehensive Health Centre,Lokdushi,Ekejisa-North,Kukrima North,Kukrima State,Public,5.69673,9.468527
+HF900507,Yelrili PHC,Primary Health Centre,Banluba,Bauzani,Tivbetu North,Tivbetu State,Private,7.870121,10.361789
+HF00159,Malduwo Primary Health Centre,Primary Health Centre,Birwari,Wurmashi,Kukrima Central,Kukrima State,Public,7.232863,9.979617
+HF00086,Jostita Primary Health Centre,Primary Health Centre,Sokjitu,Ekejisa-North,Kukrima North,Kukrima State,Public,5.772775,9.779541
+HF00154,Shalana Primary Health Centre,Primary Health Centre,Hanluta,Wurmashi LGA,Kukrima Central,Kukrima State,Public,7.337601,10.099004
+HF00885,Bauwaru Primary Health Centre,Primary Health Centre,Umurifa,Uzorisa,Uzojina South,Uzojina State,Public,8.560145,9.157302
+HF00634,Ngetsidu Primary Health Centre,Primary Health Centre,Hanluri,Joskeru,Tivbetu South,Tivbetu State,Public,8.371635,11.02418
+HF00126,Wurmini Primary Health Centre,Primary Health Centre,Kadjina,Agbjide,Kukrima Central,Kukrima State,Public,6.682408,9.132827
+HF00523,Zamyodu Primary Health Centre,Primary Health Centre,Ibarima,Agbzawa-South,Tivbetu North,Tivbetu State,Public,8.339937,9.618947
+HF00824,Kadsadu Cottage Hospital,Cottage Hospital,Adetsidu,Daishali Central,Uzojina Central,Uzojina State,Public,9.306646,8.128605
+HF01142,Zamtsili Primary Health Centre,Primary Health Centre,Bauyoyi,Sokmiri,Agbkeko North,Agbkeko State,Public,9.770981,9.088231
+HF00620,Ekemide Health Post,Health Post,Enurawo,Tivbani,Tivbetu Central,Tivbetu State,Public,7.633096,10.558365
+HF00976,Gwodusa Comprehensive Health Centre,Comprehensive Health Centre,Okenuko,WURYONA,Supwasa North,Supwasa State,Public,9.797223,10.381944
+HF01008,Yobngoli Cottage Hospital,Cottage Hospital,Irozari,Funkedu,Supwasa Central,Supwasa State,Public,10.291289,11.391382
+HF00711,Biryono Primary Health Centre,Primary Health Centre,Maldule,Tivrafa-West,Uzojina North,Uzojina State,Public,9.188483,7.66625
+HF00949,Dutride General Hospital,General Hospital,Okezari,Adekeni,Supwasa North,Supwasa State,Public,"9,611282","10,806318"
+HF00739,Umukode Primary Health Centre,Primary Health Centre,Enumitu,Agbkotu-South,Uzojina North,Uzojina State,Public,8.295702,8.061593
+HF00354,Shatsidu Comprehensive Health Centre,Comprehensive Health Centre,Shabeli,Zamkeri,Agbzatu Central,Agbzatu State,Public,6.976663,8.633944
+HF01054,Ibaluta Primary Health Centre,Primary Health Centre,Wurtsiwa,Katdudu,Supwasa Central,Supwasa State,Public,10.115378,10.493284
+HF00848,Yelluta Health Post,Health Post,Uzolaba,Adelaja-North LGA,Uzojina Central,Uzojina State,Public,-2.025305,8.528982
+HF00967,Olunadu Comprehensive Health Centre,Comprehensive Health Centre,Shazama,Wuryona,Supwasa North,Supwasa State,Public,9.648412,10.62545
+HF00524,Dutdude Comprehensive Health Centre,Comprehensive Health Centre,Ibarima,AgbzawaSouth,Tivbetu North,Tivbetu State,Public,8.420957,9.544625
+HF01167,Funnana Health Post,Health Post,Agbmama,Ngenuta-Central,Agbkeko North,Agbkeko State,Public,10.109794,8.527238
+HF00907,Ibamana Primary Health Centre,Primary Health Centre,Katlale,Hansatu,Uzojina South,Uzojina State,Public,9.108846,9.398758
+HF01267,Ibarani Health Post,Health Post,Funzata,Zamjidu,Agbkeko Central,Agbkeko State,Public,9.815728,10.058363
+HF00286,Daingodu Primary Health Centre,Primary Health Centre,Riysafa,Supyoshi East,Agbzatu North,Agbzatu State,Public,7.721971,7.363033
+HF00738,Wurnuni Primary Health Centre,Primary Health Centre,Enumitu,Agbkotu-South,Uzojina North,Uzojina State,Faith-based,8.282804,7.870243
+HF01092,Uzoshama Health Post,Health Post,Hansasa,Baumiru LGA,Supwasa South,Supwasa State,Public,8.890092,11.167532
+HF00779,Ibamino Primary Health Centre,Primary Health Centre,Banlama,Nassako-Central ,Uzojina North,Uzojina State,Public,8.391328,7.593854
+HF00484,Daitsifa Health Post,Health Post,Shabafa,Tivsano-North,Tivbetu North,Tivbetu State,Private,8.195867,10.462858
+HF00837,Malbami Primary Health Centre,Primary Health Centre,Supriyi,Dutkeni,Uzojina Central,Uzojina State,Private,9.648378,8.47573
+HF00964,Ngengoru Cottage Hospital,Cottage Hospital,Kattino,Ibangosa,Supwasa North,Supwasa State,Public,9.421029,10.243308
+HF00376,Funwafa Primary Health Centre,Primary Health Centre,Gwomali,Dutzama,Agbzatu Central,Agbzatu State,Public,7.06,7.56
+HF00842,Hanrade Comprehensive Health Centre,Comprehensive Health Centre,Agbzali,Dutkeni,Uzojina Central,Uzojina State,Public,9.896609,8.483445
+HF00299,Funyofa Primary Health Centre,Primary Health Centre,Loknuri,Hanraja,Agbzatu North,Agbzatu State,Private,7.485282,7.903418
+HF00827,Birbeyi Comprehensive Health Centre,Comprehensive Health Centre,Tivlano,Yeltsina LGA,Uzojina Central,Uzojina State,Private,9.455965,8.894234
+HF00946,Bandeno General Hospital,General Hospital,Uzotsija,Adekeni,Supwasa North,Supwasa State,Public,9.604945,10.891036
+HF00899,Maltita Health Post,Health Post,Funkotu,Hansatu,Uzojina South,Uzojina State,Private,8.694335,9.05162
+HF00306,Bauluni Primary Health Centre,Primary Health Centre,Tivjija,Hanraja,Agbzatu North,Agbzatu State,Public,7.534055,7.778562
+HF01250,Katbefa Primary Health Centre,Primary Health Centre,Okebawo,Daibama,Agbkeko Central,Agbkeko State,Public,9.342473,9.818916
+HF01044,Lokriri Primary Health Centre,Primary Health Centre,Funnuta,JOSMIBA,Supwasa Central,Supwasa State,Public,10.813933,10.433058
+HF00044,Banzano Primary Health Centre,Primary Health Centre,Tamyowa,Irolufa,Kukrima North,Kukrima State,Faith-based,5.978349,9.791278
+HF00122,Yelngona Health Post,Health Post,Wurdesa,AGBJIDE,Kukrima Central,Kukrima State,Public,6.775384,9.284507
+HF01161,Ibanashi Primary Health Centre,Primary Health Centre,Tamsashi,Jostile,Agbkeko North,Agbkeko State,Public,9.972627,9.334659
+HF01068,Okedele Health Post,Health Post,Hantsishi,Okeyoru-South,Supwasa Central,Supwasa State,Public,9.910485,10.873512
+HF00715,Joszasa Health Post,Health Post,Maldule,Tivrafa-West ,Uzojina North,Uzojina State,Private,9.238574,7.753521
+HF00697,Dutyodu Health Post,Health Post,Dutrama,Adekowo,Tivbetu South,Tivbetu State,Public,8.398191,11.523169
+HF00574,Uzorasa Primary Health Centre,Primary Health Centre,Adewadu,Dutwano,Tivbetu Central,Tivbetu State,Public,7.546526,11.218139
+HF01251,Zamzadu Comprehensive Health Centre,Comprehensive Health Centre,Okebawo,Daibama,Agbkeko Central,Agbkeko State,Public,9.312411,9.888199
+HF00471,Soknumi Cottage Hospital,Cottage Hospital,Sokmimi,Ngetija,Agbzatu South,Agbzatu State,Public,7.405006,9.209063
+HF00292,Agbkewa Health Post,Health Post,Suplali,Supyoshi-East,Agbzatu North,Agbzatu State,Public,7.988569,7.28424
+HF00699,Ekerashi Primary Health Centre,Primary Health Centre,Sokshano,Adekowo,Tivbetu South,Tivbetu State,Public,8.656894,11.580592
+HF00624,Umubawa Primary Health Centre,Primary Health Centre,Supsani,Daidefa,Tivbetu Central,Tivbetu State,Public,6.974772,10.978302
+HF00034,Birtsina Cottage Hospital,Cottage Hospital,Baulako,Riylude-North,Kukrima North,Kukrima State,Public,6.400693,9.619628
+HF00686,Hanyona Primary Health Centre,Primary Health Centre,Yobbana,Olujiwa,Tivbetu South,Tivbetu State,Public,8.357013,10.860141
+HF00001,Shalude Primary Health Centre,Primary Health Centre,Ekeluno,Maltsimi,Kukrima North,Kukrima State,Public,6.067307,9.559098
+HF00939,Dutwaja Primary Health Centre,Primary Health Centre,Funngoru,ADEKENI,Supwasa North,Supwasa State,Public,9.33108,10.880202
+HF01160,Malshadu Health Post,Health Post,Josngoni,Jostile,Agbkeko North,Agbkeko State,Public,10.049445,9.550277
+HF01328,Zamnasa Health Post,Health Post,Ngejile,Gwodewo,Agbkeko South,Agbkeko State,Public,10.685615,9.807173
+HF00226,Tivraba Comprehensive Health Centre,Comprehensive Health Centre,Wurlawo,Enumade-West LGA,Kukrima South,Kukrima State,Private,6.627348,10.299467
+HF01215,Zammaru Primary Health Centre,Primary Health Centre,Birriwa,Yobrifa-West,Agbkeko Central,Agbkeko State,Public,9.027722,9.590209
+HF01246,Enudeta Primary Health Centre,Primary Health Centre,Shashafa,Daibama,Agbkeko Central,Agbkeko State,Faith-based,9.22915,10.047339
+HF00244,Ibamali Cottage Hospital,Cottage Hospital,Zamngono,Yobkosa South,Agbzatu North,Agbzatu State,Public,7.272686,7.674971
+HF00267,Enuwadu Primary Health Centre,Primary Health Centre,Gwoyota,Agbmita,Agbzatu North,Agbzatu State,Public,8.100179,8.355854
+HF00886,Ibajiyi Health Post,Health Post,Umurifa,Uzorisa,Uzojina South,Uzojina State,Public,8.607114,9.238834
+HF00787,Dutlule Health Post,Health Post,Ngemiyi,Nassako-Central,Uzojina North,Uzojina State,Public,8.518181,7.4617
+HF01253,Birkoyi Comprehensive Health Centre,Comprehensive Health Centre,Birjili,Daibama,Agbkeko Central,Agbkeko State,Public,9.465921,9.884009
+HF00945,Riybale Primary Health Centre,Primary Health Centre,Agbjisa,Adekeni,Supwasa North,Supwasa State,Public,9.527539,10.909523
+HF01073,Okengowo Health Post,Health Post,Baurima,Okeyoru-South,Supwasa Central,Supwasa State,Private,10.122635,10.807329
+HF01229,Kadmaru Health Post,Health Post,Katyodu,Hanjile,Agbkeko Central,Agbkeko State,Public,9.593327,9.819417
+HF01127,Ironufa Comprehensive Health Centre,Comprehensive Health Centre,Banshafa,Tivmama,Supwasa South,Supwasa State,Public,9.714259,11.322685
+HF01091,Malsali Primary Health Centre,Primary Health Centre,Agbwali,Baumiru,Supwasa South,Supwasa State,Public,8.869798,11.320579
+HF00810,Tivlaja Primary Health Centre,Primary Health Centre,Banmide,Ekedewo,Uzojina Central,Uzojina State,Public,9.482032,8.012477
+HF00023,Yobkono Primary Health Centre,Primary Health Centre,Funngoli,Uzoluni ,Kukrima North,Kukrima State,Public,6.167258,9.001536
+HF00464,Zamnuyi Primary Health Centre,Primary Health Centre,Nasnayi,Umumayi,Agbzatu South,Agbzatu State,Private,7.91,9.27
+HF00753,Kadradu Health Post,Health Post,Birbele,Nasyotu,Uzojina North,Uzojina State,Public,,
+HF00728,Uzoriri Health Post,Health Post,Uzodumi,Agbkotu-South,Uzojina North,Uzojina State,Private,8.213559,8.337383
+HF00854,Tamtili Health Post,Health Post,Wurtimi,Wurkota,Uzojina Central,Uzojina State,Public,8.993451,8.445017
+HF00657,Umujiwo Cottage Hospital,Cottage Hospital,Banrani,Ibamide,Tivbetu South,Tivbetu State,Public,8.303582,11.318028
+HF00865,Adeketu Cottage Hospital,Cottage Hospital,Zamzani,Tivngoba,Uzojina South,Uzojina State,Public,8.885733,9.120351
+HF00470,Daimiwa Comprehensive Health Centre,Comprehensive Health Centre,Sokmimi,Ngetija,Agbzatu South,Agbzatu State,Public,7.581169,9.107867
+HF00983,Ngetiri Primary Health Centre,Primary Health Centre,Adesale,Zambani,Supwasa Central,Supwasa State,Public,10.003236,11.166351
+HF00162,Riyrale Primary Health Centre,Primary Health Centre,Birwari,Wurmashi,Kukrima Central,Kukrima State,Public,7.348028,9.985114
+HF00877,Maldeshi Cottage Hospital,Cottage Hospital,Wurlutu,OLUBANI-SOUTH,Uzojina South,Uzojina State,Faith-based,8.414048,8.481082
+HF00898,Baudeba Health Post,Health Post,Lokkona,Loksayi,Uzojina South,Uzojina State,Public,8.458339,8.933503
+HF01089,Ironutu Health Post,Health Post,Agbwali,Baumiru,Supwasa South,Supwasa State,Public,8.794414,11.279668
+HF00988,Katduyi Comprehensive Health Centre,Comprehensive Health Centre,Lokrana,Zambani,Supwasa Central,Supwasa State,Faith-based,10.149578,11.295769
+HF00929,Sokriwo Health Post,Health Post,Malshana,Zamberi-North,Uzojina South,Uzojina State,Public,8.576518,8.666571
+HF00860,Wurrino Cottage Hospital,Cottage Hospital,Sharimi,Wurkota,Uzojina Central,Uzojina State,Public,9.211077,9.076372
+HF00968,Josketa Primary Health Centre,Primary Health Centre,Shazama,Wuryona,Supwasa North,Supwasa State,Public,9.570705,10.604011
+HF01228,Kukwadu Comprehensive Health Centre,Comprehensive Health Centre,Katyodu,Hanjile,Agbkeko Central,Agbkeko State,Private,9.478709,9.672009
+HF00527,Shatiyi Primary Health Centre,Primary Health Centre,Kukmatu,Hansaba,Tivbetu North,Tivbetu State,Public,8.448984,9.927491
+HF00997,Baunadu Primary Health Centre,Primary Health Centre,Irokoni,Zambani,Supwasa Central,Supwasa State,Public,10.133004,10.963416
+HF01296,Agbshali Health Post,Health Post,Malludu,Enumija,Agbkeko South,Agbkeko State,Public,10.781582,10.114646
+HF01287,Uzosayi Primary Health Centre,Primary Health Centre,Daibano,Nasnadu,Agbkeko South,Agbkeko State,Public,10.101669,10.21496
+HF01249,Malzale Primary Health Centre,Primary Health Centre,Okebawo,Daibama,Agbkeko Central,Agbkeko State,Faith-based,9.326924,9.923061
+HF01234,Birtiru Primary Health Centre,Primary Health Centre,Umuwari,Hanjile,Agbkeko Central,Agbkeko State,Private,9.67,9.7
+HF00689,Irowawo Primary Health Centre,Primary Health Centre,Yeldule,Nasdudu-North,Tivbetu South,Tivbetu State,Public,"7°52'22.5""E","11°37'22.1""N"
+HF00307,Okebewo Health Post,Health Post,Tivjija,Hanraja,Agbzatu North,Agbzatu State,Public,7.579851,7.703338
+HF00683,Lokmawa Primary Health Centre,Primary Health Centre,Agbsama,Olujiwa ,Tivbetu South,Tivbetu State,Public,8.235879,10.613119
+HF00170,Dutkole Primary Health Centre,Primary Health Centre,Aderimi,Zamtsiru LGA,Kukrima South,Kukrima State,Private,6.348068,9.97959
+HF00355,Banmiwa Cottage Hospital,Cottage Hospital,Ngeride,Irosaja,Agbzatu Central,Agbzatu State,Private,6.592417,8.153481
+HF01305,Wurlayi Health Post,Health Post,Gwodeja,Ngemidu,Agbkeko South,Agbkeko State,Public,10.242152,9.851908
+HF00414,Oluwasa Primary Health Centre,Primary Health Centre,Ngengoyi,Iromashi,Agbzatu Central,Agbzatu State,Public,7.264708,8.606866
+HF00963,Yeldeli Primary Health Centre,Primary Health Centre,Baulasa,Yobmija,Supwasa North,Supwasa State,Public,9.266074,10.220174
+HF00231,Kadrishi Health Post,Health Post,Hanzami,Enumade-West LGA,Kukrima South,Kukrima State,Public,6.560783,10.437989
+HF01071,Hannaba Primary Health Centre,Primary Health Centre,Baurima,Okeyoru-South,Supwasa Central,Supwasa State,Public,9.92812,10.689425
+HF00241,Umushata Health Post,Health Post,Iroketu,Yobkosa-South,Agbzatu North,Agbzatu State,Public,7.234529,7.487051
+HF00400,Maltsili Primary Health Centre,Primary Health Centre,Zammasa,Supsama-South,Agbzatu Central,Agbzatu State,Faith-based,6.348738,8.372912
+HF01272,Daiduwa Primary Health Centre,Primary Health Centre,Ngeriba,Nasnadu,Agbkeko South,Agbkeko State,Public,9.829202,10.145604
+HF00206,Malbali Cottage Hospital,Cottage Hospital,Ibabeno,Adenaja,Kukrima South,Kukrima State,Public,6.882262,10.500232
+HF01133,Funnaba Primary Health Centre,Primary Health Centre,Kadzaru,Tivmama,Supwasa South,Supwasa State,Private,"9,983895","11,534731"
+HF01244,Funshade Primary Health Centre,Primary Health Centre,Yobwani,Daibama,Agbkeko Central,Agbkeko State,Private,9.075668,9.905925
+HF01006,Wursani Health Post,Health Post,Ekekode,BAUTIRU-WEST,Supwasa Central,Supwasa State,Public,10.628917,11.063166
+HF00291,Supjiwa Primary Health Centre,Primary Health Centre,Daisale,Supyoshi-East,Agbzatu North,Agbzatu State,Public,7.707091,7.493214
+HF00002,Baumasa Health Post,Health Post,Ekeluno,Maltsimi,Kukrima North,Kukrima State,Public,6.104332,9.462132
+HF00329,Josyoyi Health Post,Health Post,Olukoyi,Gwodele-South,Agbzatu North,Agbzatu State,Private,8.234088,7.37543
+HF01295,Ekezano Primary Health Centre,Primary Health Centre,Malludu,Enumija,Agbkeko South,Agbkeko State,Public,10.77273,10.158074
+HF00927,Kadriri Primary Health Centre,Primary Health Centre,Malshana,Zamberi-North,Uzojina South,Uzojina State,Private,8.436361,8.595779
+HF00404,Riylani Primary Health Centre,Primary Health Centre,Tivjidu,Supsama-South,Agbzatu Central,Agbzatu State,Public,6.462139,8.548973
+HF01013,Ekemili Health Post,Health Post,Soktiba,Funkedu,Supwasa Central,Supwasa State,Public,10.416009,11.413577
+HF00262,Agbduwo Health Post,Health Post,Uzowana,Agbmita,Agbzatu North,Agbzatu State,Public,8.061586,8.156333
+HF00389,Umuzashi Health Post,Health Post,Birnushi,Enutifa,Agbzatu Central,Agbzatu State,Faith-based,7.01899,8.188608
+HF00145,Wurduru Health Post,Health Post,Banrija,Wurmashi,Kukrima Central,Kukrima State,Public,7.162465,10.180213
+HF00441,Daidutu Health Post,Health Post,Enurita,Agbngoru,Agbzatu South,Agbzatu State,Public,7.456809,8.486524
+HF00843,Banrade General Hospital,General Hospital,Gwoyowo,Adelaja North,Uzojina Central,Uzojina State,Public,9.339622,8.626483
+HF00641,Naslako General Hospital,General Hospital,Yobnuma,TamlufaEast,Tivbetu South,Tivbetu State,Public,8.404587,10.482297
+HF00187,Ibalano Primary Health Centre,Primary Health Centre,Okedeni,UMUMITU,Kukrima South,Kukrima State,Public,6.576994,10.858141
+HF01077,Birdeli Primary Health Centre,Primary Health Centre,Uzojiri,Ekedeta East,Supwasa South,Supwasa State,Public,9.329922,11.639774
+HF00356,Tivduno Primary Health Centre,Primary Health Centre,Funzako,Irosaja,Agbzatu Central,Agbzatu State,Public,6.633489,8.036438
+HF00246,Suprani Primary Health Centre,Primary Health Centre,Ekezali,Yobkosa-South,Agbzatu North,Agbzatu State,Public,7.370933,7.550564
+HF00773,Yoblafa Primary Health Centre,Primary Health Centre,Uzosawo,Tamluni,Uzojina North,Uzojina State,Public,8.619351,8.074893
+HF00435,Yobzaru Comprehensive Health Centre,Comprehensive Health Centre,Ibashadu,Baungoshi,Agbzatu South,Agbzatu State,Public,7.076298,9.000465
+HF00791,Dutmija Health Post,Health Post,Gwobako,Nassako Central,Uzojina North,Uzojina State,Public,8.932784,7.56687
+HF00183,Soklusa Primary Health Centre,Primary Health Centre,Supmano,Daizade,Kukrima South,Kukrima State,Public,6.258932,10.663099
+HF900771,Irolata Health Post,Health Post,Uzosawo,Tamluni,Uzojina North,Uzojina State,Public,8.484971,7.928792
+HF00059,Dutkota Health Post,Health Post,Kuknuno,Irolufa,Kukrima North,Kukrima State,Public,6.083289,10.051627
+HF00444,Riysawa Primary Health Centre,Primary Health Centre,Ekekowo,Agbngoru,Agbzatu South,Agbzatu State,Public,,
+HF00361,Birnali Health Post,Health Post,Mallufa,Irosaja,Agbzatu Central,Agbzatu State,Public,6.571437,7.960722
+HF00960,Dainata Comprehensive Health Centre,Comprehensive Health Centre,Dutzali,Yobmija,Supwasa North,Supwasa State,Public,9.296556,10.488674
+HF00050,Ekelawo Health Post,Health Post,Oluwasa,IROLUFA,Kukrima North,Kukrima State,Public,5.91671,10.035905
+HF01162,Nasnuma Cottage Hospital,Cottage Hospital,Yobkema,Jostile,Agbkeko North,Agbkeko State,Public,"10,049146","9,28817"
+HF01300,Daikoshi Primary Health Centre,Primary Health Centre,Gwotsimi,Enumija,Agbkeko South,Agbkeko State,Public,10.790242,10.269717
+HF00934,Sokkode Primary Health Centre,Primary Health Centre,Nasjidu,Zamberi-North,Uzojina South,Uzojina State,Faith-based,8.658854,8.791822
+HF00396,Fundudu Health Post,Health Post,Naslayi,Katrini,Agbzatu Central,Agbzatu State,Private,6.791472,8.492695
+HF00740,Banriwa Comprehensive Health Centre,Comprehensive Health Centre,Enumitu,Agbkotu-South,Uzojina North,Uzojina State,Public,8.228485,8.000328
+HF00130,Adenaba Primary Health Centre,Primary Health Centre,Gwotidu,Tambemi ,Kukrima Central,Kukrima State,Public,7.045839,9.693543
+HF00215,Supzawa Health Post,Health Post,Kadyodu,Banluta,Kukrima South,Kukrima State,Public,6.067397,10.315242
+HF00275,Kadjishi Health Post,Health Post,Kukyoba,Malmaba LGA,Agbzatu North,Agbzatu State,Public,7.575954,8.128807
+HF01037,Dutshani Primary Health Centre,Primary Health Centre,Shalule,Josmiba,Supwasa Central,Supwasa State,Public,10.429811,10.615185
+HF00633,Tivyole Primary Health Centre,Primary Health Centre,Hanluri,JOSKERU,Tivbetu South,Tivbetu State,Public,8.414644,10.959653
+HF00893,Birbali Primary Health Centre,Primary Health Centre,Yeldena,Loksayi,Uzojina South,Uzojina State,Public,8.259422,8.877967
+HF00235,Shangofa Primary Health Centre,Primary Health Centre,Umutiri,Enumade-West,Kukrima South,Kukrima State,Faith-based,6.649429,10.575049
+HF00831,Lokluli Primary Health Centre,Primary Health Centre,Zamdena,Yeltsina,Uzojina Central,Uzojina State,Public,9.519803,8.844042
+HF00953,Funriba Primary Health Centre,Primary Health Centre,Riynuna,Nasrifa,Supwasa North,Supwasa State,Public,9.119074,10.632193
+HF00473,Kadbeli Health Post,Health Post,Enuyona,Ngetija ,Agbzatu South,Agbzatu State,Public,7.60278,9.050938
+HF01212,Kadwashi Primary Health Centre,Primary Health Centre,Daizayi,YobrifaWest,Agbkeko Central,Agbkeko State,Public,9.07603,9.667159
+HF00239,Banwawa Primary Health Centre,Primary Health Centre,Zammiwa,YobkosaSouth,Agbzatu North,Agbzatu State,Public,7.165144,7.751084
+HF00957,Irokole Comprehensive Health Centre,Comprehensive Health Centre,Agbriko,Yobmija LGA,Supwasa North,Supwasa State,Private,8.992825,10.444667
+HF00989,Olunata Primary Health Centre,Primary Health Centre,Shatsiba,Zambani,Supwasa Central,Supwasa State,Public,10.059389,10.96857
+HF00734,Adekedu Health Post,Health Post,Uzotsiru,Agbkotu-South,Uzojina North,Uzojina State,Public,8.295104,8.259127
+HF00348,Katshatu Primary Health Centre,Primary Health Centre,Dutmili,Zamkeri,Agbzatu Central,Agbzatu State,Public,6.912498,8.830274
+HF00242,Yelbeko Health Post,Health Post,Zamngono,Yobkosa-South,Agbzatu North,Agbzatu State,Private,7.238957,7.698078
+HF01321,Daikele Primary Health Centre,Primary Health Centre,Agbmami,Gwodewo,Agbkeko South,Agbkeko State,Public,10.484462,9.695909
+HF00572,Umumiyi General Hospital,General Hospital,Yelwari,Dutwano,Tivbetu Central,Tivbetu State,Faith-based,7.651204,11.504004
+HF00437,Adengoru Primary Health Centre,Primary Health Centre,Daijiwa,Agbngoru,Agbzatu South,Agbzatu State,Public,7.416615,8.231036
+HF00578,Banngona Primary Health Centre,Primary Health Centre,Josmita,Dutwano,Tivbetu Central,Tivbetu State,Public,7.718706,11.382789
+HF01150,Ibanuri Health Post,Health Post,Riynawa,Lokshasa,Agbkeko North,Agbkeko State,Public,10.481912,9.336207
+HF00919,Shasayi Primary Health Centre,Primary Health Centre,Josmako,Banluwo,Uzojina South,Uzojina State,Public,8.711253,8.537559
+HF00057,Yeldewo Primary Health Centre,Primary Health Centre,Kuknuno,Irolufa,Kukrima North,Kukrima State,Public,6.188437,10.004447
+HF00502,Dutshafa Health Post,Health Post,Yeltiko,Agbtsiko,Tivbetu North,Tivbetu State,Public,8.144359,9.878367
+HF00639,Shakoli Primary Health Centre,Primary Health Centre,Okeluwo,Tamlufa-East,Tivbetu South,Tivbetu State,Public,8.453464,10.737408
+HF00349,Okemide Primary Health Centre,Primary Health Centre,Dutmili,Zamkeri,Agbzatu Central,Agbzatu State,Public,6.813602,8.786855
+HF00383,Ekelani Health Post,Health Post,Baulutu,Dutzama,Agbzatu Central,Agbzatu State,Public,7.097016,7.808336

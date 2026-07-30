@@ -1,0 +1,12 @@
+geopandas==0.14.4
+shapely==2.0.4
+fiona==1.9.6
+pyproj==3.6.1
+pandas==2.2.2
+openpyxl==3.1.2
+duckdb==1.0.0
+matplotlib==3.8.4
+mapclassify==2.6.1
+networkx==3.3
+rtree==1.2.0
+pytest==8.2.0

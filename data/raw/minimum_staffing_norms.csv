@@ -1,0 +1,6 @@
+facility_type,min_medical_officers,min_nurses_midwives,min_chews,min_lab_scientists,min_pharmacy_technicians,adequacy_rule
+Health Post,0,0,2,0,0,Facility is adequately staffed when it meets or exceeds the minimum for every cadre with a non-zero minimum.
+Primary Health Centre,0,2,3,0,0,Facility is adequately staffed when it meets or exceeds the minimum for every cadre with a non-zero minimum.
+Comprehensive Health Centre,1,4,4,1,0,Facility is adequately staffed when it meets or exceeds the minimum for every cadre with a non-zero minimum.
+Cottage Hospital,2,6,3,1,0,Facility is adequately staffed when it meets or exceeds the minimum for every cadre with a non-zero minimum.
+General Hospital,3,10,2,2,1,Facility is adequately staffed when it meets or exceeds the minimum for every cadre with a non-zero minimum.
