@@ -50,12 +50,19 @@ python -m src.make_outputs          # Step 9: map + summary table
 
 ## Key decisions
 
-`[TODO]` — recorded here as each is made, with the alternatives considered and why they
-were rejected:
-- Choice of spatial database engine
-- Coordinate reference system for area/distance work
-- Access measure (catchment / cost-distance / network) and its threshold
-- Population denominator
+- **MIF datum verification**: `facility_personnel_scores.mif` declares `CoordSys Earth
+  Projection 1, 104`. Rather than assume this is WGS84, it was checked directly:
+  `fiona.open(...).crs` reports `EPSG:4326`. Confirmed, not assumed.
+- **Geometry reconciliation**: where both the register and the MIF score file give
+  coordinates for the same facility, the MIF point is used as canonical (see
+  `outputs/logs/score_ingestion_log.md`) — it matches the register almost exactly in bulk
+  (1,183/1,199 comparable facilities within 1 km) and is demonstrably more reliable on the
+  16 facilities where they disagree (9 axis swaps, 7 large digitization errors in the
+  register only).
+- Choice of spatial database engine: `[TODO]`
+- Coordinate reference system for area/distance work: `[TODO]`
+- Access measure (catchment / cost-distance / network) and its threshold: `[TODO]`
+- Population denominator: `[TODO]`
 
 ## Data quality findings
 
