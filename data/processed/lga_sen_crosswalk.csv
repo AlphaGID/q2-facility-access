@@ -1,0 +1,122 @@
+state_name,lga_name_raw,lga_name_norm,sen_district,n_wards,lga_code,remarks
+Supwasa State,Adekeni,ADEKENI,Supwasa North,6,LGA001,
+Tivbetu State,Adekowo,ADEKOWO,Tivbetu South,4,LGA002,Created 2016
+Uzojina State,Adelaja-North,ADELAJANORTH,Uzojina Central,4,LGA003,Renamed 2019
+Kukrima State,ADENAJA,ADENAJA,Kukrima South,7,LGA004,
+Kukrima State,Agbjide,AGBJIDE,Kukrima Central,4,LGA005,
+Uzojina State,Agbkotu-South,AGBKOTUSOUTH,Uzojina North,4,LGA006,
+Tivbetu State,Agblasa,AGBLASA,Tivbetu Central,4,LGA007,
+Agbzatu State,Agbmita,AGBMITA,Agbzatu North,8,LGA008,
+Agbzatu State,Agbngoru,AGBNGORU,Agbzatu South,5,LGA009,
+Kukrima State,Agbnumi,AGBNUMI,Kukrima Central,3,LGA010,Created 2016
+Uzojina State,Agbridu-West,AGBRIDUWEST,Uzojina South,4,LGA011,
+Tivbetu State,Agbtsiko,AGBTSIKO,Tivbetu North,5,LGA012,
+Tivbetu State,Agbzawa-South,AGBZAWASOUTH,Tivbetu North,5,LGA013,Created 2016
+Tivbetu State,Bandede-North,BANDEDENORTH,Tivbetu North,3,LGA014,Contested with adjoining district
+Kukrima State,Banluta,BANLUTA,Kukrima South,4,LGA015,
+Uzojina State,Banluwo,BANLUWO,Uzojina South,4,LGA016,
+Agbzatu State,Banngono,BANNGONO,Agbzatu South,3,LGA017,
+Supwasa State,Baumiru,BAUMIRU,Supwasa South,4,LGA018,
+Agbzatu State,Baungoshi Local Govt Area,BAUNGOSHI,Agbzatu South,3,LGA019,
+Supwasa State,Bautiru-West,BAUTIRUWEST,Supwasa Central,5,LGA020,Contested with adjoining district
+Tivbetu State,Bauzani,BAUZANI,Tivbetu North,5,LGA021,
+Agbkeko State,Daibama,DAIBAMA,Agbkeko Central,5,LGA022,
+Agbkeko State,Daibewo,DAIBEWO,Agbkeko Central,5,LGA023,
+Tivbetu State,Daidefa,DAIDEFA,Tivbetu Central,5,LGA024,
+Agbzatu State,Daishako,DAISHAKO,Agbzatu South,5,LGA025,Contested with adjoining district
+Uzojina State,Daishali-Central,DAISHALICENTRAL,Uzojina Central,6,LGA026,
+Kukrima State,Daizade,DAIZADE,Kukrima South,5,LGA027,Contested with adjoining district
+Uzojina State,Dutjiri,DUTJIRI,Uzojina North,4,LGA028,
+Uzojina State,Dutkeni,DUTKENI,Uzojina Central,5,LGA029,
+Tivbetu State,Dutwano,DUTWANO,Tivbetu Central,8,LGA030,Boundary under review
+Agbzatu State,DUTZAMA,DUTZAMA,Agbzatu Central,4,LGA031,
+Supwasa State,Ekedeta-East,EKEDETAEAST,Supwasa South,6,LGA032,
+Uzojina State,Ekedewo,EKEDEWO,Uzojina Central,5,LGA033,Renamed 2019
+Kukrima State,Ekejisa-North Local Govt Area,EKEJISANORTH,Kukrima North,6,LGA034,
+Kukrima State,Enumade-West,ENUMADEWEST,Kukrima South,6,LGA035,
+Agbkeko State,Enumija,ENUMIJA,Agbkeko South,5,LGA036,
+Agbzatu State,Enutifa,ENUTIFA,Agbzatu Central,5,LGA037,Contested with adjoining district
+Supwasa State,Funkedu,FUNKEDU,Supwasa Central,6,LGA038,
+Agbzatu State,Gwodele-South,GWODELESOUTH,Agbzatu North,8,LGA039,Boundary under review
+Agbkeko State,Gwodewo,GWODEWO,Agbkeko South,5,LGA040,
+Kukrima State,Gwolama,GWOLAMA,Kukrima Central,4,LGA041,
+Tivbetu State,Hanjiko Local Govt Area,HANJIKO,Tivbetu South,7,LGA042,Contested with adjoining district
+Agbkeko State,Hanjile,HANJILE,Agbkeko Central,6,LGA043,
+Agbzatu State,Hanraja,HANRAJA,Agbzatu North,4,LGA044,
+Tivbetu State,Hansaba,HANSABA,Tivbetu North,5,LGA045,
+Uzojina State,Hansatu,HANSATU,Uzojina South,6,LGA046,Renamed 2019
+Kukrima State,Ibabani,IBABANI,Kukrima North,5,LGA047,Renamed 2019
+Tivbetu State,Ibajija-South,IBAJIJASOUTH,Tivbetu Central,5,LGA048,
+Tivbetu State,Ibamide,IBAMIDE,Tivbetu South,5,LGA049,Renamed 2019
+Supwasa State,Ibangosa,IBANGOSA,Supwasa North,3,LGA050,
+Kukrima State,Irolufa,IROLUFA,Kukrima North,7,LGA051,
+Agbzatu State,Iromashi,IROMASHI,Agbzatu Central,4,LGA052,
+Tivbetu State,Ironama,IRONAMA,Tivbetu Central,6,LGA053,
+Tivbetu State,Irongori,IRONGORI,Tivbetu Central,6,LGA054,
+Agbzatu State,Irosaja,IROSAJA,Agbzatu Central,6,LGA055,Contested with adjoining district
+Agbzatu State,Josduri-South,JOSDURISOUTH,Agbzatu North,4,LGA056,
+Tivbetu State,Joskeru,JOSKERU,Tivbetu South,4,LGA057,Created 2016
+Supwasa State,Josmiba,JOSMIBA,Supwasa Central,6,LGA058,Contested with adjoining district
+Agbkeko State,Jostile,JOSTILE,Agbkeko North,9,LGA059,
+Supwasa State,Katdudu,KATDUDU,Supwasa Central,5,LGA060,
+Kukrima State,Katmaba,KATMABA,Kukrima North,3,LGA061,Boundary under review
+Agbzatu State,KATRINI,KATRINI,Agbzatu Central,4,LGA062,Renamed 2019
+Kukrima State,Lokbaru,LOKBARU,Kukrima Central,4,LGA063,
+Agbzatu State,Lokmata,LOKMATA,Agbzatu Central,5,LGA064,Created 2016
+Supwasa State,Loknaba,LOKNABA,Supwasa South,3,LGA065,
+Uzojina State,Loksayi,LOKSAYI,Uzojina South,5,LGA066,
+Agbkeko State,Lokshasa,LOKSHASA,Agbkeko North,4,LGA067,Created 2016
+Tivbetu State,MALBAWO-CENTRAL,MALBAWOCENTRAL,Tivbetu North,4,LGA068,
+Agbkeko State,Maljiwo,MALJIWO,Agbkeko North,4,LGA069,Created 2016
+Agbzatu State,Malmaba,MALMABA,Agbzatu North,5,LGA070,
+Kukrima State,Maltsimi,MALTSIMI,Kukrima North,4,LGA071,Created 2016
+Tivbetu State,Nasdudu-North,NASDUDUNORTH,Tivbetu South,5,LGA072,Created 2016
+Agbkeko State,Nasnadu,NASNADU,Agbkeko South,6,LGA073,
+Supwasa State,Nasrifa,NASRIFA,Supwasa North,7,LGA074,
+Uzojina State,Nassako-Central,NASSAKOCENTRAL,Uzojina North,7,LGA075,
+Uzojina State,Nasyotu,NASYOTU,Uzojina North,4,LGA076,Contested with adjoining district
+Agbkeko State,Ngemidu,NGEMIDU,Agbkeko South,5,LGA077,
+Agbkeko State,Ngenuta-Central Local Govt Area,NGENUTACENTRAL,Agbkeko North,4,LGA078,Contested with adjoining district
+Agbzatu State,Ngetija,NGETIJA,Agbzatu South,5,LGA079,
+Tivbetu State,Okerano-Central,OKERANOCENTRAL,Tivbetu Central,4,LGA080,Contested with adjoining district
+Agbzatu State,Oketsifa,OKETSIFA,Agbzatu South,7,LGA081,
+Supwasa State,Okeyoru-South,OKEYORUSOUTH,Supwasa Central,4,LGA082,Renamed 2019
+Uzojina State,OLUBANI-SOUTH,OLUBANISOUTH,Uzojina South,5,LGA083,Contested with adjoining district
+Tivbetu State,Olujiwa,OLUJIWA,Tivbetu South,6,LGA084,
+Supwasa State,Oluyofa,OLUYOFA,Supwasa South,6,LGA085,
+Kukrima State,Riylude-North,RIYLUDENORTH,Kukrima North,5,LGA086,
+Kukrima State,Shajima,SHAJIMA,Kukrima North,5,LGA087,Renamed 2019
+Agbkeko State,Sokmiri,SOKMIRI,Agbkeko North,4,LGA088,
+Tivbetu State,Soktimi,SOKTIMI,Tivbetu North,4,LGA089,
+Agbzatu State,Supsama-South,SUPSAMASOUTH,Agbzatu Central,6,LGA090,
+Agbzatu State,Supyoshi-East,SUPYOSHIEAST,Agbzatu North,4,LGA091,
+Kukrima State,Tambemi,TAMBEMI,Kukrima Central,5,LGA092,
+Tivbetu State,Tamlufa-East Local Govt Area,TAMLUFAEAST,Tivbetu South,5,LGA093,
+Uzojina State,Tamluni,TAMLUNI,Uzojina North,7,LGA094,
+Uzojina State,Tamwata-South,TAMWATASOUTH,Uzojina Central,4,LGA095,
+Tivbetu State,Tivbani,TIVBANI,Tivbetu Central,3,LGA096,
+Supwasa State,Tivmama,TIVMAMA,Supwasa South,8,LGA097,
+Uzojina State,Tivngoba,TIVNGOBA,Uzojina South,6,LGA098,
+Uzojina State,Tivrafa West,TIVRAFAWEST,Uzojina North,5,LGA099,Boundary under review
+Tivbetu State,TIVSANO-NORTH,TIVSANONORTH,Tivbetu North,9,LGA100,Renamed 2019
+Agbzatu State,Umumayi,UMUMAYI,Agbzatu South,6,LGA101,
+Kukrima State,Umumitu,UMUMITU,Kukrima South,6,LGA102,
+Tivbetu State,Uzoberi,UZOBERI,Tivbetu North,6,LGA103,
+Kukrima State,Uzoluni,UZOLUNI,Kukrima North,6,LGA104,
+Uzojina State,Uzorisa Local Govt Area,UZORISA,Uzojina South,5,LGA105,
+Uzojina State,Wurkota,WURKOTA,Uzojina Central,6,LGA106,
+Kukrima State,Wurmashi Local Govt Area,WURMASHI,Kukrima Central,6,LGA107,Boundary under review
+Supwasa State,Wuryona,WURYONA,Supwasa North,4,LGA108,
+Kukrima State,Yelkefa,YELKEFA,Kukrima Central,8,LGA109,
+Agbkeko State,Yeltili,YELTILI,Agbkeko North,5,LGA110,
+Uzojina State,Yeltsina Local Govt Area,YELTSINA,Uzojina Central,7,LGA111,
+Agbzatu State,Yobkosa-South,YOBKOSASOUTH,Agbzatu North,5,LGA112,
+Supwasa State,Yobmija,YOBMIJA,Supwasa North,6,LGA113,
+Agbkeko State,YOBRIFA-WEST,YOBRIFAWEST,Agbkeko Central,6,LGA114,Created 2016
+Supwasa State,Zambani,ZAMBANI,Supwasa Central,6,LGA115,Renamed 2019
+Uzojina State,Zamberi-North,ZAMBERINORTH,Uzojina South,5,LGA116,Created 2016
+Agbkeko State,Zamjidu,ZAMJIDU,Agbkeko Central,5,LGA117,
+Agbzatu State,Zamkeri,ZAMKERI,Agbzatu Central,5,LGA118,
+Agbkeko State,ZAMMIYI,ZAMMIYI,Agbkeko South,6,LGA119,Created 2016
+Kukrima State,Zamnuni-North,ZAMNUNINORTH,Kukrima South,3,LGA120,
+Kukrima State,Zamtsiru,ZAMTSIRU,Kukrima South,3,LGA121,Renamed 2019
