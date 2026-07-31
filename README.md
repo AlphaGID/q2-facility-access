@@ -33,9 +33,7 @@ python src/pipeline.py
 ```
 
 This runs every stage in order, from the raw files in `data/raw/` to the final map and
-tables in `outputs/`, with no manual steps in between. `[TODO: this orchestrator script
-will be added once the individual stages are built and tested.]`
-
+tables in `outputs/`, with no manual steps in between.
 Individual stages can also be run separately during development:
 
 ```bash
