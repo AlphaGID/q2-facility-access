@@ -102,8 +102,15 @@ def build():
     con.execute("DROP TABLE stg_lgas")
 
     # ---------------------------------------------------------------
-    # wards (population_source merged in at load time, from ward_population.csv;
-    # population figures themselves verified identical to the gpkg in Step 5 recon)
+    # wards. population_source is merged in from ward_population.csv at load
+    # time. NOTE: that csv has 14 nulls in total_population that the gpkg
+    # wards layer does NOT have -- an earlier check wrongly reported the two
+    # sources as "identical" (a fillna(0) masked a real NaN-vs-value
+    # difference; see outputs/logs/population_reconciliation_correction.md
+    # for the correction). The gpkg is used here as the authoritative,
+    # complete population source; the csv contributes only the
+    # population_source label, which is present for all 620 wards
+    # regardless of whether that csv's own population figure was blank.
     # ---------------------------------------------------------------
     con.execute(f"CREATE TABLE stg_wards AS SELECT * FROM ST_Read('{gpkg}', layer='wards')")
     wp = pd.read_csv(config.F_WARD_POPULATION)[["ward_code", "population_source"]]
@@ -136,6 +143,12 @@ def build():
     log.append(f"- states: {n_states}, senatorial_districts: {n_sen}, "
                f"lgas: {n_lgas}, wards: {n_wards}. PK on each *_code, FK chain "
                f"wards -> lgas -> senatorial_districts -> states enforced.\n")
+    log.append(f"- `wards.population_source` merged in from `ward_population.csv`. "
+               f"Correction: an earlier check wrongly reported this csv's population "
+               f"figures as identical to the gpkg's; the csv actually has 14 nulls in "
+               f"total_population that the gpkg does not. The gpkg is used as the "
+               f"authoritative, complete population source; only population_source is "
+               f"taken from the csv. See outputs/logs/population_reconciliation_correction.md.\n")
 
     # ---------------------------------------------------------------
     # minimum_staffing_norms

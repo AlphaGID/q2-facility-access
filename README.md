@@ -59,8 +59,21 @@ python -m src.make_outputs          # Step 9: map + summary table
   (1,183/1,199 comparable facilities within 1 km) and is demonstrably more reliable on the
   16 facilities where they disagree (9 axis swaps, 7 large digitization errors in the
   register only).
+  - **Population source correction**: an earlier check wrongly reported `ward_population.csv`
+  and `admin_boundaries.gpkg`'s population figures as identical (a `fillna(0)` masked a real
+  gap). Corrected: the csv has 14 nulls the gpkg doesn't have. The gpkg is used as the
+  authoritative population source for this reason. See
+  `outputs/logs/population_reconciliation_correction.md`.
 - Choice of spatial database engine: `[TODO]`
-- Coordinate reference system for area/distance work: `[TODO]`
+- **Coordinate reference system for area/distance work**: EPSG:32632 (WGS84 / UTM Zone 32N).
+  The study area's extent (5.58°E–10.88°E) straddles the 6°E UTM zone boundary. Empirically
+  tested against a custom Transverse Mercator centered on the area's own centroid, using true
+  WGS84 geodesic distance as ground truth (`pyproj.Geod`, 300 random facility pairs): UTM 32N
+  mean error 0.027%, max 0.091%; custom TM mean 0.018%, max 0.085% — see
+  `outputs/logs/crs_comparison_log.md`. The difference is immaterial (well under 10 m of error
+  on a multi-km access threshold), so UTM 32N is used for being standard and independently
+  verifiable by anyone with GIS tools, rather than adopting a bespoke projection for no
+  measurable accuracy gain.
 - Access measure (catchment / cost-distance / network) and its threshold: `[TODO]`
 - Population denominator: `[TODO]`
 
