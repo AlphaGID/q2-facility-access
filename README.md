@@ -66,8 +66,26 @@ python -m src.make_outputs          # Step 9: map + summary table
 
 ## Data quality findings
 
-`[TODO]` — every defect found, the rule that handles it, and a count of records affected.
-Nothing is dropped without a corresponding line here.
+Full detail and counts are in the individual logs under `outputs/logs/`. Summary:
+
+- **18 systematic duplicate facility records** (`HF9#####` re-entries of `HF0#####`), removed —
+  `outputs/logs/facility_cleaning_log.md`.
+- **Coordinates in 3 mixed formats** (plain, DMS, comma-decimal) in the facility register,
+  parsed; 24 facilities had no coordinate at all — `outputs/logs/facility_cleaning_log.md`.
+  23 of those 24 were recovered from the personnel score file's independent geometry in Step 4
+  (see below), leaving only 1 facility with no usable location anywhere in the data.
+- **9 facilities had register longitude/latitude swapped**; corrected using the score file's
+  geometry — `outputs/logs/score_ingestion_log.md`.
+- **7 facilities had register coordinates hundreds of km outside the country**, not explained
+  by a swap; score-file geometry used instead, each flagged individually for field verification
+  — `outputs/logs/score_ingestion_log.md`.
+- **9 placeholder score rows** (`HF70001`–`HF70009`, "Unnamed facility", all-zero) excluded —
+  `outputs/logs/score_ingestion_log.md`.
+- **124 facilities (106 after dedup) have no personnel score at all** — never assessed, kept as
+  null, not zero — `outputs/logs/score_ingestion_log.md`.
+- **`LGA_SEN_Districts.xlsx`**: 2 accidental duplicate rows, 1 genuine conflicting entry
+  (resolved against the boundary layer, other variant flagged as superseded) —
+  `outputs/logs/crosswalk_reconciliation_log.md`.
 
 ## Known limitations
 
