@@ -1,0 +1,19 @@
+state_name,sen_district,n_wards,total_population,pct_pop_no_facility_nearby,pct_pop_facility_nearby_confirmed_inadequate,pct_pop_facility_nearby_assessment_gap,pct_pop_facility_nearby_mixed_adequacy,pct_pop_facility_nearby_adequately_staffed
+Agbkeko State,Agbkeko North,30.0,826213.0,0.0,62.5,2.5,33.4,1.6
+Supwasa State,Supwasa North,26.0,539697.0,5.9,44.7,0.0,34.0,15.3
+Kukrima State,Kukrima Central,34.0,919998.0,0.0,31.2,3.3,64.2,1.3
+Uzojina State,Uzojina Central,37.0,816466.0,0.0,20.6,4.5,62.1,12.8
+Agbzatu State,Agbzatu South,34.0,774248.0,0.0,19.6,0.0,48.8,31.6
+Tivbetu State,Tivbetu North,46.0,973600.0,5.9,19.5,0.0,62.1,12.5
+Agbzatu State,Agbzatu North,38.0,3456438.0,0.0,18.0,0.0,67.0,15.1
+Tivbetu State,Tivbetu Central,41.0,1127408.0,3.8,17.5,0.0,57.2,21.5
+Tivbetu State,Tivbetu South,36.0,807617.0,0.0,15.4,1.1,64.4,19.2
+Uzojina State,Uzojina South,40.0,1102576.0,0.0,14.7,0.0,60.7,24.7
+Agbzatu State,Agbzatu Central,39.0,988901.0,2.3,13.9,3.7,63.4,16.7
+Agbkeko State,Agbkeko South,27.0,615621.0,0.0,13.6,6.4,69.3,10.8
+Agbkeko State,Agbkeko Central,27.0,2020811.0,0.0,12.1,0.0,69.7,18.2
+Kukrima State,Kukrima South,34.0,994921.0,0.0,11.6,3.3,56.5,28.6
+Supwasa State,Supwasa Central,32.0,2782741.0,0.0,8.3,0.0,67.3,24.4
+Supwasa State,Supwasa South,27.0,643854.0,3.3,4.4,0.0,73.9,18.4
+Kukrima State,Kukrima North,41.0,1024285.0,0.0,3.7,2.6,77.9,15.8
+Uzojina State,Uzojina North,31.0,2521552.0,0.0,0.7,1.9,73.1,24.3
