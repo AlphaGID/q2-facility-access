@@ -7,6 +7,8 @@
 
 - states: 6, senatorial_districts: 18, lgas: 121, wards: 620. PK on each *_code, FK chain wards -> lgas -> senatorial_districts -> states enforced.
 
+- `wards.population_source` merged in from `ward_population.csv`. Correction: an earlier check wrongly reported this csv's population figures as identical to the gpkg's; the csv actually has 14 nulls in total_population that the gpkg does not. The gpkg is used as the authoritative, complete population source; only population_source is taken from the csv. See outputs/logs/population_reconciliation_correction.md.
+
 
 ## minimum_staffing_norms
 - 5 rows, PK facility_type.
