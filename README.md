@@ -62,7 +62,14 @@ python -m src.make_outputs          # Step 9: map + summary table
   gap). Corrected: the csv has 14 nulls the gpkg doesn't have. The gpkg is used as the
   authoritative population source for this reason. See
   `outputs/logs/population_reconciliation_correction.md`.
-- Choice of spatial database engine: `[TODO]`
+- **Choice of spatial database engine**: DuckDB with the spatial extension. Chosen over
+  PostGIS because it ships as a single embedded file with no server to stand up, which
+  matters for "runs end to end with no manual intervention" on any reviewer's machine; chosen
+  over plain GeoPackage because DuckDB is a real relational engine that enforces declared
+  PRIMARY KEY / FOREIGN KEY constraints and supports RTree spatial indexes, neither of which
+  GeoPackage does natively. Confirmed empirically that constraints must be declared inline at
+  `CREATE TABLE` time (`ALTER TABLE ADD PRIMARY KEY`/`ADD FOREIGN KEY` are not supported) and
+  that RTree indexing requires duckdb ≥1.5.x — see commit history.
 - **Coordinate reference system for area/distance work**: EPSG:32632 (WGS84 / UTM Zone 32N).
   The study area's extent (5.58°E–10.88°E) straddles the 6°E UTM zone boundary. Empirically
   tested against a custom Transverse Mercator centered on the area's own centroid, using true
@@ -72,8 +79,20 @@ python -m src.make_outputs          # Step 9: map + summary table
   on a multi-km access threshold), so UTM 32N is used for being standard and independently
   verifiable by anyone with GIS tools, rather than adopting a bespoke projection for no
   measurable accuracy gain.
-- Access measure (catchment / cost-distance / network) and its threshold: `[TODO]`
-- Population denominator: `[TODO]`
+- **Access measure**: straight-line (Euclidean) 5 km catchment, computed in EPSG:32632.
+  Network distance was evaluated using the supplied road network and rejected as the primary
+  measure — median facility-to-nearest-road distance is 7.3 km, exceeding the catchment
+  threshold itself, so network distance would mostly reflect gaps in a sparse 213-feature
+  digitization rather than real accessibility (`outputs/logs/road_network_coverage_log.md`).
+  The 5 km threshold is externally grounded (WHO-consistent primary-care catchment guidance)
+  and independently consistent with this dataset's own facility spacing (median
+  nearest-neighbour distance between facilities: 5.8 km).
+- **Population denominator**: `wards.total_population` / `population_under5` from
+  `admin_boundaries.gpkg` (confirmed complete, 620/620, vs. 14 nulls in the standalone
+  `ward_population.csv` — see `outputs/logs/population_reconciliation_correction.md`).
+  Population-weighted coverage assumes population is uniformly distributed within each ward,
+  since no gridded population surface was supplied — stated as a simplification, not a claim
+  of precision.
 
 ## Data quality findings
 
@@ -100,4 +119,19 @@ Full detail and counts are in the individual logs under `outputs/logs/`. Summary
 
 ## Known limitations
 
-`[TODO]`
+- Uniform within-ward population distribution assumed; a gridded population surface (e.g.
+  WorldPop-style) would sharpen every population-weighted figure in this analysis.
+- Straight-line catchment does not account for terrain, rivers, or actual travel time. The
+  supplied road network was too sparse (median facility-to-road distance 7.3 km) to
+  substitute a credible network-distance measure instead.
+- Single cross-sectional snapshot — no trend over time or seasonal variation (e.g. wet-season
+  road degradation) is captured.
+- 106 facilities have never been assessed for staffing; their true adequacy is unknown, not
+  zero. Wards dominated by these facilities are flagged as an assessment gap rather than
+  assumed inadequate, but the real state of care there is genuinely unknown from this data.
+- The 5 km catchment radius and the 10%/80% ward-classification thresholds are data-grounded
+  but remain choices. The underlying continuous measures are retained in
+  `data/processed/ward_classification.csv` for anyone who wants to re-cut them differently.
+- 7 facilities have a register-vs-score-file coordinate mismatch of 800+ km, resolved in
+  favour of the score file's geometry but not independently field-verified — flagged
+  individually in `outputs/logs/score_ingestion_log.md` for follow-up.
